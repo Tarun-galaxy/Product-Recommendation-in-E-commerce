@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Suggestify</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+<div class="app">
+
+    <!-- HEADER -->
+    <div class="top-header">
+        <div class="brand-section">
+            <img src="{{ url_for('static', filename='logo.png') }}" class="logo">
+            <div>
+                <h1 class="brand">Suggestify</h1>
+                <p class="tagline">Shop Smarter, Choose Better.</p>
+            </div>
+        </div>
+
+        <div class="search-icon">
+            🔍
+        </div>
+    </div>
+
+    <!-- FORM CARD -->
+    <div class="card">
+        <form method="POST">
+
+            <select name="gender">
+                {% for g in genders %}
+                <option value="{{ g }}">{{ g }}</option>
+                {% endfor %}
+            </select>
+
+            <select name="location">
+                {% for l in locations %}
+                <option value="{{ l }}">{{ l }}</option>
+                {% endfor %}
+            </select>
+
+            <select name="search_query">
+                {% for q in queries %}
+                <option value="{{ q }}">{{ q }}</option>
+                {% endfor %}
+            </select>
+
+            <button type="submit">✨ Check</button>
+        </form>
+
+        {% if probability %}
+            <div class="result">
+                {% if prediction == 1 %}
+                    <p class="high">🔥 High Buying Chance ({{ probability }}%)</p>
+                {% else %}
+                    <p class="low">⚠ Low Buying Chance ({{ probability }}%)</p>
+                {% endif %}
+            </div>
+        {% endif %}
+    </div>
+
+    <!-- PRODUCT SECTION -->
+    {% if recommendations %}
+    <div class="products-section">
+        <h2>🔥 Recommended For You</h2>
+
+        <div class="horizontal-scroll">
+            {% for product in recommendations %}
+            <div class="product-card">
+                <img src="https://via.placeholder.com/120">
+                <h3>{{ product.Product_Name }}</h3>
+                <p class="rating">⭐ {{ product.Rating }}</p>
+                <p class="price">₹{{ product.Price }}</p>
+                <p class="brand-name">{{ product.Brand }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endif %}
+
+</div>
+
+</body>
+</html>

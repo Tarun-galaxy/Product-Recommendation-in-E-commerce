@@ -1,0 +1,171 @@
+/* ===== BODY ===== */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(180deg, #0f0c29, #302b63, #24243e);
+    color: white;
+}
+
+.app {
+    max-width: 1200px;
+    margin: auto;
+    padding: 25px;
+}
+
+/* ===== HEADER ===== */
+.top-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 30px;
+}
+
+.brand-section {
+    display: flex;
+    align-items: center;
+    gap: 6px; /* reduced gap */
+}
+
+/* Logo */
+.logo {
+    width: 95px;   /* bigger */
+    height: auto;
+    object-fit: contain;
+    margin-right: 2px; /* bring closer */
+}
+
+/* Brand Title */
+.brand {
+    margin: 0;
+    padding: 0;
+    font-size: 32px;
+    font-weight: 700;
+    background: linear-gradient(90deg, #8e2de2, #4a00e0);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* Tagline */
+.tagline {
+    margin: 2px 0 0 0;
+    font-size: 14px;
+    color: #aaa;
+}
+
+/* Search Icon */
+.search-icon {
+    font-size: 20px;
+    cursor: pointer;
+    background: #1f1b3a;
+    padding: 10px 14px;
+    border-radius: 12px;
+    transition: 0.3s;
+}
+
+.search-icon:hover {
+    background: #2d2a52;
+}
+
+/* ===== FORM CARD ===== */
+.card {
+    background: #1f1b3a;
+    padding: 20px;
+    border-radius: 18px;
+    margin-bottom: 35px;
+}
+
+select, button {
+    width: 100%;
+    padding: 12px;
+    margin: 10px 0;
+    border-radius: 14px;
+    border: none;
+}
+
+select {
+    background: #2d2a52;
+    color: white;
+}
+
+button {
+    background: linear-gradient(90deg, #8e2de2, #4a00e0);
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+button:hover {
+    opacity: 0.9;
+}
+
+/* ===== RESULT ===== */
+.high { color: #00ff88; }
+.low { color: #ff5e5e; }
+
+/* ===== PRODUCT SECTION ===== */
+.products-section h2 {
+    margin-bottom: 15px;
+}
+
+/* Horizontal scroll */
+.horizontal-scroll {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+}
+
+.horizontal-scroll::-webkit-scrollbar {
+    height: 6px;
+}
+
+.horizontal-scroll::-webkit-scrollbar-thumb {
+    background: #444;
+    border-radius: 10px;
+}
+
+/* Product Card */
+.product-card {
+    min-width: 220px;
+    background: #1f1b3a;
+    padding: 18px;
+    border-radius: 18px;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.product-card:hover {
+    transform: translateY(-8px) scale(1.05);
+    box-shadow: 0 15px 35px rgba(0,0,0,0.4);
+}
+
+.product-card img {
+    width: 100%;
+    border-radius: 12px;
+    margin-bottom: 12px;
+}
+
+.product-card h3 {
+    font-size: 16px;
+    margin: 0 0 6px 0;
+}
+
+/* Golden Rating */
+.rating {
+    color: gold;
+    font-weight: bold;
+    margin: 5px 0;
+}
+
+/* Price */
+.price {
+    color: #00ff88;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Brand name */
+.brand-name {
+    color: #aaa;
+    font-size: 14px;
+}

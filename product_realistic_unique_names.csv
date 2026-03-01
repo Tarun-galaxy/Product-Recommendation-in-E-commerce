@@ -1,0 +1,1001 @@
+User_ID,Age,Gender,Location,Total_Purchases,Average_Spending,Product_ID,Product_Name,Brand,Product_Type,Category,Price,Rating,Discount,Search_Query,Time_Spent_On_Product,Click_Count,Cart_Added,Bought
+U2685,44,Male,Mumbai,72,19964.07,P70698,Zara Casual T-Shirt,Zara,T-Shirt,Clothing,38204.87,4.2,30,t-shirt,26,21,Yes,1
+U5936,39,Female,Chennai,87,1932.21,P92210,HP Pavilion 15,HP,Laptop,Electronics,8064.79,2.7,52,laptop,10,15,Yes,0
+U5695,34,Female,Mumbai,68,29151.52,P78079,Dove Intense Repair Shampoo,Dove,Shampoo,Beauty,25358.98,3.0,29,shampoo,37,6,Yes,0
+U2711,44,Female,Mumbai,23,12345.34,P93318,OnePlus 11 5G,OnePlus,Smartphone,Electronics,59885.72,4.0,38,smartphone,3,7,No,0
+U3414,31,Female,Delhi,9,14698.65,P14074,Zara ComfortPro Active,Zara,T-Shirt,Clothing,41984.15,3.9,13,t-shirt,22,6,No,0
+U3561,47,Female,Chennai,57,11624.38,P31887,Levi's 511 Slim Jeans,Levi's,Jeans,Clothing,58506.86,2.7,6,jeans,8,14,No,0
+U1811,39,Female,Hyderabad,91,12465.66,P65635,Dove HyperBoost Active,Dove,Shampoo,Beauty,25370.96,4.5,9,shampoo,14,15,No,0
+U7373,18,Male,Delhi,51,29756.5,P67179,L'Oreal Paris Total Repair Shampoo,L'Oreal,Shampoo,Beauty,16045.58,4.2,52,shampoo,12,18,No,1
+U8693,58,Male,Kolkata,87,26884.63,P56477,Mamaearth Onion Shampoo,Mamaearth,Shampoo,Beauty,98926.27,2.7,56,shampoo,60,31,Yes,1
+U8841,18,Male,Bangalore,7,18096.53,P95915,Mamaearth UrbanStep Neo,Mamaearth,Shampoo,Beauty,83928.43,4.0,60,shampoo,43,18,Yes,1
+U5287,41,Male,Delhi,88,37609.21,P41655,HP AirFlex Prime,HP,Laptop,Electronics,24165.25,4.4,1,laptop,8,6,Yes,1
+U6263,48,Female,Hyderabad,7,7426.0,P63343,L'Oreal AirFlex Neo,L'Oreal,Shampoo,Beauty,78195.46,3.3,52,shampoo,2,16,Yes,1
+U6716,29,Female,Hyderabad,18,24890.95,P69634,Levi's SmartFit Advance,Levi's,Jeans,Clothing,7777.35,5.0,54,jeans,39,23,No,1
+U7167,43,Male,Chennai,57,37861.45,P45792,Lenovo IdeaPad 3,Lenovo,Laptop,Electronics,77019.99,2.9,6,laptop,6,25,Yes,0
+U5377,56,Female,Hyderabad,9,7740.99,P96765,Mamaearth HyperBoost Max,Mamaearth,Shampoo,Beauty,30767.59,4.2,15,shampoo,57,12,Yes,1
+U1611,39,Male,Hyderabad,60,46295.2,P63503,Zara SmartFit Active,Zara,T-Shirt,Clothing,37323.55,4.3,31,t-shirt,57,25,No,0
+U5831,34,Male,Chennai,96,4621.5,P49313,OnePlus ComfortPro Fusion,OnePlus,Smartphone,Electronics,88078.9,4.0,56,smartphone,39,6,Yes,1
+U6375,35,Male,Pune,73,44387.13,P15355,L'Oreal TrailBlaze Max,L'Oreal,Shampoo,Beauty,13451.69,3.4,16,shampoo,56,38,Yes,0
+U5439,35,Male,Chennai,33,40671.58,P14700,L'Oreal SmartFit Prime,L'Oreal,Shampoo,Beauty,73288.21,3.7,45,shampoo,31,11,Yes,1
+U3850,31,Female,Delhi,78,36221.2,P31643,Levi's HyperBoost Pro X,Levi's,Jeans,Clothing,13924.74,3.1,3,jeans,25,25,No,0
+U2272,56,Male,Delhi,71,47234.13,P30329,Head & Shoulders Anti-Dandruff Shampoo,Head & Shoulders,Shampoo,Beauty,6146.57,2.5,21,shampoo,45,24,Yes,0
+U1238,52,Male,Chennai,22,12768.58,P36828,Zara VisionX Elite,Zara,T-Shirt,Clothing,76733.79,3.5,46,t-shirt,16,40,Yes,1
+U1648,43,Female,Pune,1,26832.38,P47217,OnePlus AirFlex Edge,OnePlus,Smartphone,Electronics,28792.08,4.4,25,smartphone,17,4,No,0
+U8204,27,Female,Mumbai,82,48581.0,P51640,L'Oreal TrailBlaze Neo,L'Oreal,Shampoo,Beauty,16715.74,2.9,25,shampoo,5,5,No,0
+U1870,33,Male,Pune,75,23678.65,P25878,Apple iPhone 14,Apple,Smartphone,Electronics,75381.29,2.9,11,smartphone,41,23,Yes,0
+U7241,22,Female,Pune,64,12028.76,P18418,Apple VisionX Elite,Apple,Smartphone,Electronics,73048.22,4.5,10,smartphone,38,24,Yes,1
+U9183,54,Male,Delhi,82,4338.36,P58555,Pantene Smooth & Silky Shampoo,Pantene,Shampoo,Beauty,1656.96,2.9,30,shampoo,28,40,Yes,0
+U8850,42,Male,Chennai,56,33436.53,P41459,Boat Rockerz 450,Boat,Headphones,Electronics,13826.02,3.8,17,headphones,12,24,Yes,1
+U1147,45,Male,Hyderabad,96,37238.58,P56447,Zara TrailBlaze Ultra,Zara,T-Shirt,Clothing,96657.95,4.2,52,t-shirt,6,23,Yes,1
+U2984,47,Female,Mumbai,74,36255.9,P86212,Dove UrbanStep Prime,Dove,Shampoo,Beauty,9487.36,4.5,19,shampoo,10,8,No,0
+U7473,45,Female,Pune,3,7392.5,P85423,Puma RS-X Sneakers,Puma,Sneakers,Sports,53515.3,4.1,23,sneakers,33,8,Yes,1
+U5260,38,Female,Bangalore,43,39476.08,P31050,Zara TrailBlaze Max,Zara,T-Shirt,Clothing,98859.62,4.1,45,t-shirt,14,16,Yes,1
+U6631,45,Female,Delhi,62,20903.38,P29211,HP VisionX Active,HP,Laptop,Electronics,22033.28,5.0,58,laptop,50,37,No,1
+U8188,45,Male,Bangalore,79,44255.66,P60841,L'Oreal UrbanStep Core,L'Oreal,Shampoo,Beauty,91507.34,4.5,43,shampoo,52,35,Yes,1
+U4809,41,Male,Chennai,24,45633.45,P61327,Samsung Galaxy S23,Samsung,Smartphone,Electronics,90097.61,4.7,7,smartphone,36,17,No,0
+U5223,22,Male,Pune,27,24476.66,P44462,OnePlus SmartFit Elite,OnePlus,Smartphone,Electronics,39145.01,4.1,48,smartphone,45,19,Yes,1
+U1819,42,Male,Kolkata,33,31929.74,P92064,OnePlus ComfortPro Elite,OnePlus,Smartphone,Electronics,87758.34,3.9,35,smartphone,49,24,Yes,1
+U7200,34,Male,Mumbai,51,40069.26,P27544,Zara AirFlex Active,Zara,T-Shirt,Clothing,21507.08,3.3,52,t-shirt,40,17,Yes,1
+U2993,58,Male,Chennai,31,21847.76,P87708,Puma HyperBoost Prime,Puma,Sneakers,Sports,67263.36,4.0,34,sneakers,7,11,No,0
+U4605,47,Male,Delhi,94,46108.36,P65104,Mamaearth TrailBlaze Ultra,Mamaearth,Shampoo,Beauty,9267.93,3.8,52,shampoo,58,7,No,0
+U7097,48,Male,Mumbai,87,44811.47,P25484,Dove AirFlex Plus,Dove,Shampoo,Beauty,90693.12,4.3,11,shampoo,42,23,Yes,1
+U1417,35,Female,Delhi,16,19389.76,P95634,Levi's SmartFit Fusion,Levi's,Jeans,Clothing,44269.98,4.7,14,jeans,40,26,No,0
+U8668,60,Male,Bangalore,12,13408.0,P36829,Samsung HyperBoost Pro X,Samsung,Smartphone,Electronics,69109.86,2.9,7,smartphone,53,34,No,0
+U3683,25,Female,Kolkata,79,24853.02,P74486,Dove VisionX Neo,Dove,Shampoo,Beauty,94589.72,3.7,49,shampoo,19,37,No,1
+U2784,28,Male,Mumbai,72,43836.1,P50121,Pantene TrailBlaze Elite,Pantene,Shampoo,Beauty,93934.07,4.1,49,shampoo,25,25,Yes,1
+U2716,58,Female,Bangalore,86,3138.74,P10426,Puma UrbanStep Neo,Puma,Sneakers,Sports,20921.19,4.3,20,sneakers,16,34,No,0
+U5074,30,Male,Delhi,71,38033.05,P20450,HP HyperBoost Active,HP,Laptop,Electronics,52637.44,4.7,58,laptop,54,22,No,1
+U8431,26,Male,Mumbai,1,48111.77,P64817,Puma UrbanStep Plus,Puma,Sneakers,Sports,57169.32,3.5,27,sneakers,11,25,No,0
+U5372,25,Female,Bangalore,79,20681.91,P79045,Adidas Ultraboost 22,Adidas,Running Shoes,Sports,27869.38,4.5,34,running shoes,56,8,No,0
+U6426,43,Male,Chennai,83,24422.39,P76078,Boat SmartFit Fusion,Boat,Headphones,Electronics,96410.73,4.4,42,headphones,18,17,Yes,1
+U6222,44,Male,Hyderabad,67,39840.81,P61012,Head UrbanStep Plus,Head & Shoulders,Shampoo,Beauty,40142.73,3.1,54,shampoo,3,18,Yes,1
+U6696,27,Female,Delhi,22,36232.44,P19599,Pantene PowerRun Core,Pantene,Shampoo,Beauty,97487.8,3.9,26,shampoo,56,15,No,0
+U6945,42,Female,Mumbai,31,26777.72,P48297,Apple SmartFit Edge,Apple,Smartphone,Electronics,78630.6,4.1,5,smartphone,57,12,Yes,1
+U7995,49,Male,Delhi,87,49934.89,P10296,Lenovo UrbanStep Ultra,Lenovo,Laptop,Electronics,17829.09,3.9,56,laptop,37,14,Yes,1
+U5500,32,Female,Mumbai,15,33476.52,P22704,Boat HyperBoost Elite,Boat,Headphones,Electronics,12668.85,3.6,24,headphones,50,25,Yes,1
+U4796,23,Male,Chennai,4,30821.65,P93249,Puma PowerRun Ultra,Puma,Sneakers,Sports,57109.75,3.8,0,sneakers,49,4,No,0
+U5071,25,Male,Bangalore,83,12886.1,P78754,Head UrbanStep Max,Head & Shoulders,Shampoo,Beauty,42753.39,2.8,37,shampoo,59,11,Yes,0
+U5248,25,Female,Kolkata,20,44194.63,P78431,Levi's VisionX Advance,Levi's,Jeans,Clothing,99575.02,4.7,12,jeans,30,16,No,0
+U5398,37,Male,Mumbai,72,42403.47,P98229,Puma ComfortPro Plus,Puma,Sneakers,Sports,40283.6,4.1,18,sneakers,50,13,Yes,1
+U8371,28,Female,Bangalore,6,17813.78,P60992,HP UrbanStep Elite,HP,Laptop,Electronics,16038.9,3.1,32,laptop,44,20,No,0
+U8202,29,Male,Mumbai,17,6883.64,P67127,Pantene SmartFit Fusion,Pantene,Shampoo,Beauty,49641.05,2.9,0,shampoo,48,8,Yes,0
+U3573,60,Male,Pune,99,569.59,P14871,Lenovo SmartFit Elite,Lenovo,Laptop,Electronics,740.84,2.6,16,laptop,60,24,No,0
+U9369,58,Male,Kolkata,71,11947.04,P26187,Samsung PowerRun Elite,Samsung,Smartphone,Electronics,32369.76,4.3,12,smartphone,47,9,Yes,1
+U5164,57,Male,Pune,98,9723.3,P64967,L'Oreal VisionX Neo,L'Oreal,Shampoo,Beauty,22591.25,4.3,55,shampoo,57,38,No,1
+U7214,39,Female,Kolkata,87,26823.23,P66511,Pantene UrbanStep Fusion,Pantene,Shampoo,Beauty,54115.55,2.7,9,shampoo,4,29,No,0
+U3559,37,Female,Mumbai,62,6235.87,P85030,Levi's SmartFit Max,Levi's,Jeans,Clothing,14015.63,2.5,31,jeans,16,11,No,0
+U7291,50,Female,Mumbai,19,2864.71,P29138,Puma AirFlex Edge,Puma,Sneakers,Sports,30825.45,4.3,15,sneakers,37,11,No,0
+U2473,18,Female,Bangalore,94,43921.47,P52728,Levi's ComfortPro Elite,Levi's,Jeans,Clothing,10613.08,4.5,34,jeans,35,1,No,0
+U1056,45,Female,Chennai,88,24462.82,P32309,Mamaearth PowerRun Edge,Mamaearth,Shampoo,Beauty,24327.58,4.5,22,shampoo,52,10,No,0
+U1442,45,Male,Hyderabad,66,5126.52,P64533,Boat AirFlex Active,Boat,Headphones,Electronics,35779.98,2.7,37,headphones,20,21,No,0
+U4928,57,Male,Hyderabad,30,16678.09,P18867,Zara UrbanStep Edge,Zara,T-Shirt,Clothing,17923.99,3.7,31,t-shirt,41,33,Yes,1
+U5119,54,Female,Hyderabad,30,38533.77,P10865,Nike Air Zoom Pegasus,Nike,Running Shoes,Sports,89792.38,4.8,50,running shoes,34,34,Yes,1
+U6314,60,Male,Kolkata,8,45039.39,P72225,HP UrbanStep Neo,HP,Laptop,Electronics,15098.98,2.6,42,laptop,44,36,Yes,1
+U9702,28,Male,Delhi,91,17895.99,P97788,Levi's UrbanStep Elite,Levi's,Jeans,Clothing,31997.44,4.4,8,jeans,4,5,Yes,0
+U3272,37,Male,Delhi,22,47701.01,P49433,Zara HyperBoost Advance,Zara,T-Shirt,Clothing,36355.52,2.7,57,t-shirt,55,29,No,1
+U2247,27,Male,Pune,71,13841.26,P58249,Adidas VisionX Prime,Adidas,Running Shoes,Sports,49066.72,3.4,40,running shoes,36,20,No,0
+U3760,42,Male,Mumbai,48,839.0,P13664,Mamaearth PowerRun Neo,Mamaearth,Shampoo,Beauty,16742.69,3.7,10,shampoo,49,36,No,0
+U1624,56,Male,Pune,67,42635.31,P32267,Adidas AirFlex Ultra,Adidas,Running Shoes,Sports,83996.81,4.8,37,running shoes,54,40,No,0
+U4800,53,Female,Delhi,69,17748.34,P47061,Apple VisionX Active,Apple,Smartphone,Electronics,49571.29,3.0,23,smartphone,32,18,No,0
+U8965,57,Female,Pune,92,4857.11,P12377,Apple SmartFit Neo,Apple,Smartphone,Electronics,41890.51,3.7,10,smartphone,53,35,No,0
+U5802,50,Male,Pune,3,20064.52,P97614,Dove SmartFit Elite,Dove,Shampoo,Beauty,46090.84,4.9,12,shampoo,48,28,Yes,1
+U4554,51,Female,Chennai,64,32288.25,P90474,Pantene PowerRun Neo,Pantene,Shampoo,Beauty,15617.86,3.6,48,shampoo,29,21,No,1
+U3732,37,Female,Delhi,23,27504.85,P81364,Dove HyperBoost Neo,Dove,Shampoo,Beauty,19281.27,2.7,25,shampoo,35,39,No,0
+U1419,27,Female,Kolkata,92,12820.25,P37065,Adidas TrailBlaze Plus,Adidas,Running Shoes,Sports,40197.62,3.1,0,running shoes,23,10,No,0
+U4595,41,Female,Chennai,84,37446.76,P44603,OnePlus ComfortPro Prime,OnePlus,Smartphone,Electronics,66742.91,4.4,18,smartphone,4,14,No,0
+U1562,33,Male,Chennai,15,35333.95,P71682,Dove ComfortPro Prime,Dove,Shampoo,Beauty,81427.44,2.9,41,shampoo,33,28,Yes,1
+U6617,29,Female,Pune,77,4306.18,P52198,Pantene AirFlex Core,Pantene,Shampoo,Beauty,89656.04,4.9,7,shampoo,48,10,Yes,1
+U7258,45,Male,Bangalore,71,30765.15,P14750,Puma UrbanStep Fusion,Puma,Sneakers,Sports,31788.12,4.4,9,sneakers,5,8,No,0
+U4161,25,Female,Bangalore,23,36392.95,P16339,Dove UrbanStep Fusion,Dove,Shampoo,Beauty,15237.52,3.0,44,shampoo,56,32,Yes,1
+U9646,30,Male,Chennai,6,20898.42,P83529,Mamaearth AirFlex Max,Mamaearth,Shampoo,Beauty,53913.46,2.6,40,shampoo,30,25,No,0
+U8582,28,Male,Chennai,51,8596.88,P70562,Apple PowerRun Edge,Apple,Smartphone,Electronics,66615.0,3.5,22,smartphone,49,10,Yes,1
+U9450,39,Male,Delhi,80,42724.67,P73870,Lenovo SmartFit Neo,Lenovo,Laptop,Electronics,49620.23,3.6,4,laptop,13,12,Yes,1
+U8438,44,Male,Delhi,27,29727.06,P95678,Zara VisionX Active,Zara,T-Shirt,Clothing,52236.36,3.4,17,t-shirt,32,8,Yes,0
+U5185,35,Male,Mumbai,94,25857.57,P38243,OnePlus VisionX Prime,OnePlus,Smartphone,Electronics,93626.18,3.2,19,smartphone,49,12,No,0
+U5557,35,Male,Bangalore,83,16939.43,P99789,Boat AirFlex Advance,Boat,Headphones,Electronics,63461.11,4.2,39,headphones,16,1,No,0
+U1086,35,Male,Hyderabad,18,31246.23,P12935,Mamaearth SmartFit Elite,Mamaearth,Shampoo,Beauty,79292.3,4.8,16,shampoo,60,33,No,0
+U2464,24,Female,Mumbai,84,41030.34,P45084,Adidas TrailBlaze Ultra,Adidas,Running Shoes,Sports,1142.09,3.1,25,running shoes,32,30,No,0
+U1183,48,Female,Pune,28,31950.52,P16030,Apple TrailBlaze Active,Apple,Smartphone,Electronics,41734.97,4.0,15,smartphone,6,14,No,0
+U6363,46,Female,Mumbai,6,13132.98,P16084,Apple PowerRun Max,Apple,Smartphone,Electronics,89848.4,3.6,20,smartphone,18,1,No,0
+U8210,60,Male,Hyderabad,85,21929.37,P65336,Dove TrailBlaze Prime,Dove,Shampoo,Beauty,17731.84,5.0,32,shampoo,24,3,No,0
+U6710,37,Male,Delhi,37,11692.33,P39471,Adidas PowerRun Pro X,Adidas,Running Shoes,Sports,25217.11,4.8,20,running shoes,1,30,No,0
+U2259,53,Female,Pune,54,17136.77,P33128,L'Oreal AirFlex Edge,L'Oreal,Shampoo,Beauty,95607.81,3.6,1,shampoo,59,20,Yes,1
+U3288,28,Male,Kolkata,12,43318.53,P41598,Dove HyperBoost Fusion,Dove,Shampoo,Beauty,78030.46,3.5,45,shampoo,10,35,Yes,1
+U9648,22,Female,Kolkata,20,9820.91,P94320,OnePlus UrbanStep Advance,OnePlus,Smartphone,Electronics,5068.11,4.4,53,smartphone,30,40,Yes,1
+U1180,29,Male,Hyderabad,22,42703.36,P82357,Zara TrailBlaze Advance,Zara,T-Shirt,Clothing,35582.62,4.3,16,t-shirt,26,20,Yes,1
+U3812,43,Male,Pune,11,1943.74,P94632,Mamaearth SmartFit Advance,Mamaearth,Shampoo,Beauty,79510.75,2.7,57,shampoo,50,9,No,0
+U3569,26,Female,Delhi,99,9703.74,P44466,HP AirFlex Advance,HP,Laptop,Electronics,4316.65,3.5,14,laptop,5,29,No,0
+U2932,35,Male,Pune,37,35436.84,P63423,Puma ComfortPro Ultra,Puma,Sneakers,Sports,61869.3,3.0,9,sneakers,16,16,Yes,0
+U4304,47,Female,Mumbai,74,2041.37,P72787,Adidas VisionX Neo,Adidas,Running Shoes,Sports,90194.81,2.8,36,running shoes,19,11,Yes,0
+U8217,40,Female,Chennai,29,4810.26,P77020,Puma VisionX Advance,Puma,Sneakers,Sports,90607.15,3.9,3,sneakers,7,37,Yes,1
+U9835,56,Male,Mumbai,47,22125.53,P31443,OnePlus PowerRun Pro X,OnePlus,Smartphone,Electronics,11099.35,3.9,25,smartphone,8,2,Yes,1
+U6309,42,Female,Pune,35,21189.15,P89882,Samsung SmartFit Pro X,Samsung,Smartphone,Electronics,20712.9,3.2,39,smartphone,14,38,No,0
+U6719,21,Male,Bangalore,52,13451.06,P74607,Levi's AirFlex Plus,Levi's,Jeans,Clothing,4186.76,3.8,29,jeans,45,40,Yes,1
+U9354,23,Male,Mumbai,93,47981.78,P26333,Puma UrbanStep Core,Puma,Sneakers,Sports,49969.56,3.5,48,sneakers,11,8,Yes,1
+U5673,29,Male,Hyderabad,42,9680.38,P57595,HP SmartFit Advance,HP,Laptop,Electronics,64230.26,4.0,22,laptop,16,26,No,0
+U4965,49,Male,Pune,16,6395.97,P75152,Dove VisionX Advance,Dove,Shampoo,Beauty,17479.81,4.8,21,shampoo,35,32,Yes,1
+U2610,34,Male,Kolkata,34,27456.12,P48603,Adidas VisionX Pro X,Adidas,Running Shoes,Sports,65463.79,2.6,16,running shoes,30,39,Yes,0
+U1800,48,Male,Chennai,36,40447.06,P60602,Puma ComfortPro Advance,Puma,Sneakers,Sports,23143.03,3.1,14,sneakers,5,24,No,0
+U1329,56,Male,Delhi,78,20427.82,P84351,Mamaearth PowerRun Advance,Mamaearth,Shampoo,Beauty,73891.7,4.3,30,shampoo,35,35,Yes,1
+U3129,57,Female,Mumbai,56,32560.77,P10641,L'Oreal VisionX Edge,L'Oreal,Shampoo,Beauty,41973.67,3.8,5,shampoo,9,14,Yes,1
+U4281,35,Female,Pune,10,44227.75,P47919,HP AirFlex Active,HP,Laptop,Electronics,11104.61,3.8,33,laptop,33,10,Yes,1
+U1103,31,Male,Pune,66,26006.78,P42966,Apple VisionX Neo,Apple,Smartphone,Electronics,13103.3,5.0,9,smartphone,55,20,No,0
+U8632,49,Male,Chennai,94,28889.46,P97871,Pantene HyperBoost Advance,Pantene,Shampoo,Beauty,57349.95,4.0,14,shampoo,30,1,Yes,1
+U4512,31,Female,Kolkata,96,673.64,P90303,HP TrailBlaze Active,HP,Laptop,Electronics,63457.1,3.9,49,laptop,3,10,No,0
+U1300,56,Male,Bangalore,43,45285.45,P94814,Samsung HyperBoost Core,Samsung,Smartphone,Electronics,1451.41,2.7,46,smartphone,36,15,No,0
+U1256,27,Male,Bangalore,21,36768.72,P60300,Puma SmartFit Plus,Puma,Sneakers,Sports,52372.31,4.5,14,sneakers,55,22,No,0
+U6657,34,Male,Hyderabad,76,23632.83,P46986,Boat ComfortPro Prime,Boat,Headphones,Electronics,82552.91,4.1,57,headphones,48,38,Yes,1
+U8376,58,Female,Mumbai,53,35946.62,P65369,Nike AirFlex Prime,Nike,Running Shoes,Sports,99970.54,4.6,42,running shoes,39,19,No,1
+U8667,24,Female,Hyderabad,100,12741.54,P88987,Puma AirFlex Fusion,Puma,Sneakers,Sports,952.03,3.9,23,sneakers,55,32,Yes,1
+U6861,27,Female,Bangalore,5,42979.92,P40555,Pantene SmartFit Prime,Pantene,Shampoo,Beauty,19759.6,2.6,31,shampoo,22,40,No,0
+U4121,27,Male,Bangalore,30,49390.83,P55691,Nike UrbanStep Max,Nike,Running Shoes,Sports,57090.46,3.5,59,running shoes,25,37,Yes,1
+U3114,43,Female,Delhi,21,3710.37,P61845,OnePlus TrailBlaze Neo,OnePlus,Smartphone,Electronics,54519.47,2.5,22,smartphone,12,5,No,0
+U5291,31,Male,Bangalore,78,44718.71,P69521,Apple HyperBoost Elite,Apple,Smartphone,Electronics,41059.48,3.7,54,smartphone,47,14,Yes,1
+U4856,41,Male,Delhi,64,7903.05,P42801,Puma VisionX Active,Puma,Sneakers,Sports,48581.22,4.1,39,sneakers,1,35,Yes,0
+U6490,44,Female,Mumbai,95,36916.78,P88120,Pantene PowerRun Plus,Pantene,Shampoo,Beauty,73272.25,2.8,27,shampoo,29,12,No,0
+U5295,18,Female,Bangalore,16,38886.14,P38773,Boat AirFlex Core,Boat,Headphones,Electronics,41064.12,4.1,43,headphones,39,39,Yes,1
+U4653,52,Male,Mumbai,13,41537.33,P82618,L'Oreal ComfortPro Advance,L'Oreal,Shampoo,Beauty,30839.69,3.0,30,shampoo,15,29,Yes,0
+U6148,34,Female,Delhi,100,18006.98,P95731,Lenovo ComfortPro Pro X,Lenovo,Laptop,Electronics,29798.72,2.8,38,laptop,51,5,Yes,0
+U3004,48,Male,Kolkata,36,23372.29,P73701,Mamaearth HyperBoost Pro X,Mamaearth,Shampoo,Beauty,60283.12,4.1,16,shampoo,21,30,No,0
+U1210,38,Female,Delhi,44,22940.7,P87864,L'Oreal HyperBoost Max,L'Oreal,Shampoo,Beauty,15509.92,3.4,31,shampoo,14,32,No,0
+U4494,49,Male,Bangalore,43,12656.76,P85193,Boat UrbanStep Ultra,Boat,Headphones,Electronics,43077.34,4.3,25,headphones,27,15,Yes,1
+U6956,27,Female,Chennai,0,44120.65,P32143,Samsung UrbanStep Neo,Samsung,Smartphone,Electronics,6186.11,2.9,22,smartphone,16,40,Yes,0
+U3340,30,Male,Chennai,4,14977.77,P24655,Adidas VisionX Edge,Adidas,Running Shoes,Sports,49278.33,3.5,3,running shoes,41,39,Yes,1
+U7098,25,Male,Mumbai,42,2314.56,P36054,Levi's UrbanStep Plus,Levi's,Jeans,Clothing,33186.37,2.8,57,jeans,35,8,Yes,0
+U3402,34,Male,Pune,67,40912.94,P78350,Samsung UrbanStep Prime,Samsung,Smartphone,Electronics,62892.51,3.6,29,smartphone,60,32,No,0
+U7304,18,Female,Kolkata,67,7666.05,P11694,L'Oreal PowerRun Ultra,L'Oreal,Shampoo,Beauty,82894.82,2.9,23,shampoo,59,23,Yes,0
+U9659,43,Male,Pune,54,31499.61,P44363,Apple PowerRun Ultra,Apple,Smartphone,Electronics,81636.63,3.7,55,smartphone,13,19,No,1
+U3125,21,Female,Chennai,3,10436.07,P82223,Lenovo AirFlex Plus,Lenovo,Laptop,Electronics,19580.07,4.3,56,laptop,28,19,No,1
+U8530,20,Male,Mumbai,31,5799.33,P21814,Zara ComfortPro Prime,Zara,T-Shirt,Clothing,29555.41,3.7,33,t-shirt,45,23,Yes,1
+U1638,48,Male,Hyderabad,99,24372.91,P77739,Samsung TrailBlaze Ultra,Samsung,Smartphone,Electronics,54817.05,4.4,52,smartphone,12,19,No,1
+U7890,57,Female,Kolkata,40,23369.55,P39211,Pantene TrailBlaze Neo,Pantene,Shampoo,Beauty,14448.79,5.0,29,shampoo,29,8,No,0
+U8352,58,Male,Hyderabad,0,23593.39,P54170,HP ComfortPro Elite,HP,Laptop,Electronics,784.52,4.2,54,laptop,33,40,No,1
+U9369,46,Female,Delhi,33,17425.34,P37142,Dove VisionX Prime,Dove,Shampoo,Beauty,76708.38,3.5,58,shampoo,14,6,Yes,1
+U3607,49,Male,Kolkata,7,14200.36,P74046,Apple ComfortPro Prime,Apple,Smartphone,Electronics,6058.41,4.3,39,smartphone,15,3,No,0
+U4920,32,Male,Delhi,7,36874.09,P54818,Apple TrailBlaze Max,Apple,Smartphone,Electronics,75593.71,3.3,57,smartphone,45,21,No,1
+U8878,30,Female,Bangalore,39,4803.37,P91167,Apple VisionX Max,Apple,Smartphone,Electronics,43881.38,4.1,15,smartphone,3,1,Yes,0
+U8829,48,Female,Delhi,12,36691.46,P99472,Mamaearth UrbanStep Prime,Mamaearth,Shampoo,Beauty,73302.45,4.9,47,shampoo,48,27,Yes,1
+U8577,19,Female,Pune,36,33236.21,P35724,Mamaearth VisionX Active,Mamaearth,Shampoo,Beauty,76463.95,3.7,51,shampoo,49,3,No,0
+U9880,44,Male,Chennai,6,39806.27,P65204,OnePlus AirFlex Pro X,OnePlus,Smartphone,Electronics,42415.56,4.7,14,smartphone,52,1,Yes,1
+U3546,22,Female,Chennai,54,23054.14,P40364,Adidas SmartFit Ultra,Adidas,Running Shoes,Sports,61552.7,3.5,52,running shoes,14,2,No,0
+U3152,58,Female,Kolkata,96,18003.46,P90194,Zara PowerRun Advance,Zara,T-Shirt,Clothing,78296.9,4.0,19,t-shirt,19,38,Yes,1
+U1988,53,Female,Bangalore,67,8816.72,P17642,Dove TrailBlaze Elite,Dove,Shampoo,Beauty,96340.52,2.9,2,shampoo,19,15,Yes,0
+U4108,44,Female,Pune,46,9558.43,P27457,Nike ComfortPro Ultra,Nike,Running Shoes,Sports,4329.1,3.9,46,running shoes,23,12,Yes,1
+U5675,37,Male,Kolkata,80,43874.63,P96164,Samsung ComfortPro Max,Samsung,Smartphone,Electronics,94049.18,3.3,8,smartphone,42,3,No,0
+U3426,40,Female,Delhi,49,37430.1,P64517,Puma VisionX Max,Puma,Sneakers,Sports,72031.35,3.9,1,sneakers,13,3,Yes,1
+U1879,22,Male,Chennai,31,34966.18,P66608,Levi's TrailBlaze Ultra,Levi's,Jeans,Clothing,28241.31,3.9,16,jeans,45,20,No,0
+U2522,45,Male,Pune,59,12520.14,P52773,Head SmartFit Prime,Head & Shoulders,Shampoo,Beauty,1176.88,3.6,7,shampoo,46,21,No,0
+U8640,48,Female,Hyderabad,65,21150.28,P28656,Dove ComfortPro Max,Dove,Shampoo,Beauty,75203.18,4.5,37,shampoo,58,39,No,0
+U6133,21,Male,Delhi,11,18689.85,P88172,Puma SmartFit Pro X,Puma,Sneakers,Sports,40051.98,4.8,19,sneakers,57,11,Yes,1
+U9779,51,Female,Hyderabad,50,21001.38,P38859,Dove VisionX Edge,Dove,Shampoo,Beauty,68984.72,3.2,13,shampoo,2,11,No,0
+U3087,25,Female,Kolkata,34,11593.88,P91049,Mamaearth UrbanStep Elite,Mamaearth,Shampoo,Beauty,43262.61,4.7,2,shampoo,13,40,No,0
+U2025,54,Female,Delhi,17,36768.67,P85231,Mamaearth HyperBoost Edge,Mamaearth,Shampoo,Beauty,79195.46,4.8,29,shampoo,7,28,No,0
+U8831,22,Male,Kolkata,17,37795.75,P26897,Head PowerRun Plus,Head & Shoulders,Shampoo,Beauty,50676.53,2.9,4,shampoo,34,27,No,0
+U4513,24,Female,Bangalore,26,18066.28,P37940,Levi's TrailBlaze Prime,Levi's,Jeans,Clothing,26378.64,3.7,47,jeans,47,30,Yes,1
+U8798,44,Female,Delhi,98,1678.61,P54851,Apple TrailBlaze Ultra,Apple,Smartphone,Electronics,64970.2,4.5,22,smartphone,18,29,No,0
+U8007,59,Male,Chennai,81,5026.43,P87413,Nike HyperBoost Max,Nike,Running Shoes,Sports,10753.26,3.6,54,running shoes,6,27,No,1
+U6103,55,Male,Mumbai,31,31149.4,P80139,Nike HyperBoost Active,Nike,Running Shoes,Sports,61558.45,4.3,37,running shoes,7,10,Yes,1
+U3358,45,Male,Pune,24,23223.76,P51292,Samsung PowerRun Active,Samsung,Smartphone,Electronics,19578.47,4.6,2,smartphone,59,25,Yes,1
+U2664,20,Male,Pune,15,35141.99,P82431,Puma TrailBlaze Edge,Puma,Sneakers,Sports,86791.22,2.9,49,sneakers,25,7,No,0
+U5761,28,Female,Kolkata,31,37890.02,P86812,Pantene ComfortPro Elite,Pantene,Shampoo,Beauty,82141.15,4.2,47,shampoo,33,5,Yes,1
+U9015,25,Male,Pune,2,39449.47,P56981,Nike VisionX Active,Nike,Running Shoes,Sports,68391.55,3.0,6,running shoes,52,13,No,0
+U6345,60,Female,Mumbai,87,15634.16,P98187,Boat ComfortPro Advance,Boat,Headphones,Electronics,91778.06,3.1,31,headphones,59,8,Yes,0
+U4726,46,Male,Hyderabad,35,37629.9,P99103,Dove UrbanStep Edge,Dove,Shampoo,Beauty,34031.45,3.6,5,shampoo,15,13,Yes,1
+U5254,18,Male,Bangalore,71,30593.68,P47006,OnePlus TrailBlaze Pro X,OnePlus,Smartphone,Electronics,85415.43,3.1,57,smartphone,16,5,No,0
+U8913,45,Male,Bangalore,40,34990.64,P89166,Apple VisionX Plus,Apple,Smartphone,Electronics,78024.41,2.7,32,smartphone,28,19,No,0
+U5945,59,Female,Kolkata,74,10678.14,P94992,OnePlus PowerRun Advance,OnePlus,Smartphone,Electronics,41888.58,4.1,37,smartphone,23,35,No,0
+U9121,56,Male,Mumbai,49,25217.06,P95176,Levi's ComfortPro Active,Levi's,Jeans,Clothing,42670.03,3.2,45,jeans,19,15,No,0
+U9690,50,Female,Delhi,73,20145.93,P40246,Mamaearth PowerRun Ultra,Mamaearth,Shampoo,Beauty,77796.61,3.0,3,shampoo,19,2,Yes,0
+U5716,24,Male,Chennai,78,18122.49,P32275,Levi's PowerRun Ultra,Levi's,Jeans,Clothing,43523.18,4.8,37,jeans,2,32,No,0
+U5866,58,Male,Mumbai,15,2733.82,P47873,Dove PowerRun Neo,Dove,Shampoo,Beauty,11448.44,3.5,8,shampoo,14,30,No,0
+U7422,49,Female,Bangalore,25,19940.72,P44699,Apple VisionX Edge,Apple,Smartphone,Electronics,51578.21,3.5,45,smartphone,24,31,No,1
+U8337,23,Male,Chennai,99,33889.85,P76776,Nike ComfortPro Active,Nike,Running Shoes,Sports,50082.9,3.9,32,running shoes,1,37,No,0
+U7445,37,Male,Pune,87,24518.73,P21859,Nike TrailBlaze Max,Nike,Running Shoes,Sports,41329.03,2.5,25,running shoes,53,37,Yes,0
+U6072,35,Male,Hyderabad,96,4147.37,P15510,OnePlus VisionX Fusion,OnePlus,Smartphone,Electronics,61665.29,4.6,49,smartphone,5,17,No,1
+U9593,58,Female,Chennai,4,14389.66,P76636,HP SmartFit Prime,HP,Laptop,Electronics,93482.06,5.0,31,laptop,56,17,No,0
+U7682,28,Male,Pune,97,42421.03,P46806,Levi's HyperBoost Fusion,Levi's,Jeans,Clothing,63160.68,3.6,60,jeans,42,29,No,1
+U2220,20,Female,Delhi,55,43167.98,P19551,Samsung VisionX Core,Samsung,Smartphone,Electronics,16913.08,4.3,44,smartphone,60,28,No,1
+U3768,26,Male,Kolkata,77,32377.51,P34452,Nike HyperBoost Fusion,Nike,Running Shoes,Sports,96306.51,2.8,34,running shoes,11,8,Yes,0
+U5419,35,Female,Hyderabad,91,19053.94,P39495,Zara UrbanStep Advance,Zara,T-Shirt,Clothing,73552.83,4.4,60,t-shirt,43,23,No,1
+U7953,58,Female,Chennai,79,2959.15,P65329,Lenovo VisionX Active,Lenovo,Laptop,Electronics,14130.19,5.0,47,laptop,33,17,No,1
+U2572,40,Female,Pune,0,22731.72,P63683,Puma TrailBlaze Core,Puma,Sneakers,Sports,98094.1,4.0,3,sneakers,17,22,Yes,1
+U9919,23,Female,Hyderabad,33,33974.22,P78369,Mamaearth TrailBlaze Core,Mamaearth,Shampoo,Beauty,52728.37,4.0,22,shampoo,21,27,No,0
+U2558,45,Female,Delhi,12,12928.93,P68693,Samsung AirFlex Active,Samsung,Smartphone,Electronics,22152.65,3.5,17,smartphone,31,30,No,0
+U7377,58,Female,Hyderabad,82,8302.13,P74755,Dove HyperBoost Max,Dove,Shampoo,Beauty,97465.38,4.2,21,shampoo,49,36,No,0
+U1614,43,Male,Kolkata,0,39641.21,P18076,Boat VisionX Elite,Boat,Headphones,Electronics,11487.99,4.6,11,headphones,14,6,No,0
+U4554,51,Female,Pune,50,40375.54,P74032,L'Oreal AirFlex Pro X,L'Oreal,Shampoo,Beauty,22169.8,2.8,56,shampoo,52,20,No,1
+U8642,33,Male,Bangalore,26,37127.72,P42621,Nike AirFlex Active,Nike,Running Shoes,Sports,67735.55,4.2,3,running shoes,50,11,Yes,1
+U3342,54,Female,Hyderabad,63,37006.72,P94628,Zara AirFlex Elite,Zara,T-Shirt,Clothing,99201.67,2.9,57,t-shirt,53,32,Yes,1
+U2953,19,Male,Bangalore,24,1342.86,P61715,Head ComfortPro Elite,Head & Shoulders,Shampoo,Beauty,47965.85,2.6,34,shampoo,8,10,No,0
+U3854,58,Male,Kolkata,59,35257.17,P97299,Adidas HyperBoost Neo,Adidas,Running Shoes,Sports,15778.95,3.4,39,running shoes,31,15,Yes,0
+U4505,59,Male,Mumbai,81,30998.45,P62879,Apple UrbanStep Plus,Apple,Smartphone,Electronics,92998.54,3.6,20,smartphone,57,1,Yes,1
+U3833,28,Female,Kolkata,7,25250.69,P65586,Levi's PowerRun Prime,Levi's,Jeans,Clothing,50282.1,4.6,39,jeans,26,27,Yes,1
+U3549,18,Male,Kolkata,63,48714.39,P63294,Apple TrailBlaze Elite,Apple,Smartphone,Electronics,9492.29,2.6,34,smartphone,27,1,No,0
+U4876,40,Female,Mumbai,57,22991.4,P58026,OnePlus HyperBoost Edge,OnePlus,Smartphone,Electronics,1776.53,2.6,56,smartphone,54,28,No,1
+U6030,39,Male,Kolkata,58,5337.41,P85001,Puma SmartFit Core,Puma,Sneakers,Sports,79541.94,3.1,9,sneakers,50,25,Yes,0
+U3122,60,Female,Kolkata,85,1197.3,P21775,HP PowerRun Plus,HP,Laptop,Electronics,12064.33,3.9,12,laptop,56,16,Yes,1
+U6088,33,Female,Mumbai,3,20846.63,P99976,Zara PowerRun Active,Zara,T-Shirt,Clothing,54723.86,3.2,35,t-shirt,4,24,No,0
+U4992,25,Male,Hyderabad,0,26151.77,P62452,Apple ComfortPro Fusion,Apple,Smartphone,Electronics,60103.96,4.5,24,smartphone,27,32,Yes,1
+U7056,60,Male,Pune,82,23370.28,P81642,Puma HyperBoost Edge,Puma,Sneakers,Sports,52603.16,2.7,7,sneakers,17,32,Yes,0
+U4032,51,Female,Pune,7,15898.98,P70078,HP SmartFit Plus,HP,Laptop,Electronics,36274.35,4.7,25,laptop,7,34,No,0
+U2821,60,Male,Chennai,3,25053.04,P64622,Nike UrbanStep Plus,Nike,Running Shoes,Sports,51990.6,3.7,60,running shoes,31,9,Yes,1
+U1568,42,Female,Mumbai,51,44887.63,P23109,Levi's HyperBoost Prime,Levi's,Jeans,Clothing,8238.63,3.3,29,jeans,9,9,No,0
+U1164,22,Male,Chennai,8,25447.09,P60601,Head TrailBlaze Elite,Head & Shoulders,Shampoo,Beauty,41947.01,3.0,32,shampoo,44,35,No,0
+U8901,30,Female,Kolkata,88,30631.53,P71505,Pantene HyperBoost Fusion,Pantene,Shampoo,Beauty,24187.07,3.3,22,shampoo,19,30,No,0
+U8940,53,Female,Kolkata,18,22079.89,P89744,Puma AirFlex Plus,Puma,Sneakers,Sports,17645.63,3.3,16,sneakers,52,8,No,0
+U8677,40,Male,Pune,10,7780.9,P86088,Zara ComfortPro Plus,Zara,T-Shirt,Clothing,10571.92,4.0,34,t-shirt,47,32,Yes,1
+U7652,59,Female,Kolkata,84,28197.55,P88825,Puma ComfortPro Edge,Puma,Sneakers,Sports,68749.03,3.8,58,sneakers,44,9,Yes,1
+U8485,23,Male,Pune,12,34498.79,P45739,Head AirFlex Plus,Head & Shoulders,Shampoo,Beauty,96615.29,2.9,19,shampoo,30,36,No,0
+U9746,40,Female,Bangalore,81,22713.36,P63636,Zara TrailBlaze Fusion,Zara,T-Shirt,Clothing,13605.99,2.9,7,t-shirt,47,6,Yes,0
+U6993,18,Male,Mumbai,84,44254.93,P96410,Boat UrbanStep Pro X,Boat,Headphones,Electronics,60912.98,3.0,21,headphones,14,22,Yes,0
+U6595,29,Female,Kolkata,56,29323.59,P73565,Nike AirFlex Ultra,Nike,Running Shoes,Sports,37850.5,2.7,46,running shoes,22,29,Yes,1
+U7662,32,Female,Chennai,92,32552.32,P57120,Apple ComfortPro Active,Apple,Smartphone,Electronics,20561.74,2.9,46,smartphone,3,35,No,1
+U1876,41,Female,Pune,4,22086.28,P30436,Nike ComfortPro Core,Nike,Running Shoes,Sports,69264.41,4.9,41,running shoes,11,39,No,1
+U2782,60,Female,Mumbai,65,41793.02,P83769,Levi's SmartFit Active,Levi's,Jeans,Clothing,76587.34,4.3,12,jeans,46,34,Yes,1
+U8918,57,Female,Kolkata,19,12865.86,P95515,HP ComfortPro Max,HP,Laptop,Electronics,86576.54,3.6,5,laptop,38,40,Yes,1
+U5974,25,Female,Mumbai,92,46510.37,P99372,Mamaearth HyperBoost Fusion,Mamaearth,Shampoo,Beauty,26889.38,4.4,28,shampoo,37,3,No,0
+U2336,40,Female,Mumbai,84,27325.33,P34818,Boat PowerRun Edge,Boat,Headphones,Electronics,90630.82,3.4,3,headphones,13,39,Yes,0
+U3879,49,Male,Bangalore,37,19048.2,P80613,Zara PowerRun Prime,Zara,T-Shirt,Clothing,18658.31,3.1,59,t-shirt,57,29,No,1
+U5509,56,Male,Hyderabad,4,34212.8,P37340,Nike SmartFit Prime,Nike,Running Shoes,Sports,71062.37,3.8,12,running shoes,56,34,No,0
+U9363,36,Male,Hyderabad,40,10223.1,P96242,Puma PowerRun Plus,Puma,Sneakers,Sports,4895.22,3.2,46,sneakers,53,34,Yes,1
+U6161,43,Male,Delhi,11,16645.52,P80715,Levi's HyperBoost Elite,Levi's,Jeans,Clothing,15707.62,4.6,18,jeans,12,18,No,0
+U1152,36,Male,Delhi,2,17982.48,P85933,Samsung SmartFit Advance,Samsung,Smartphone,Electronics,89031.03,2.9,15,smartphone,27,14,No,0
+U6567,26,Male,Bangalore,36,47928.09,P53979,OnePlus AirFlex Max,OnePlus,Smartphone,Electronics,88932.7,2.6,39,smartphone,3,28,Yes,0
+U4774,39,Female,Mumbai,85,31788.29,P24440,Lenovo VisionX Max,Lenovo,Laptop,Electronics,96408.66,4.7,11,laptop,37,12,Yes,1
+U1387,21,Male,Hyderabad,34,5473.3,P47591,L'Oreal PowerRun Prime,L'Oreal,Shampoo,Beauty,92113.65,3.1,37,shampoo,59,4,No,0
+U3414,28,Female,Mumbai,1,35247.67,P35812,L'Oreal ComfortPro Fusion,L'Oreal,Shampoo,Beauty,40264.49,3.1,7,shampoo,20,31,No,0
+U8436,50,Male,Kolkata,63,27020.87,P34810,Lenovo UrbanStep Elite,Lenovo,Laptop,Electronics,32252.28,3.5,12,laptop,33,28,No,0
+U1879,27,Male,Kolkata,86,19986.95,P61052,Pantene ComfortPro Prime,Pantene,Shampoo,Beauty,88068.05,2.7,18,shampoo,56,1,Yes,0
+U8066,55,Male,Kolkata,95,23738.64,P89536,Head HyperBoost Neo,Head & Shoulders,Shampoo,Beauty,60665.03,2.9,43,shampoo,34,18,Yes,1
+U9618,22,Female,Mumbai,70,20252.55,P40378,Adidas SmartFit Prime,Adidas,Running Shoes,Sports,33399.3,4.0,56,running shoes,60,10,Yes,1
+U9340,39,Female,Delhi,13,23334.61,P47942,Boat PowerRun Neo,Boat,Headphones,Electronics,95059.92,3.0,4,headphones,13,26,No,0
+U3499,23,Male,Pune,48,19525.34,P64704,Pantene HyperBoost Active,Pantene,Shampoo,Beauty,82032.86,2.9,35,shampoo,32,13,No,0
+U5693,42,Male,Hyderabad,12,15012.02,P17632,Levi's AirFlex Elite,Levi's,Jeans,Clothing,74057.94,4.3,24,jeans,23,10,Yes,1
+U2004,29,Male,Mumbai,45,48988.15,P78537,Puma SmartFit Max,Puma,Sneakers,Sports,96378.72,3.4,27,sneakers,1,29,Yes,0
+U8064,59,Female,Hyderabad,14,29797.82,P83819,L'Oreal SmartFit Plus,L'Oreal,Shampoo,Beauty,98748.81,4.7,51,shampoo,30,37,No,1
+U9336,27,Female,Hyderabad,18,11289.49,P36801,Adidas ComfortPro Prime,Adidas,Running Shoes,Sports,63596.28,4.2,24,running shoes,13,32,Yes,1
+U1896,44,Female,Mumbai,72,18111.33,P86107,Mamaearth TrailBlaze Active,Mamaearth,Shampoo,Beauty,40252.15,4.4,37,shampoo,19,40,No,0
+U8854,31,Male,Pune,63,24090.89,P49431,Adidas ComfortPro Max,Adidas,Running Shoes,Sports,13809.98,3.0,40,running shoes,54,14,Yes,0
+U6288,44,Male,Kolkata,10,8310.13,P80324,Nike HyperBoost Edge,Nike,Running Shoes,Sports,20864.51,3.4,56,running shoes,30,30,No,1
+U8675,31,Male,Delhi,10,28545.41,P40035,Boat ComfortPro Ultra,Boat,Headphones,Electronics,68638.73,3.4,5,headphones,16,22,No,0
+U9093,50,Female,Mumbai,13,31132.94,P48028,Samsung VisionX Advance,Samsung,Smartphone,Electronics,38069.78,4.3,36,smartphone,28,19,No,0
+U4688,39,Female,Delhi,87,38365.15,P89878,HP AirFlex Ultra,HP,Laptop,Electronics,77233.24,3.6,50,laptop,19,30,Yes,1
+U7792,31,Male,Delhi,53,27326.77,P41479,Nike TrailBlaze Fusion,Nike,Running Shoes,Sports,6053.51,3.5,31,running shoes,50,5,No,0
+U8954,28,Male,Chennai,21,27339.18,P36221,HP UrbanStep Core,HP,Laptop,Electronics,32445.66,2.9,26,laptop,50,18,Yes,0
+U2911,54,Female,Delhi,77,44607.51,P51975,Boat ComfortPro Plus,Boat,Headphones,Electronics,33719.85,4.4,12,headphones,58,7,No,0
+U5076,22,Female,Kolkata,41,3165.55,P11437,Dove SmartFit Max,Dove,Shampoo,Beauty,15290.04,3.8,58,shampoo,26,21,Yes,1
+U2059,25,Male,Mumbai,6,43307.83,P68843,Nike ComfortPro Edge,Nike,Running Shoes,Sports,80185.92,2.7,36,running shoes,53,37,No,0
+U5284,24,Male,Pune,51,16262.5,P27616,Levi's VisionX Active,Levi's,Jeans,Clothing,39229.61,3.9,39,jeans,48,24,No,0
+U5612,52,Male,Mumbai,56,4296.51,P18928,Adidas ComfortPro Neo,Adidas,Running Shoes,Sports,31111.94,4.0,37,running shoes,53,21,No,0
+U8953,44,Male,Mumbai,57,33791.79,P52084,Samsung UrbanStep Elite,Samsung,Smartphone,Electronics,17938.76,4.2,49,smartphone,52,5,No,0
+U1540,35,Female,Bangalore,85,48070.8,P59868,HP PowerRun Ultra,HP,Laptop,Electronics,38238.79,4.9,3,laptop,34,22,Yes,1
+U2091,38,Male,Mumbai,34,19874.01,P43296,Apple PowerRun Elite,Apple,Smartphone,Electronics,84786.41,3.3,28,smartphone,29,32,No,0
+U6277,43,Male,Pune,7,20503.49,P91942,Mamaearth TrailBlaze Fusion,Mamaearth,Shampoo,Beauty,91059.6,4.6,38,shampoo,15,3,Yes,1
+U7737,28,Female,Delhi,45,2733.56,P96272,Samsung VisionX Elite,Samsung,Smartphone,Electronics,31620.3,3.8,10,smartphone,28,31,Yes,1
+U3946,54,Female,Kolkata,46,40687.31,P73699,Lenovo SmartFit Advance,Lenovo,Laptop,Electronics,84447.09,2.8,44,laptop,22,33,Yes,1
+U3283,45,Male,Kolkata,45,41406.27,P53961,Lenovo UrbanStep Pro X,Lenovo,Laptop,Electronics,86193.25,3.6,52,laptop,52,38,Yes,1
+U7547,26,Male,Kolkata,10,25999.11,P84265,Head PowerRun Core,Head & Shoulders,Shampoo,Beauty,2900.07,2.7,22,shampoo,5,31,Yes,0
+U2919,52,Male,Pune,28,15139.46,P43028,Boat UrbanStep Advance,Boat,Headphones,Electronics,36957.05,2.5,34,headphones,16,39,No,0
+U5249,20,Female,Bangalore,27,16520.39,P56573,L'Oreal SmartFit Pro X,L'Oreal,Shampoo,Beauty,58130.56,3.1,47,shampoo,56,39,No,1
+U7620,27,Male,Hyderabad,73,47616.89,P56570,Puma UrbanStep Ultra,Puma,Sneakers,Sports,86230.2,4.0,26,sneakers,10,21,No,0
+U7148,18,Female,Delhi,41,8101.07,P65423,Nike UrbanStep Neo,Nike,Running Shoes,Sports,55621.53,3.1,32,running shoes,49,18,No,0
+U2057,34,Male,Pune,63,40196.74,P32754,HP AirFlex Plus,HP,Laptop,Electronics,64954.87,3.1,10,laptop,56,36,No,0
+U7164,26,Male,Mumbai,5,18728.99,P68066,Adidas TrailBlaze Core,Adidas,Running Shoes,Sports,46844.5,4.5,12,running shoes,9,22,No,0
+U8581,38,Female,Hyderabad,82,29013.95,P98077,Mamaearth UrbanStep Advance,Mamaearth,Shampoo,Beauty,73365.21,3.4,7,shampoo,31,8,Yes,0
+U8354,60,Female,Kolkata,63,3871.17,P91397,Boat UrbanStep Fusion,Boat,Headphones,Electronics,47542.46,2.5,40,headphones,54,23,Yes,0
+U2235,59,Male,Chennai,97,8232.27,P16504,Adidas HyperBoost Plus,Adidas,Running Shoes,Sports,45401.65,4.6,45,running shoes,26,25,Yes,1
+U9609,36,Male,Kolkata,39,36108.11,P47210,HP UrbanStep Plus,HP,Laptop,Electronics,29191.5,4.5,16,laptop,13,9,No,0
+U1344,36,Male,Bangalore,93,28001.57,P81692,OnePlus PowerRun Active,OnePlus,Smartphone,Electronics,74007.12,4.2,22,smartphone,20,12,No,0
+U7205,35,Male,Bangalore,61,24064.61,P71115,Mamaearth ComfortPro Core,Mamaearth,Shampoo,Beauty,79430.81,3.0,16,shampoo,21,6,Yes,0
+U9249,25,Female,Pune,46,12921.61,P69295,Levi's TrailBlaze Advance,Levi's,Jeans,Clothing,26787.25,4.1,58,jeans,56,13,No,0
+U5338,43,Female,Kolkata,32,9182.08,P50913,Lenovo HyperBoost Active,Lenovo,Laptop,Electronics,41566.42,3.5,21,laptop,36,29,Yes,1
+U8902,55,Male,Hyderabad,43,10920.91,P82532,Boat SmartFit Edge,Boat,Headphones,Electronics,8603.92,3.5,57,headphones,11,30,Yes,1
+U6991,39,Female,Hyderabad,80,33961.51,P42594,OnePlus VisionX Active,OnePlus,Smartphone,Electronics,64050.49,4.4,45,smartphone,28,10,No,0
+U5875,58,Female,Delhi,40,39615.86,P12029,HP PowerRun Neo,HP,Laptop,Electronics,70301.77,4.2,24,laptop,32,1,No,0
+U6830,18,Male,Delhi,93,19644.23,P13529,L'Oreal SmartFit Advance,L'Oreal,Shampoo,Beauty,18044.23,3.7,1,shampoo,43,9,No,0
+U3858,39,Female,Kolkata,46,5726.86,P37996,Boat UrbanStep Max,Boat,Headphones,Electronics,57257.93,3.7,20,headphones,6,12,No,0
+U1625,40,Male,Kolkata,65,26692.18,P57285,Apple HyperBoost Neo,Apple,Smartphone,Electronics,96776.67,2.8,59,smartphone,42,28,No,1
+U2097,49,Male,Pune,33,8595.49,P11881,Lenovo SmartFit Active,Lenovo,Laptop,Electronics,53743.7,4.6,10,laptop,16,36,Yes,1
+U4921,39,Male,Pune,79,35697.92,P53479,L'Oreal VisionX Advance,L'Oreal,Shampoo,Beauty,93140.97,3.1,4,shampoo,6,37,Yes,0
+U3843,19,Female,Delhi,24,24154.43,P51245,HP SmartFit Core,HP,Laptop,Electronics,86530.41,3.4,49,laptop,31,18,Yes,1
+U8179,30,Male,Mumbai,71,5469.72,P21957,L'Oreal PowerRun Pro X,L'Oreal,Shampoo,Beauty,45884.58,4.9,52,shampoo,2,16,Yes,1
+U8969,30,Male,Hyderabad,31,13755.71,P27807,Lenovo TrailBlaze Elite,Lenovo,Laptop,Electronics,53010.92,2.9,30,laptop,14,12,Yes,0
+U9102,60,Female,Hyderabad,53,8952.2,P17758,Mamaearth UrbanStep Core,Mamaearth,Shampoo,Beauty,35850.48,3.8,56,shampoo,30,15,Yes,1
+U5527,18,Male,Mumbai,86,47184.23,P46598,Zara SmartFit Max,Zara,T-Shirt,Clothing,95000.86,4.6,25,t-shirt,24,27,Yes,1
+U5501,27,Male,Bangalore,93,45909.99,P98458,L'Oreal SmartFit Elite,L'Oreal,Shampoo,Beauty,43165.83,3.5,36,shampoo,17,4,No,0
+U6723,25,Female,Mumbai,1,46533.72,P50565,Levi's PowerRun Fusion,Levi's,Jeans,Clothing,56073.32,3.4,27,jeans,15,7,No,0
+U7557,59,Female,Hyderabad,52,7891.03,P47149,Pantene ComfortPro Max,Pantene,Shampoo,Beauty,28092.51,3.5,43,shampoo,34,29,Yes,1
+U4915,52,Male,Pune,32,19913.76,P45038,Levi's AirFlex Prime,Levi's,Jeans,Clothing,39863.46,3.1,2,jeans,5,16,Yes,0
+U2893,37,Female,Bangalore,57,5849.79,P72354,Boat VisionX Prime,Boat,Headphones,Electronics,44092.06,4.6,7,headphones,46,31,No,0
+U8446,27,Male,Kolkata,66,6772.73,P80640,Zara SmartFit Fusion,Zara,T-Shirt,Clothing,51175.59,4.2,14,t-shirt,56,16,No,0
+U6339,36,Male,Pune,80,10288.33,P43444,HP UrbanStep Ultra,HP,Laptop,Electronics,70980.75,2.6,29,laptop,7,37,No,0
+U4670,45,Male,Hyderabad,44,13810.36,P20768,Zara PowerRun Elite,Zara,T-Shirt,Clothing,73064.48,2.9,4,t-shirt,44,19,Yes,0
+U5307,31,Female,Kolkata,56,47345.73,P57794,Boat SmartFit Prime,Boat,Headphones,Electronics,58159.2,4.2,4,headphones,4,18,Yes,0
+U3316,24,Male,Bangalore,27,26458.96,P83492,HP ComfortPro Ultra,HP,Laptop,Electronics,68759.53,4.6,17,laptop,20,18,No,0
+U6091,32,Male,Kolkata,75,39620.45,P26328,Boat TrailBlaze Max,Boat,Headphones,Electronics,64126.02,4.0,30,headphones,9,24,No,0
+U8643,32,Male,Mumbai,59,24358.27,P33881,Boat SmartFit Max,Boat,Headphones,Electronics,84686.33,2.7,59,headphones,4,5,No,0
+U7993,29,Male,Bangalore,67,31163.87,P64735,Nike VisionX Core,Nike,Running Shoes,Sports,1378.25,4.8,17,running shoes,23,10,No,0
+U4850,24,Female,Hyderabad,20,19522.96,P95777,Levi's HyperBoost Core,Levi's,Jeans,Clothing,64057.04,4.2,59,jeans,25,36,Yes,1
+U6263,45,Female,Chennai,28,47838.29,P86991,Levi's TrailBlaze Max,Levi's,Jeans,Clothing,30620.39,4.9,23,jeans,11,22,No,0
+U9952,45,Female,Kolkata,58,15661.76,P15543,Adidas HyperBoost Elite,Adidas,Running Shoes,Sports,41132.0,2.7,6,running shoes,47,18,Yes,0
+U9372,36,Female,Pune,10,1903.58,P92284,HP UrbanStep Prime,HP,Laptop,Electronics,310.48,2.8,33,laptop,49,12,No,0
+U5706,23,Female,Mumbai,79,40262.25,P91279,Zara AirFlex Plus,Zara,T-Shirt,Clothing,87266.81,2.9,15,t-shirt,5,21,No,0
+U8144,40,Female,Mumbai,23,41225.97,P54969,Nike HyperBoost Ultra,Nike,Running Shoes,Sports,89070.11,3.9,44,running shoes,41,33,Yes,1
+U6567,28,Male,Kolkata,37,42933.59,P84816,Apple AirFlex Ultra,Apple,Smartphone,Electronics,75851.82,4.9,18,smartphone,6,6,No,0
+U3445,26,Male,Bangalore,19,12802.16,P66615,Pantene HyperBoost Plus,Pantene,Shampoo,Beauty,11812.11,4.8,26,shampoo,11,11,Yes,1
+U9033,50,Male,Kolkata,36,5952.4,P62646,Levi's SmartFit Prime,Levi's,Jeans,Clothing,1782.74,3.6,29,jeans,48,1,Yes,1
+U5076,53,Male,Bangalore,31,40460.36,P66037,Adidas UrbanStep Edge,Adidas,Running Shoes,Sports,68198.14,3.3,11,running shoes,38,19,Yes,0
+U3246,41,Male,Bangalore,64,47701.34,P69462,Zara TrailBlaze Prime,Zara,T-Shirt,Clothing,11518.68,4.2,38,t-shirt,50,18,No,0
+U1564,20,Male,Kolkata,15,43304.81,P91537,Nike ComfortPro Plus,Nike,Running Shoes,Sports,14613.17,2.7,26,running shoes,30,23,Yes,0
+U5821,58,Male,Delhi,45,11514.55,P77463,OnePlus AirFlex Active,OnePlus,Smartphone,Electronics,14078.24,4.1,35,smartphone,45,35,Yes,1
+U5086,43,Male,Pune,100,30780.23,P17100,Pantene VisionX Max,Pantene,Shampoo,Beauty,11953.11,2.6,39,shampoo,25,9,Yes,0
+U1115,18,Male,Mumbai,50,26154.63,P40596,Samsung AirFlex Neo,Samsung,Smartphone,Electronics,36471.96,4.4,26,smartphone,8,10,No,0
+U5815,53,Female,Bangalore,36,27675.25,P94159,OnePlus HyperBoost Neo,OnePlus,Smartphone,Electronics,81887.3,4.8,33,smartphone,21,39,No,0
+U9689,38,Female,Mumbai,37,35168.29,P58239,Head VisionX Elite,Head & Shoulders,Shampoo,Beauty,23834.0,3.1,28,shampoo,17,19,Yes,0
+U7570,30,Male,Delhi,75,3876.13,P58808,Puma ComfortPro Pro X,Puma,Sneakers,Sports,79072.73,4.4,35,sneakers,50,25,No,0
+U4005,48,Male,Kolkata,57,36719.27,P36637,Pantene PowerRun Max,Pantene,Shampoo,Beauty,99339.43,2.8,13,shampoo,11,19,No,0
+U2416,43,Male,Chennai,57,11311.73,P58306,OnePlus VisionX Core,OnePlus,Smartphone,Electronics,36724.62,3.4,10,smartphone,49,36,No,0
+U8088,57,Male,Pune,91,10573.2,P71284,Samsung UrbanStep Plus,Samsung,Smartphone,Electronics,39985.03,3.4,53,smartphone,37,22,No,1
+U8607,50,Male,Chennai,83,39375.99,P70785,Apple SmartFit Advance,Apple,Smartphone,Electronics,65986.29,3.7,48,smartphone,44,35,Yes,1
+U1774,41,Male,Delhi,38,1959.84,P42209,Zara UrbanStep Prime,Zara,T-Shirt,Clothing,13835.82,2.5,7,t-shirt,44,35,No,0
+U1802,59,Male,Kolkata,15,26933.95,P85946,Apple AirFlex Plus,Apple,Smartphone,Electronics,63802.11,2.8,30,smartphone,4,6,No,0
+U4374,30,Male,Pune,33,1352.98,P50790,Adidas SmartFit Neo,Adidas,Running Shoes,Sports,19695.24,3.3,45,running shoes,60,31,Yes,1
+U4570,25,Male,Mumbai,33,35768.07,P55841,Apple TrailBlaze Advance,Apple,Smartphone,Electronics,2581.95,3.6,58,smartphone,43,11,Yes,1
+U8769,34,Male,Chennai,26,14098.57,P31786,Pantene SmartFit Plus,Pantene,Shampoo,Beauty,88715.47,4.1,50,shampoo,57,2,Yes,1
+U9389,33,Female,Delhi,6,45530.94,P61359,L'Oreal SmartFit Ultra,L'Oreal,Shampoo,Beauty,95271.48,5.0,16,shampoo,19,29,Yes,1
+U6474,29,Female,Hyderabad,90,15394.44,P15335,HP UrbanStep Active,HP,Laptop,Electronics,22285.08,3.4,52,laptop,5,34,Yes,1
+U4652,22,Male,Pune,45,48779.76,P53456,Mamaearth HyperBoost Active,Mamaearth,Shampoo,Beauty,13455.71,4.3,3,shampoo,53,36,No,0
+U2978,26,Female,Chennai,62,13463.32,P47875,OnePlus VisionX Advance,OnePlus,Smartphone,Electronics,84930.42,3.3,22,smartphone,47,37,No,0
+U3526,30,Female,Pune,47,14712.9,P80833,Zara ComfortPro Ultra,Zara,T-Shirt,Clothing,45996.43,4.6,56,t-shirt,30,36,Yes,1
+U1489,58,Male,Chennai,57,11804.05,P56853,Head SmartFit Elite,Head & Shoulders,Shampoo,Beauty,85215.36,4.9,20,shampoo,6,20,Yes,1
+U9042,35,Female,Chennai,48,45431.59,P80818,Samsung VisionX Neo,Samsung,Smartphone,Electronics,20148.63,4.4,43,smartphone,53,34,No,1
+U4483,35,Male,Pune,88,19221.18,P96031,Puma TrailBlaze Fusion,Puma,Sneakers,Sports,13892.6,3.2,59,sneakers,46,25,Yes,1
+U2022,33,Female,Chennai,98,1174.49,P50524,Puma PowerRun Advance,Puma,Sneakers,Sports,9864.73,4.4,49,sneakers,3,1,Yes,0
+U1859,48,Male,Bangalore,35,36584.94,P71785,Pantene ComfortPro Pro X,Pantene,Shampoo,Beauty,86697.57,5.0,13,shampoo,26,6,No,0
+U8695,30,Female,Delhi,46,24808.65,P21095,Nike AirFlex Fusion,Nike,Running Shoes,Sports,11796.63,4.8,9,running shoes,56,28,Yes,1
+U8040,58,Male,Delhi,86,27265.87,P91654,Lenovo SmartFit Fusion,Lenovo,Laptop,Electronics,64092.38,2.5,60,laptop,48,3,Yes,0
+U3277,49,Female,Delhi,83,47137.16,P94397,Apple HyperBoost Fusion,Apple,Smartphone,Electronics,49612.69,3.7,3,smartphone,26,34,No,0
+U9898,46,Female,Pune,54,32073.75,P73879,Head HyperBoost Elite,Head & Shoulders,Shampoo,Beauty,33640.48,4.5,52,shampoo,56,40,No,1
+U2421,34,Male,Chennai,66,7153.36,P63921,Lenovo VisionX Ultra,Lenovo,Laptop,Electronics,99751.82,4.8,45,laptop,35,37,Yes,1
+U6446,34,Female,Hyderabad,84,32036.49,P32239,HP PowerRun Core,HP,Laptop,Electronics,46288.63,4.2,50,laptop,15,28,Yes,1
+U1252,59,Male,Delhi,56,16810.58,P58857,Pantene SmartFit Max,Pantene,Shampoo,Beauty,72381.32,3.7,45,shampoo,3,34,Yes,1
+U3673,57,Female,Kolkata,62,24883.06,P31049,Boat SmartFit Core,Boat,Headphones,Electronics,55001.51,4.6,23,headphones,59,36,Yes,1
+U8515,49,Female,Mumbai,25,14863.67,P59018,Apple UrbanStep Advance,Apple,Smartphone,Electronics,10341.15,3.7,19,smartphone,28,13,Yes,1
+U8079,30,Female,Chennai,40,19386.85,P24275,Mamaearth TrailBlaze Neo,Mamaearth,Shampoo,Beauty,70071.85,3.6,15,shampoo,16,31,Yes,1
+U2011,26,Male,Kolkata,80,3209.15,P19440,Levi's VisionX Elite,Levi's,Jeans,Clothing,58961.25,2.7,48,jeans,55,23,No,1
+U1830,20,Female,Kolkata,98,13228.0,P51197,L'Oreal TrailBlaze Plus,L'Oreal,Shampoo,Beauty,27444.05,4.3,46,shampoo,54,13,Yes,1
+U2677,47,Female,Mumbai,60,27583.33,P28150,Levi's VisionX Edge,Levi's,Jeans,Clothing,84727.91,3.4,47,jeans,5,13,Yes,0
+U6924,34,Female,Kolkata,8,30763.96,P39741,Head ComfortPro Prime,Head & Shoulders,Shampoo,Beauty,39388.15,4.2,1,shampoo,5,19,Yes,0
+U2068,32,Male,Bangalore,27,14484.05,P38498,Head PowerRun Active,Head & Shoulders,Shampoo,Beauty,17226.63,4.7,44,shampoo,52,26,No,1
+U7701,48,Female,Bangalore,68,45512.11,P85861,Zara PowerRun Fusion,Zara,T-Shirt,Clothing,64862.65,2.7,27,t-shirt,38,7,Yes,0
+U1245,52,Female,Hyderabad,46,39211.01,P23519,Adidas PowerRun Max,Adidas,Running Shoes,Sports,35204.09,4.2,47,running shoes,37,4,Yes,1
+U7695,51,Female,Hyderabad,51,16247.42,P75187,L'Oreal AirFlex Max,L'Oreal,Shampoo,Beauty,64635.12,3.3,15,shampoo,44,25,Yes,0
+U2596,24,Female,Mumbai,69,2608.85,P66350,Apple TrailBlaze Fusion,Apple,Smartphone,Electronics,38191.64,4.5,50,smartphone,8,38,No,1
+U3953,57,Male,Hyderabad,51,48028.52,P10006,Samsung PowerRun Neo,Samsung,Smartphone,Electronics,77512.1,3.4,59,smartphone,24,30,Yes,1
+U9954,25,Female,Pune,34,8312.29,P83256,Mamaearth TrailBlaze Elite,Mamaearth,Shampoo,Beauty,18473.4,4.7,12,shampoo,50,14,Yes,1
+U4845,54,Female,Chennai,78,26768.15,P23679,Boat PowerRun Max,Boat,Headphones,Electronics,10315.39,5.0,58,headphones,20,18,No,1
+U9040,30,Female,Delhi,0,4332.95,P23583,HP SmartFit Pro X,HP,Laptop,Electronics,83309.8,4.1,18,laptop,49,20,No,0
+U3327,60,Female,Hyderabad,31,48135.91,P82977,Boat HyperBoost Advance,Boat,Headphones,Electronics,64660.2,3.9,41,headphones,35,11,No,0
+U6366,53,Male,Kolkata,62,43031.12,P97898,HP TrailBlaze Fusion,HP,Laptop,Electronics,78871.9,3.1,2,laptop,60,30,No,0
+U6588,45,Male,Pune,65,27615.1,P49663,Pantene VisionX Ultra,Pantene,Shampoo,Beauty,25834.96,4.9,11,shampoo,29,3,Yes,1
+U3435,26,Male,Hyderabad,67,45699.18,P75053,L'Oreal HyperBoost Elite,L'Oreal,Shampoo,Beauty,56646.35,2.7,12,shampoo,59,30,No,0
+U7854,33,Male,Mumbai,80,37770.2,P98089,Pantene HyperBoost Neo,Pantene,Shampoo,Beauty,94114.17,3.1,56,shampoo,56,7,Yes,0
+U7221,23,Female,Mumbai,56,10645.64,P11377,Puma VisionX Fusion,Puma,Sneakers,Sports,78620.11,3.2,50,sneakers,41,19,No,1
+U2937,25,Male,Chennai,35,7785.76,P55698,Pantene SmartFit Elite,Pantene,Shampoo,Beauty,51405.5,2.7,56,shampoo,49,11,Yes,0
+U3751,27,Female,Pune,96,41004.4,P43378,L'Oreal VisionX Fusion,L'Oreal,Shampoo,Beauty,6275.49,3.6,47,shampoo,32,36,Yes,1
+U7092,29,Male,Delhi,43,35519.08,P13763,Samsung AirFlex Fusion,Samsung,Smartphone,Electronics,6889.47,4.1,46,smartphone,35,5,No,0
+U9332,50,Female,Mumbai,30,42524.99,P21474,OnePlus ComfortPro Plus,OnePlus,Smartphone,Electronics,79675.19,2.6,34,smartphone,39,36,Yes,0
+U4631,36,Male,Kolkata,84,36664.85,P81989,Adidas UrbanStep Ultra,Adidas,Running Shoes,Sports,75640.12,2.8,43,running shoes,4,29,No,1
+U1190,52,Male,Hyderabad,27,38181.07,P38389,Adidas AirFlex Plus,Adidas,Running Shoes,Sports,71546.17,4.2,21,running shoes,38,33,No,0
+U9128,43,Male,Pune,41,24120.96,P34526,Boat ComfortPro Max,Boat,Headphones,Electronics,21101.43,4.6,36,headphones,12,27,No,0
+U6776,40,Male,Hyderabad,18,49051.17,P15436,Adidas ComfortPro Ultra,Adidas,Running Shoes,Sports,13358.66,4.1,41,running shoes,60,38,Yes,1
+U9500,40,Female,Pune,68,35144.7,P40260,Puma PowerRun Prime,Puma,Sneakers,Sports,71633.62,3.5,17,sneakers,26,8,No,0
+U3799,31,Female,Kolkata,44,8589.93,P91084,Head PowerRun Fusion,Head & Shoulders,Shampoo,Beauty,15125.6,3.9,21,shampoo,51,7,Yes,1
+U2456,38,Male,Kolkata,37,42127.0,P77247,Puma TrailBlaze Pro X,Puma,Sneakers,Sports,76437.68,2.5,15,sneakers,53,37,Yes,0
+U6148,26,Female,Pune,32,6547.96,P59427,Dove UrbanStep Ultra,Dove,Shampoo,Beauty,38444.14,3.3,32,shampoo,34,31,No,0
+U8431,48,Male,Kolkata,66,23243.18,P41770,Pantene ComfortPro Ultra,Pantene,Shampoo,Beauty,14675.7,5.0,56,shampoo,9,4,Yes,1
+U2679,19,Female,Delhi,90,40682.86,P37122,OnePlus SmartFit Fusion,OnePlus,Smartphone,Electronics,27777.18,3.3,18,smartphone,28,7,Yes,0
+U4792,29,Female,Delhi,54,6674.62,P19054,Pantene ComfortPro Plus,Pantene,Shampoo,Beauty,66920.26,4.0,38,shampoo,16,2,Yes,1
+U9504,34,Female,Chennai,97,41555.88,P31285,Boat PowerRun Advance,Boat,Headphones,Electronics,88549.02,4.1,11,headphones,5,11,No,0
+U3301,25,Male,Mumbai,1,8616.31,P42648,Nike SmartFit Advance,Nike,Running Shoes,Sports,81765.34,3.1,53,running shoes,26,36,No,1
+U5438,34,Male,Bangalore,24,20565.92,P96028,Nike ComfortPro Neo,Nike,Running Shoes,Sports,15985.22,3.4,8,running shoes,37,22,Yes,0
+U7118,19,Male,Bangalore,27,25361.77,P51776,HP PowerRun Prime,HP,Laptop,Electronics,79783.29,5.0,51,laptop,21,35,Yes,1
+U3226,24,Female,Pune,77,44367.26,P94166,Puma SmartFit Prime,Puma,Sneakers,Sports,52993.43,4.9,39,sneakers,23,39,No,0
+U2408,26,Male,Mumbai,62,13691.28,P91682,OnePlus SmartFit Plus,OnePlus,Smartphone,Electronics,81155.11,2.9,33,smartphone,31,17,Yes,0
+U6356,48,Female,Bangalore,4,1069.82,P53417,OnePlus ComfortPro Pro X,OnePlus,Smartphone,Electronics,29102.63,5.0,40,smartphone,24,9,No,0
+U7138,48,Female,Chennai,34,5421.08,P57677,Apple TrailBlaze Edge,Apple,Smartphone,Electronics,82484.66,4.6,26,smartphone,57,29,Yes,1
+U2369,54,Male,Delhi,1,7153.76,P85837,Lenovo HyperBoost Prime,Lenovo,Laptop,Electronics,45601.04,2.8,15,laptop,49,37,No,0
+U2676,20,Male,Bangalore,6,15228.33,P28245,Apple UrbanStep Neo,Apple,Smartphone,Electronics,88037.72,3.7,31,smartphone,57,15,Yes,1
+U1246,55,Male,Chennai,32,43134.63,P68668,Pantene TrailBlaze Fusion,Pantene,Shampoo,Beauty,41024.26,4.6,16,shampoo,55,25,No,0
+U6737,33,Female,Pune,68,46820.4,P15616,Dove HyperBoost Edge,Dove,Shampoo,Beauty,82439.33,2.8,8,shampoo,16,25,No,0
+U6208,38,Female,Pune,12,9983.37,P88141,Levi's PowerRun Neo,Levi's,Jeans,Clothing,8298.94,4.6,60,jeans,6,20,Yes,1
+U7979,58,Male,Delhi,55,13339.92,P41843,L'Oreal TrailBlaze Ultra,L'Oreal,Shampoo,Beauty,95138.13,3.7,33,shampoo,59,24,Yes,1
+U2645,25,Male,Delhi,66,24359.14,P90900,Apple VisionX Ultra,Apple,Smartphone,Electronics,59469.05,2.7,54,smartphone,34,35,No,1
+U1215,27,Male,Pune,4,43903.03,P12643,Nike UrbanStep Edge,Nike,Running Shoes,Sports,28351.75,2.7,2,running shoes,58,17,Yes,0
+U4304,18,Male,Chennai,70,6868.5,P82073,Nike UrbanStep Core,Nike,Running Shoes,Sports,50885.17,4.3,20,running shoes,39,10,Yes,1
+U7062,54,Female,Delhi,32,33639.28,P89325,Boat AirFlex Edge,Boat,Headphones,Electronics,37207.81,3.6,15,headphones,5,33,Yes,0
+U4460,51,Male,Chennai,79,35798.82,P16701,Samsung AirFlex Elite,Samsung,Smartphone,Electronics,50418.54,4.2,32,smartphone,39,19,No,0
+U2384,56,Male,Chennai,97,49353.32,P26136,Levi's VisionX Ultra,Levi's,Jeans,Clothing,37823.59,3.1,53,jeans,10,13,No,0
+U7163,36,Female,Delhi,17,6742.85,P85837,Lenovo PowerRun Edge,Lenovo,Laptop,Electronics,20082.38,4.5,45,laptop,42,9,No,0
+U9578,18,Male,Mumbai,100,29024.11,P55903,Adidas VisionX Fusion,Adidas,Running Shoes,Sports,83105.99,4.5,41,running shoes,4,10,Yes,0
+U3874,50,Female,Hyderabad,51,1330.96,P57782,Adidas SmartFit Core,Adidas,Running Shoes,Sports,77697.73,2.6,55,running shoes,16,28,Yes,1
+U5065,20,Male,Kolkata,26,34945.06,P35215,Pantene ComfortPro Active,Pantene,Shampoo,Beauty,65986.79,4.7,56,shampoo,17,10,No,0
+U8570,32,Female,Pune,0,33301.23,P95417,Boat VisionX Neo,Boat,Headphones,Electronics,88671.64,4.1,48,headphones,14,21,No,1
+U7805,38,Male,Hyderabad,67,44780.56,P65883,Dove ComfortPro Active,Dove,Shampoo,Beauty,20775.33,3.7,8,shampoo,52,4,No,0
+U9656,35,Male,Hyderabad,54,29537.53,P30161,Samsung TrailBlaze Active,Samsung,Smartphone,Electronics,15093.81,4.1,11,smartphone,59,27,No,0
+U2986,54,Female,Delhi,51,6102.98,P89813,Lenovo UrbanStep Active,Lenovo,Laptop,Electronics,14473.35,2.6,15,laptop,32,2,No,0
+U9771,36,Female,Pune,13,44896.54,P11442,Apple TrailBlaze Prime,Apple,Smartphone,Electronics,67739.33,4.1,17,smartphone,55,29,Yes,1
+U2838,48,Female,Delhi,63,33527.94,P98969,Levi's ComfortPro Fusion,Levi's,Jeans,Clothing,74191.49,2.6,34,jeans,11,18,Yes,0
+U4125,18,Female,Hyderabad,94,16605.0,P19303,HP SmartFit Edge,HP,Laptop,Electronics,1155.24,4.4,3,laptop,59,16,No,0
+U7378,51,Male,Bangalore,1,35073.07,P75472,L'Oreal SmartFit Max,L'Oreal,Shampoo,Beauty,44377.71,5.0,52,shampoo,25,29,No,1
+U8890,43,Female,Pune,67,15515.94,P52780,OnePlus ComfortPro Max,OnePlus,Smartphone,Electronics,23954.25,4.9,9,smartphone,24,31,Yes,1
+U6158,26,Male,Chennai,78,24126.44,P97557,Head UrbanStep Fusion,Head & Shoulders,Shampoo,Beauty,51043.67,4.9,33,shampoo,39,8,Yes,1
+U6228,20,Female,Kolkata,52,42416.99,P28522,Levi's PowerRun Max,Levi's,Jeans,Clothing,47958.05,4.1,53,jeans,52,33,Yes,1
+U7959,51,Male,Delhi,87,8538.26,P29166,Levi's ComfortPro Ultra,Levi's,Jeans,Clothing,73079.29,5.0,3,jeans,41,29,Yes,1
+U8036,21,Female,Kolkata,94,11585.71,P74620,Levi's SmartFit Elite,Levi's,Jeans,Clothing,62641.8,3.8,2,jeans,12,10,No,0
+U1625,59,Male,Pune,57,1120.96,P20945,Adidas HyperBoost Pro X,Adidas,Running Shoes,Sports,13398.87,5.0,57,running shoes,51,38,No,1
+U4092,45,Male,Bangalore,31,2485.62,P24046,L'Oreal TrailBlaze Advance,L'Oreal,Shampoo,Beauty,80855.49,4.2,5,shampoo,57,3,Yes,1
+U7222,56,Male,Hyderabad,65,27578.8,P25865,Mamaearth AirFlex Active,Mamaearth,Shampoo,Beauty,93232.19,4.9,23,shampoo,9,29,No,0
+U9634,48,Male,Bangalore,34,31026.7,P97570,Apple ComfortPro Max,Apple,Smartphone,Electronics,69481.6,4.3,9,smartphone,56,13,No,0
+U2654,48,Male,Bangalore,68,23507.03,P58350,Adidas HyperBoost Ultra,Adidas,Running Shoes,Sports,1787.46,4.7,10,running shoes,15,22,No,0
+U9947,27,Female,Delhi,52,24315.3,P71191,Head PowerRun Neo,Head & Shoulders,Shampoo,Beauty,22439.35,3.3,60,shampoo,32,34,No,1
+U7285,43,Male,Kolkata,89,24447.52,P15623,Dove UrbanStep Core,Dove,Shampoo,Beauty,60017.25,4.1,51,shampoo,9,29,Yes,1
+U8897,53,Male,Mumbai,19,38766.28,P68338,Zara TrailBlaze Plus,Zara,T-Shirt,Clothing,24171.38,3.2,47,t-shirt,28,15,No,0
+U4653,36,Female,Pune,11,16455.31,P26185,Apple AirFlex Core,Apple,Smartphone,Electronics,31236.31,4.8,30,smartphone,16,4,Yes,1
+U5461,59,Male,Pune,90,25874.25,P72995,Apple AirFlex Fusion,Apple,Smartphone,Electronics,51373.02,4.1,47,smartphone,47,31,Yes,1
+U7486,54,Male,Mumbai,85,26488.66,P14102,Boat SmartFit Elite,Boat,Headphones,Electronics,12316.7,4.9,1,headphones,27,19,Yes,1
+U7566,36,Male,Kolkata,24,9171.81,P44382,Puma ComfortPro Max,Puma,Sneakers,Sports,66845.39,4.5,31,sneakers,50,25,No,0
+U3243,27,Female,Bangalore,79,8206.65,P60252,Zara UrbanStep Neo,Zara,T-Shirt,Clothing,46228.07,2.8,59,t-shirt,18,29,Yes,1
+U6335,31,Male,Hyderabad,74,27505.2,P60011,Head SmartFit Fusion,Head & Shoulders,Shampoo,Beauty,33705.02,4.4,26,shampoo,15,39,No,0
+U6103,31,Male,Kolkata,37,36879.07,P31143,Apple AirFlex Prime,Apple,Smartphone,Electronics,65404.09,3.1,5,smartphone,37,32,No,0
+U9238,34,Female,Bangalore,36,9987.32,P74516,Puma ComfortPro Fusion,Puma,Sneakers,Sports,7474.11,3.0,26,sneakers,56,14,No,0
+U5978,55,Female,Pune,94,3057.37,P32523,Mamaearth UrbanStep Pro X,Mamaearth,Shampoo,Beauty,89866.13,2.9,10,shampoo,30,12,No,0
+U9645,31,Female,Mumbai,96,15779.48,P16920,Nike UrbanStep Elite,Nike,Running Shoes,Sports,63229.62,4.0,57,running shoes,60,38,No,1
+U6258,47,Female,Delhi,22,41978.86,P80141,Boat SmartFit Active,Boat,Headphones,Electronics,87285.33,3.4,54,headphones,55,29,No,1
+U3126,23,Male,Kolkata,6,11301.77,P42827,Mamaearth HyperBoost Elite,Mamaearth,Shampoo,Beauty,65298.48,2.9,36,shampoo,1,19,Yes,0
+U6992,59,Female,Mumbai,76,31283.35,P93923,Levi's TrailBlaze Active,Levi's,Jeans,Clothing,58520.03,2.7,26,jeans,27,21,Yes,0
+U2425,35,Male,Hyderabad,32,2461.12,P34251,Dove SmartFit Active,Dove,Shampoo,Beauty,70462.58,4.5,47,shampoo,9,30,Yes,1
+U2043,50,Female,Chennai,26,39991.33,P22165,Boat TrailBlaze Plus,Boat,Headphones,Electronics,96616.85,4.8,26,headphones,3,5,No,0
+U8486,23,Male,Hyderabad,78,8611.01,P58005,Adidas SmartFit Fusion,Adidas,Running Shoes,Sports,38654.22,4.9,13,running shoes,54,11,Yes,1
+U2594,34,Male,Bangalore,50,16590.09,P63612,Samsung HyperBoost Neo,Samsung,Smartphone,Electronics,17097.66,3.2,41,smartphone,11,36,No,1
+U9448,31,Female,Kolkata,95,5290.31,P37326,Nike TrailBlaze Active,Nike,Running Shoes,Sports,45417.49,3.0,7,running shoes,18,22,Yes,0
+U2999,56,Female,Delhi,65,12535.54,P24311,Puma ComfortPro Prime,Puma,Sneakers,Sports,34342.78,2.5,10,sneakers,10,32,Yes,0
+U6079,34,Male,Pune,76,22706.18,P13790,Nike HyperBoost Prime,Nike,Running Shoes,Sports,10451.52,4.7,46,running shoes,6,7,Yes,1
+U2081,26,Male,Kolkata,85,39698.41,P39614,Dove AirFlex Pro X,Dove,Shampoo,Beauty,33536.94,4.7,17,shampoo,46,14,No,0
+U1744,57,Male,Pune,64,17108.94,P17844,Pantene UrbanStep Neo,Pantene,Shampoo,Beauty,77360.34,2.5,60,shampoo,41,9,No,0
+U4421,46,Male,Mumbai,89,687.25,P39315,OnePlus AirFlex Fusion,OnePlus,Smartphone,Electronics,85052.15,4.0,15,smartphone,30,34,No,0
+U8630,44,Male,Kolkata,51,19621.53,P70881,HP AirFlex Elite,HP,Laptop,Electronics,86009.02,3.2,24,laptop,2,18,No,0
+U4311,34,Female,Chennai,75,13347.65,P92842,Head SmartFit Max,Head & Shoulders,Shampoo,Beauty,97999.14,4.4,12,shampoo,42,8,Yes,1
+U7712,28,Male,Chennai,12,26112.84,P37147,OnePlus TrailBlaze Active,OnePlus,Smartphone,Electronics,59101.45,2.6,0,smartphone,22,39,Yes,0
+U7643,23,Female,Delhi,23,36342.03,P61712,OnePlus UrbanStep Max,OnePlus,Smartphone,Electronics,19494.85,2.7,52,smartphone,34,13,No,0
+U3262,30,Male,Hyderabad,18,46498.57,P61250,Zara UrbanStep Plus,Zara,T-Shirt,Clothing,46728.53,3.9,18,t-shirt,58,8,No,0
+U9831,36,Female,Kolkata,52,30190.98,P44501,L'Oreal UrbanStep Ultra,L'Oreal,Shampoo,Beauty,52631.9,4.9,1,shampoo,48,14,No,0
+U8859,49,Female,Kolkata,46,10174.26,P44644,Mamaearth TrailBlaze Edge,Mamaearth,Shampoo,Beauty,11666.22,3.4,22,shampoo,2,8,No,0
+U4571,59,Male,Delhi,53,22558.5,P77917,Mamaearth UrbanStep Ultra,Mamaearth,Shampoo,Beauty,13383.01,3.5,0,shampoo,23,39,No,0
+U5896,44,Female,Hyderabad,24,40822.19,P40047,Boat VisionX Edge,Boat,Headphones,Electronics,38890.98,3.7,50,headphones,29,36,No,1
+U5233,23,Male,Mumbai,55,18324.45,P60287,Head AirFlex Ultra,Head & Shoulders,Shampoo,Beauty,73695.22,3.8,6,shampoo,33,4,No,0
+U3730,49,Male,Mumbai,8,39696.18,P48987,Levi's UrbanStep Ultra,Levi's,Jeans,Clothing,99154.87,4.1,29,jeans,12,23,No,0
+U9000,33,Female,Mumbai,37,45494.97,P86417,Dove AirFlex Fusion,Dove,Shampoo,Beauty,57101.27,4.4,18,shampoo,32,30,No,0
+U9349,58,Male,Hyderabad,42,28621.27,P33057,Mamaearth ComfortPro Max,Mamaearth,Shampoo,Beauty,33630.14,4.0,55,shampoo,2,7,Yes,0
+U1594,46,Male,Delhi,85,18339.6,P88203,HP UrbanStep Edge,HP,Laptop,Electronics,47020.1,3.5,50,laptop,7,19,Yes,1
+U1642,32,Female,Chennai,97,10602.04,P37766,OnePlus VisionX Neo,OnePlus,Smartphone,Electronics,50445.57,4.9,56,smartphone,46,9,Yes,1
+U5725,24,Male,Hyderabad,23,29750.31,P39707,Dove ComfortPro Core,Dove,Shampoo,Beauty,24357.47,4.7,49,shampoo,8,32,Yes,1
+U8285,37,Female,Hyderabad,82,24272.89,P85970,Dove HyperBoost Pro X,Dove,Shampoo,Beauty,14714.59,4.2,28,shampoo,32,16,Yes,1
+U5843,46,Male,Pune,58,44944.41,P32431,Boat VisionX Active,Boat,Headphones,Electronics,96867.53,3.2,14,headphones,12,17,No,0
+U5382,31,Female,Hyderabad,74,24667.43,P20928,Dove ComfortPro Ultra,Dove,Shampoo,Beauty,93004.79,2.6,47,shampoo,28,37,No,1
+U2327,21,Female,Delhi,35,35872.18,P98013,Apple HyperBoost Core,Apple,Smartphone,Electronics,79991.95,4.8,32,smartphone,8,15,No,0
+U6286,40,Female,Chennai,60,23374.23,P60087,Nike PowerRun Advance,Nike,Running Shoes,Sports,17304.61,4.5,43,running shoes,51,22,Yes,1
+U3847,56,Male,Mumbai,96,14783.82,P17100,Samsung VisionX Max,Samsung,Smartphone,Electronics,72717.44,3.6,14,smartphone,22,40,Yes,1
+U7691,55,Female,Mumbai,62,39902.01,P30099,Mamaearth AirFlex Pro X,Mamaearth,Shampoo,Beauty,8692.74,4.3,46,shampoo,54,25,No,1
+U2064,58,Female,Delhi,0,11176.75,P28315,Apple PowerRun Core,Apple,Smartphone,Electronics,64236.32,3.4,25,smartphone,51,37,Yes,0
+U1371,53,Male,Kolkata,38,20113.81,P23324,Apple ComfortPro Pro X,Apple,Smartphone,Electronics,14344.36,4.6,12,smartphone,28,2,Yes,1
+U8224,31,Male,Mumbai,73,31849.96,P27140,Boat TrailBlaze Advance,Boat,Headphones,Electronics,16859.86,3.1,0,headphones,60,32,No,0
+U1268,34,Male,Bangalore,8,43476.83,P96704,Boat UrbanStep Prime,Boat,Headphones,Electronics,65859.84,3.9,21,headphones,17,35,No,0
+U1363,20,Male,Kolkata,8,15590.42,P13819,Pantene UrbanStep Ultra,Pantene,Shampoo,Beauty,42010.06,3.1,7,shampoo,14,7,No,0
+U7920,40,Male,Chennai,56,3817.93,P55315,Boat VisionX Fusion,Boat,Headphones,Electronics,6520.71,4.5,53,headphones,24,4,Yes,1
+U3515,60,Female,Delhi,54,36873.71,P77754,HP HyperBoost Prime,HP,Laptop,Electronics,85691.47,2.9,49,laptop,30,29,No,1
+U4461,28,Female,Hyderabad,32,18237.03,P64203,Mamaearth HyperBoost Plus,Mamaearth,Shampoo,Beauty,93149.16,2.7,51,shampoo,54,8,Yes,0
+U3945,19,Male,Hyderabad,86,33855.37,P39650,L'Oreal UrbanStep Plus,L'Oreal,Shampoo,Beauty,40300.28,3.2,23,shampoo,53,19,Yes,0
+U3365,30,Female,Chennai,97,7588.13,P98483,Mamaearth SmartFit Prime,Mamaearth,Shampoo,Beauty,58299.97,4.4,27,shampoo,49,23,Yes,1
+U5273,41,Female,Bangalore,42,38639.46,P98588,Dove TrailBlaze Advance,Dove,Shampoo,Beauty,51057.49,2.5,0,shampoo,31,8,No,0
+U3245,25,Male,Mumbai,20,11148.25,P58838,Puma UrbanStep Max,Puma,Sneakers,Sports,54560.4,3.6,52,sneakers,42,12,Yes,1
+U3051,56,Female,Delhi,5,44344.76,P10852,Mamaearth AirFlex Neo,Mamaearth,Shampoo,Beauty,44174.87,3.3,17,shampoo,31,16,Yes,0
+U5680,21,Male,Bangalore,95,22775.07,P23812,Levi's PowerRun Edge,Levi's,Jeans,Clothing,79366.45,3.8,58,jeans,53,6,Yes,1
+U5444,40,Male,Pune,66,10786.94,P56493,L'Oreal VisionX Prime,L'Oreal,Shampoo,Beauty,15441.46,4.5,4,shampoo,46,19,Yes,1
+U9034,20,Female,Pune,79,8773.78,P61692,Adidas AirFlex Elite,Adidas,Running Shoes,Sports,29196.68,4.6,42,running shoes,12,32,No,1
+U5308,24,Female,Kolkata,68,45374.9,P83274,HP UrbanStep Advance,HP,Laptop,Electronics,98884.27,4.0,4,laptop,32,8,Yes,1
+U3503,57,Male,Kolkata,90,11258.93,P76526,Mamaearth TrailBlaze Prime,Mamaearth,Shampoo,Beauty,88904.32,4.6,51,shampoo,8,33,Yes,1
+U8451,46,Female,Hyderabad,36,9035.31,P50000,Apple ComfortPro Elite,Apple,Smartphone,Electronics,91302.56,3.5,47,smartphone,27,31,No,1
+U3691,31,Female,Hyderabad,94,8336.99,P73133,Nike SmartFit Edge,Nike,Running Shoes,Sports,48050.86,3.4,26,running shoes,11,17,Yes,0
+U2787,53,Male,Bangalore,34,10787.1,P55939,Levi's ComfortPro Pro X,Levi's,Jeans,Clothing,52864.7,3.5,21,jeans,23,13,No,0
+U3187,36,Male,Hyderabad,33,5838.81,P49756,Puma TrailBlaze Neo,Puma,Sneakers,Sports,56986.15,4.4,27,sneakers,49,6,No,0
+U6076,36,Female,Bangalore,93,1113.31,P52750,Lenovo SmartFit Core,Lenovo,Laptop,Electronics,67700.7,3.8,58,laptop,44,26,Yes,1
+U7509,52,Female,Kolkata,41,13949.69,P91899,Levi's VisionX Core,Levi's,Jeans,Clothing,66480.73,5.0,22,jeans,11,40,No,0
+U9170,58,Male,Pune,64,6618.77,P22097,Adidas PowerRun Active,Adidas,Running Shoes,Sports,63294.57,3.0,4,running shoes,57,12,Yes,0
+U5102,59,Male,Hyderabad,66,48569.86,P50020,Levi's TrailBlaze Core,Levi's,Jeans,Clothing,13736.48,4.5,23,jeans,14,25,No,0
+U2415,19,Female,Mumbai,13,43860.25,P67026,Mamaearth SmartFit Core,Mamaearth,Shampoo,Beauty,24629.9,4.7,57,shampoo,55,19,No,1
+U1188,42,Female,Hyderabad,24,32137.97,P46951,Head VisionX Core,Head & Shoulders,Shampoo,Beauty,13675.53,3.8,50,shampoo,51,32,Yes,1
+U6212,40,Female,Mumbai,1,597.56,P48311,Head UrbanStep Pro X,Head & Shoulders,Shampoo,Beauty,60140.9,4.0,5,shampoo,2,6,No,0
+U7746,29,Female,Hyderabad,9,45785.7,P34406,HP TrailBlaze Pro X,HP,Laptop,Electronics,51578.67,4.4,50,laptop,1,20,No,1
+U2526,52,Male,Delhi,26,14367.37,P20723,Pantene VisionX Pro X,Pantene,Shampoo,Beauty,43120.28,4.2,48,shampoo,11,11,No,0
+U7031,46,Male,Kolkata,40,7684.3,P20189,Boat AirFlex Fusion,Boat,Headphones,Electronics,88350.17,4.7,49,headphones,51,7,Yes,1
+U3926,56,Female,Hyderabad,50,38217.96,P40122,Lenovo TrailBlaze Core,Lenovo,Laptop,Electronics,28945.83,4.4,14,laptop,39,14,Yes,1
+U5460,26,Female,Pune,49,12644.49,P79547,L'Oreal ComfortPro Active,L'Oreal,Shampoo,Beauty,33667.42,4.7,12,shampoo,30,4,Yes,1
+U7781,46,Female,Bangalore,44,34953.14,P56384,OnePlus UrbanStep Fusion,OnePlus,Smartphone,Electronics,33875.96,3.0,22,smartphone,16,7,No,0
+U7790,45,Female,Delhi,37,3478.06,P21334,Levi's TrailBlaze Plus,Levi's,Jeans,Clothing,51140.17,4.5,49,jeans,43,14,Yes,1
+U2530,29,Male,Bangalore,19,34124.8,P30664,Mamaearth ComfortPro Fusion,Mamaearth,Shampoo,Beauty,11824.33,2.6,42,shampoo,42,25,Yes,1
+U6465,31,Male,Bangalore,98,19352.82,P84781,Mamaearth PowerRun Fusion,Mamaearth,Shampoo,Beauty,29078.34,3.0,0,shampoo,34,18,Yes,0
+U7523,19,Male,Bangalore,8,15478.15,P38335,Apple PowerRun Advance,Apple,Smartphone,Electronics,4365.52,2.9,55,smartphone,32,8,Yes,0
+U5939,47,Male,Delhi,65,39967.34,P77304,Puma AirFlex Max,Puma,Sneakers,Sports,79072.62,3.1,42,sneakers,3,33,Yes,1
+U7574,18,Female,Chennai,3,41936.47,P38825,L'Oreal AirFlex Advance,L'Oreal,Shampoo,Beauty,45844.11,4.1,38,shampoo,39,21,No,0
+U7382,41,Male,Pune,27,24527.92,P85602,Levi's TrailBlaze Edge,Levi's,Jeans,Clothing,54990.58,3.6,10,jeans,16,10,No,0
+U6559,56,Female,Kolkata,21,38681.08,P45664,Apple PowerRun Prime,Apple,Smartphone,Electronics,80893.93,2.8,34,smartphone,13,38,No,0
+U1962,24,Female,Chennai,56,41996.44,P45174,HP SmartFit Ultra,HP,Laptop,Electronics,34759.65,2.9,33,laptop,27,25,No,0
+U2770,21,Female,Bangalore,6,36074.07,P63155,OnePlus HyperBoost Plus,OnePlus,Smartphone,Electronics,23988.61,3.0,32,smartphone,42,8,Yes,0
+U2815,51,Male,Pune,11,8652.52,P27822,Zara UrbanStep Pro X,Zara,T-Shirt,Clothing,23100.78,2.7,8,t-shirt,52,26,No,0
+U4111,42,Female,Mumbai,21,39650.71,P31495,Head TrailBlaze Max,Head & Shoulders,Shampoo,Beauty,55064.06,3.7,46,shampoo,18,4,Yes,1
+U5717,25,Male,Bangalore,56,35087.13,P56864,Apple SmartFit Ultra,Apple,Smartphone,Electronics,56866.52,4.1,36,smartphone,5,17,Yes,0
+U9913,19,Female,Bangalore,98,49695.4,P89183,Adidas UrbanStep Elite,Adidas,Running Shoes,Sports,99627.09,4.3,57,running shoes,1,20,No,1
+U8126,18,Male,Pune,51,44791.35,P79298,Dove AirFlex Elite,Dove,Shampoo,Beauty,10096.36,3.4,33,shampoo,41,34,No,0
+U2373,32,Male,Chennai,7,2044.3,P55618,Puma AirFlex Pro X,Puma,Sneakers,Sports,35214.47,4.0,25,sneakers,44,31,No,0
+U7298,19,Male,Pune,8,533.98,P29486,L'Oreal VisionX Core,L'Oreal,Shampoo,Beauty,84724.47,4.7,13,shampoo,27,9,Yes,1
+U2074,25,Male,Delhi,55,47439.08,P89703,L'Oreal SmartFit Neo,L'Oreal,Shampoo,Beauty,45629.84,4.1,4,shampoo,3,12,No,0
+U5568,47,Male,Bangalore,63,11866.17,P46296,Adidas SmartFit Max,Adidas,Running Shoes,Sports,79030.45,2.7,5,running shoes,10,10,Yes,0
+U9352,46,Female,Chennai,82,13572.84,P89677,Puma SmartFit Edge,Puma,Sneakers,Sports,93143.01,2.9,19,sneakers,32,1,Yes,0
+U5796,41,Female,Mumbai,52,35877.34,P50333,Head HyperBoost Ultra,Head & Shoulders,Shampoo,Beauty,43435.18,3.4,52,shampoo,25,24,Yes,1
+U1709,28,Male,Bangalore,52,1673.86,P16426,Apple ComfortPro Edge,Apple,Smartphone,Electronics,76869.65,3.1,57,smartphone,2,26,Yes,1
+U2930,54,Female,Pune,9,26620.26,P14515,Puma HyperBoost Max,Puma,Sneakers,Sports,25669.83,2.9,26,sneakers,15,18,Yes,0
+U7279,59,Female,Chennai,64,30156.39,P41724,L'Oreal PowerRun Core,L'Oreal,Shampoo,Beauty,90259.02,4.1,27,shampoo,23,6,No,0
+U3722,22,Male,Bangalore,15,10852.98,P84887,Mamaearth SmartFit Fusion,Mamaearth,Shampoo,Beauty,16249.22,3.5,56,shampoo,1,38,No,1
+U9591,18,Male,Bangalore,46,2973.01,P25370,Apple UrbanStep Fusion,Apple,Smartphone,Electronics,55549.61,3.9,4,smartphone,46,4,No,0
+U1202,46,Male,Pune,90,33779.69,P51527,Boat AirFlex Plus,Boat,Headphones,Electronics,10324.13,4.4,3,headphones,18,3,No,0
+U6855,46,Male,Delhi,56,45744.31,P33874,Mamaearth VisionX Elite,Mamaearth,Shampoo,Beauty,12211.61,4.9,60,shampoo,59,40,Yes,1
+U8577,18,Male,Mumbai,22,20501.99,P98198,Levi's UrbanStep Active,Levi's,Jeans,Clothing,42693.13,3.5,13,jeans,33,24,Yes,1
+U7984,55,Male,Hyderabad,88,37663.56,P11735,Lenovo HyperBoost Core,Lenovo,Laptop,Electronics,40568.69,5.0,21,laptop,60,39,Yes,1
+U3419,30,Female,Bangalore,57,26575.58,P97591,Boat PowerRun Ultra,Boat,Headphones,Electronics,28009.58,2.7,12,headphones,49,37,Yes,0
+U1293,30,Female,Kolkata,96,3760.1,P80342,Dove UrbanStep Active,Dove,Shampoo,Beauty,40630.26,3.6,5,shampoo,36,26,Yes,1
+U9491,28,Female,Pune,99,47618.94,P34218,Levi's HyperBoost Advance,Levi's,Jeans,Clothing,84037.52,3.0,52,jeans,27,25,Yes,1
+U1339,29,Female,Hyderabad,49,38411.3,P14311,Levi's UrbanStep Edge,Levi's,Jeans,Clothing,15535.39,2.7,46,jeans,4,37,Yes,1
+U5564,45,Female,Pune,78,23047.25,P14600,Boat UrbanStep Edge,Boat,Headphones,Electronics,89970.03,2.8,23,headphones,46,17,Yes,0
+U6996,60,Male,Mumbai,84,8454.02,P87720,L'Oreal UrbanStep Prime,L'Oreal,Shampoo,Beauty,24392.42,2.9,6,shampoo,27,24,Yes,0
+U3031,35,Male,Pune,38,22000.37,P30234,Boat PowerRun Active,Boat,Headphones,Electronics,34767.63,2.7,50,headphones,10,29,Yes,1
+U3537,43,Male,Pune,11,26601.56,P23740,Nike AirFlex Plus,Nike,Running Shoes,Sports,29518.72,2.6,48,running shoes,32,27,Yes,1
+U1891,58,Female,Chennai,11,7169.19,P75568,HP ComfortPro Advance,HP,Laptop,Electronics,63104.43,2.5,12,laptop,11,35,Yes,0
+U7759,28,Male,Mumbai,58,24752.86,P28745,Apple ComfortPro Advance,Apple,Smartphone,Electronics,34846.78,4.3,55,smartphone,25,7,No,0
+U2720,56,Male,Hyderabad,22,19849.97,P98874,Levi's HyperBoost Max,Levi's,Jeans,Clothing,32929.04,2.9,23,jeans,53,29,No,0
+U9314,19,Male,Mumbai,10,49670.64,P50656,L'Oreal PowerRun Neo,L'Oreal,Shampoo,Beauty,46809.38,3.4,11,shampoo,28,17,Yes,0
+U8745,58,Male,Pune,83,6668.55,P24163,Puma UrbanStep Edge,Puma,Sneakers,Sports,82532.7,4.1,12,sneakers,46,33,No,0
+U9638,24,Male,Hyderabad,66,23352.59,P69301,Puma VisionX Plus,Puma,Sneakers,Sports,94576.69,3.0,40,sneakers,2,26,Yes,0
+U7575,51,Male,Delhi,46,29912.08,P94400,OnePlus PowerRun Core,OnePlus,Smartphone,Electronics,2533.86,4.7,23,smartphone,44,13,No,0
+U3684,46,Female,Mumbai,54,21813.88,P39640,Adidas UrbanStep Active,Adidas,Running Shoes,Sports,92992.68,3.2,38,running shoes,28,21,Yes,0
+U9362,47,Female,Delhi,91,45704.73,P50981,Mamaearth HyperBoost Advance,Mamaearth,Shampoo,Beauty,26355.15,4.0,40,shampoo,60,22,Yes,1
+U8095,44,Male,Bangalore,35,25203.31,P23978,Apple UrbanStep Active,Apple,Smartphone,Electronics,7888.61,3.5,29,smartphone,37,31,Yes,1
+U2019,47,Female,Bangalore,50,12880.8,P72783,Dove VisionX Plus,Dove,Shampoo,Beauty,69137.64,2.5,44,shampoo,1,32,No,1
+U3918,56,Male,Hyderabad,35,21904.7,P29618,Mamaearth AirFlex Plus,Mamaearth,Shampoo,Beauty,22830.05,3.4,57,shampoo,15,39,No,1
+U6321,42,Female,Delhi,64,11327.77,P61517,Lenovo PowerRun Elite,Lenovo,Laptop,Electronics,29319.71,2.5,3,laptop,34,15,No,0
+U1395,32,Male,Mumbai,63,49859.34,P31573,Levi's SmartFit Core,Levi's,Jeans,Clothing,52467.01,3.5,0,jeans,16,32,Yes,1
+U7183,21,Female,Delhi,42,28472.25,P37195,OnePlus VisionX Elite,OnePlus,Smartphone,Electronics,99895.99,4.0,27,smartphone,52,27,Yes,1
+U9850,59,Female,Kolkata,22,37442.13,P39937,Levi's AirFlex Active,Levi's,Jeans,Clothing,84234.97,3.8,34,jeans,60,38,Yes,1
+U2562,24,Male,Chennai,95,4468.25,P88557,Boat HyperBoost Prime,Boat,Headphones,Electronics,11213.16,2.8,11,headphones,7,37,No,0
+U1880,41,Male,Delhi,54,18622.73,P47752,Pantene PowerRun Pro X,Pantene,Shampoo,Beauty,92887.6,3.1,13,shampoo,42,36,No,0
+U5646,52,Male,Chennai,15,42080.21,P98482,Pantene HyperBoost Core,Pantene,Shampoo,Beauty,11879.66,4.2,11,shampoo,21,20,Yes,1
+U1213,31,Male,Delhi,96,13781.95,P99876,Mamaearth AirFlex Advance,Mamaearth,Shampoo,Beauty,40652.53,2.6,23,shampoo,18,17,No,0
+U5714,53,Female,Delhi,16,44152.96,P69283,Pantene SmartFit Neo,Pantene,Shampoo,Beauty,17457.47,4.3,49,shampoo,46,38,Yes,1
+U2310,42,Male,Pune,49,6357.06,P14488,OnePlus SmartFit Active,OnePlus,Smartphone,Electronics,64091.66,4.1,4,smartphone,6,28,Yes,1
+U6193,52,Male,Bangalore,15,38352.18,P23132,Puma PowerRun Fusion,Puma,Sneakers,Sports,69333.61,2.5,32,sneakers,52,26,No,0
+U1572,59,Male,Hyderabad,23,39998.02,P39265,Zara PowerRun Max,Zara,T-Shirt,Clothing,6127.23,4.1,49,t-shirt,49,40,No,1
+U3416,33,Male,Hyderabad,98,27864.79,P19386,Levi's AirFlex Neo,Levi's,Jeans,Clothing,81167.56,4.4,25,jeans,36,23,No,0
+U8715,22,Female,Hyderabad,4,34316.22,P82620,Levi's ComfortPro Edge,Levi's,Jeans,Clothing,95017.95,3.8,58,jeans,37,25,No,1
+U9783,51,Female,Pune,94,8405.06,P82642,Mamaearth PowerRun Pro X,Mamaearth,Shampoo,Beauty,91029.52,5.0,53,shampoo,28,1,No,0
+U9693,47,Male,Bangalore,47,31441.01,P15641,Pantene PowerRun Fusion,Pantene,Shampoo,Beauty,29560.03,2.9,36,shampoo,33,27,No,0
+U5758,20,Female,Kolkata,43,38389.73,P75548,Head TrailBlaze Edge,Head & Shoulders,Shampoo,Beauty,65899.62,2.8,47,shampoo,49,24,Yes,1
+U7560,59,Female,Delhi,29,42399.46,P43868,Puma HyperBoost Active,Puma,Sneakers,Sports,14100.34,2.9,23,sneakers,53,4,No,0
+U4886,32,Male,Hyderabad,75,14650.43,P12409,L'Oreal TrailBlaze Core,L'Oreal,Shampoo,Beauty,22159.82,3.5,50,shampoo,14,27,Yes,1
+U2590,38,Female,Bangalore,29,4887.54,P81672,Nike TrailBlaze Core,Nike,Running Shoes,Sports,59522.88,3.0,4,running shoes,28,24,Yes,0
+U1743,50,Male,Delhi,56,27441.1,P69924,L'Oreal UrbanStep Neo,L'Oreal,Shampoo,Beauty,85658.97,3.3,43,shampoo,8,6,Yes,0
+U2416,50,Male,Delhi,29,16875.28,P69120,Zara HyperBoost Fusion,Zara,T-Shirt,Clothing,44940.17,4.2,6,t-shirt,34,12,No,0
+U5947,34,Female,Kolkata,84,10460.43,P39982,Pantene TrailBlaze Advance,Pantene,Shampoo,Beauty,17763.45,3.3,3,shampoo,2,28,Yes,0
+U8733,43,Male,Mumbai,93,42987.1,P37384,Levi's TrailBlaze Neo,Levi's,Jeans,Clothing,96171.52,4.9,54,jeans,1,30,No,1
+U5095,30,Female,Pune,18,37268.46,P22402,Adidas TrailBlaze Fusion,Adidas,Running Shoes,Sports,88243.38,3.2,25,running shoes,57,24,No,0
+U1567,34,Male,Hyderabad,90,44589.51,P78590,Dove UrbanStep Neo,Dove,Shampoo,Beauty,55239.36,2.9,13,shampoo,19,10,No,0
+U5484,57,Male,Bangalore,84,35545.41,P44514,Head SmartFit Plus,Head & Shoulders,Shampoo,Beauty,6813.48,2.6,25,shampoo,9,14,No,0
+U9692,49,Male,Chennai,70,6099.15,P38667,Levi's ComfortPro Advance,Levi's,Jeans,Clothing,12852.63,4.6,1,jeans,15,29,No,0
+U2034,29,Male,Bangalore,37,38708.0,P58096,OnePlus UrbanStep Edge,OnePlus,Smartphone,Electronics,9313.27,3.7,11,smartphone,25,2,Yes,1
+U7193,29,Female,Pune,38,43860.6,P22456,Zara AirFlex Ultra,Zara,T-Shirt,Clothing,97536.78,4.1,37,t-shirt,53,7,No,0
+U2944,60,Female,Hyderabad,83,10182.26,P12766,Head PowerRun Ultra,Head & Shoulders,Shampoo,Beauty,50699.1,3.6,56,shampoo,44,24,Yes,1
+U3603,25,Male,Bangalore,68,905.12,P90841,L'Oreal HyperBoost Core,L'Oreal,Shampoo,Beauty,49983.23,3.0,45,shampoo,32,12,Yes,0
+U2135,34,Female,Kolkata,6,33129.84,P78844,Puma TrailBlaze Plus,Puma,Sneakers,Sports,29568.26,2.6,6,sneakers,34,28,Yes,0
+U2343,41,Male,Mumbai,40,47402.7,P59568,Samsung TrailBlaze Core,Samsung,Smartphone,Electronics,43316.94,3.3,60,smartphone,10,14,Yes,0
+U3524,18,Female,Pune,48,45407.76,P79276,Levi's AirFlex Core,Levi's,Jeans,Clothing,71273.25,4.8,18,jeans,27,12,Yes,1
+U8323,33,Female,Mumbai,78,32288.28,P42476,Dove AirFlex Active,Dove,Shampoo,Beauty,4889.29,4.9,46,shampoo,44,7,No,0
+U7904,33,Female,Hyderabad,51,2676.05,P14284,Apple SmartFit Pro X,Apple,Smartphone,Electronics,44197.98,4.8,53,smartphone,8,25,No,1
+U5416,41,Male,Delhi,93,3467.8,P48869,Samsung AirFlex Advance,Samsung,Smartphone,Electronics,96223.11,2.9,16,smartphone,54,28,Yes,0
+U4099,41,Male,Pune,93,38105.57,P45869,Boat TrailBlaze Core,Boat,Headphones,Electronics,39852.74,3.1,25,headphones,54,26,No,0
+U9149,43,Male,Pune,33,35846.52,P12188,Adidas PowerRun Edge,Adidas,Running Shoes,Sports,22037.44,3.7,9,running shoes,18,29,No,0
+U8688,35,Female,Bangalore,77,9541.76,P32351,Levi's TrailBlaze Elite,Levi's,Jeans,Clothing,18173.14,3.6,46,jeans,9,37,Yes,1
+U4233,27,Female,Pune,34,26168.07,P19028,Samsung ComfortPro Edge,Samsung,Smartphone,Electronics,22260.01,3.7,30,smartphone,27,25,No,0
+U1611,25,Male,Pune,65,48901.28,P51994,Mamaearth SmartFit Active,Mamaearth,Shampoo,Beauty,10465.9,4.5,36,shampoo,8,29,No,0
+U6456,60,Male,Mumbai,54,48130.81,P70227,L'Oreal ComfortPro Max,L'Oreal,Shampoo,Beauty,79690.55,3.3,3,shampoo,32,32,Yes,0
+U4598,44,Male,Chennai,47,34312.32,P98319,Mamaearth VisionX Max,Mamaearth,Shampoo,Beauty,38537.45,3.6,17,shampoo,11,29,Yes,1
+U8029,37,Female,Delhi,80,19762.86,P84215,Nike SmartFit Elite,Nike,Running Shoes,Sports,2971.52,2.9,15,running shoes,36,29,Yes,0
+U1530,33,Male,Kolkata,100,41461.05,P99043,Levi's HyperBoost Plus,Levi's,Jeans,Clothing,53915.84,4.0,8,jeans,19,29,No,0
+U2849,20,Female,Mumbai,0,13390.38,P48813,Zara HyperBoost Ultra,Zara,T-Shirt,Clothing,13134.12,3.5,54,t-shirt,11,33,No,1
+U8170,52,Female,Bangalore,15,45081.43,P77680,Head HyperBoost Pro X,Head & Shoulders,Shampoo,Beauty,77933.89,2.8,48,shampoo,9,14,Yes,0
+U2207,31,Female,Kolkata,12,813.93,P44665,Levi's SmartFit Pro X,Levi's,Jeans,Clothing,11617.64,3.3,58,jeans,42,4,Yes,0
+U6823,53,Female,Chennai,80,47884.38,P97420,L'Oreal TrailBlaze Pro X,L'Oreal,Shampoo,Beauty,90531.05,3.6,55,shampoo,24,19,Yes,1
+U8922,59,Female,Mumbai,94,30888.68,P46017,Apple SmartFit Elite,Apple,Smartphone,Electronics,94619.26,2.5,56,smartphone,18,1,Yes,0
+U9768,26,Male,Delhi,39,30890.89,P38841,Lenovo AirFlex Pro X,Lenovo,Laptop,Electronics,84468.38,3.3,30,laptop,5,9,No,0
+U7833,59,Male,Kolkata,70,588.55,P57133,Levi's SmartFit Plus,Levi's,Jeans,Clothing,61029.82,3.3,38,jeans,48,40,No,0
+U9165,45,Female,Delhi,38,9853.19,P79226,Pantene TrailBlaze Pro X,Pantene,Shampoo,Beauty,68975.11,2.9,12,shampoo,50,6,No,0
+U9041,23,Male,Delhi,32,36204.25,P67849,Apple VisionX Fusion,Apple,Smartphone,Electronics,39554.69,3.1,7,smartphone,50,39,Yes,0
+U3272,51,Female,Delhi,82,21163.74,P90774,Mamaearth PowerRun Core,Mamaearth,Shampoo,Beauty,9647.1,4.8,18,shampoo,46,29,No,0
+U1147,44,Female,Kolkata,24,39275.25,P63137,Apple PowerRun Active,Apple,Smartphone,Electronics,43182.34,3.4,38,smartphone,1,36,Yes,0
+U3419,48,Male,Pune,49,36518.89,P17723,HP ComfortPro Neo,HP,Laptop,Electronics,96677.98,4.5,41,laptop,13,40,No,1
+U5110,23,Male,Chennai,9,17153.44,P87816,Samsung UrbanStep Max,Samsung,Smartphone,Electronics,88796.55,2.9,52,smartphone,54,18,No,1
+U1341,26,Female,Bangalore,54,22071.38,P30673,Levi's SmartFit Neo,Levi's,Jeans,Clothing,53325.11,3.2,24,jeans,51,12,Yes,0
+U8518,26,Female,Delhi,21,47046.43,P95803,Samsung UrbanStep Advance,Samsung,Smartphone,Electronics,92292.69,4.7,4,smartphone,25,29,No,0
+U8704,50,Female,Hyderabad,11,43912.0,P64030,Samsung ComfortPro Fusion,Samsung,Smartphone,Electronics,76679.49,4.6,60,smartphone,16,32,Yes,1
+U5293,28,Female,Pune,86,10259.87,P46248,Pantene AirFlex Ultra,Pantene,Shampoo,Beauty,65944.72,4.3,12,shampoo,43,31,No,0
+U8967,48,Female,Pune,81,17576.83,P28181,Levi's VisionX Plus,Levi's,Jeans,Clothing,90557.15,4.0,20,jeans,54,3,No,0
+U9330,57,Female,Hyderabad,13,2726.44,P49957,Levi's AirFlex Fusion,Levi's,Jeans,Clothing,98065.92,3.7,6,jeans,33,7,No,0
+U3040,29,Female,Mumbai,42,16755.3,P69483,HP TrailBlaze Advance,HP,Laptop,Electronics,38450.58,4.1,10,laptop,13,31,Yes,1
+U1800,54,Female,Pune,38,25126.3,P38776,HP VisionX Pro X,HP,Laptop,Electronics,75786.17,2.6,48,laptop,18,39,Yes,1
+U4327,24,Male,Mumbai,0,21537.4,P10983,Head AirFlex Edge,Head & Shoulders,Shampoo,Beauty,55534.82,3.0,56,shampoo,57,22,Yes,1
+U4016,57,Male,Mumbai,3,8868.01,P71562,Pantene VisionX Fusion,Pantene,Shampoo,Beauty,27170.15,4.9,36,shampoo,45,18,No,0
+U7925,29,Female,Chennai,5,2480.09,P43795,Lenovo SmartFit Ultra,Lenovo,Laptop,Electronics,13063.42,3.5,59,laptop,7,22,No,1
+U5106,44,Male,Bangalore,29,11373.6,P41868,Samsung UrbanStep Ultra,Samsung,Smartphone,Electronics,98172.36,3.0,36,smartphone,43,24,No,0
+U7918,33,Female,Hyderabad,22,38040.59,P80307,Apple UrbanStep Pro X,Apple,Smartphone,Electronics,55951.82,2.8,6,smartphone,49,27,No,0
+U3918,37,Female,Pune,20,13488.78,P96031,HP PowerRun Active,HP,Laptop,Electronics,42818.07,4.1,3,laptop,46,25,No,0
+U7202,50,Female,Kolkata,18,48962.49,P71434,HP AirFlex Pro X,HP,Laptop,Electronics,85777.12,4.3,47,laptop,14,17,Yes,1
+U2847,29,Female,Delhi,18,12632.33,P63840,Zara AirFlex Fusion,Zara,T-Shirt,Clothing,17474.05,3.1,26,t-shirt,16,27,Yes,0
+U7597,30,Female,Pune,58,16256.57,P13833,Samsung PowerRun Pro X,Samsung,Smartphone,Electronics,5035.73,2.6,7,smartphone,42,19,No,0
+U3532,19,Male,Mumbai,94,15765.52,P12668,L'Oreal VisionX Max,L'Oreal,Shampoo,Beauty,19432.51,2.7,15,shampoo,1,24,Yes,0
+U5215,54,Female,Bangalore,88,10636.37,P30590,Adidas ComfortPro Fusion,Adidas,Running Shoes,Sports,20303.95,4.8,32,running shoes,53,2,Yes,1
+U5447,50,Male,Hyderabad,69,20642.7,P84685,Nike SmartFit Neo,Nike,Running Shoes,Sports,56902.19,2.5,9,running shoes,11,19,No,0
+U8041,35,Male,Delhi,65,48934.85,P94952,OnePlus PowerRun Max,OnePlus,Smartphone,Electronics,96157.3,3.7,17,smartphone,31,35,Yes,1
+U4138,26,Female,Chennai,24,29985.77,P87712,Lenovo VisionX Elite,Lenovo,Laptop,Electronics,56216.95,4.4,52,laptop,47,25,No,1
+U6614,33,Female,Hyderabad,99,38970.99,P24185,L'Oreal SmartFit Active,L'Oreal,Shampoo,Beauty,90464.05,4.2,34,shampoo,26,28,No,0
+U6859,21,Male,Chennai,33,30711.61,P66269,Puma HyperBoost Ultra,Puma,Sneakers,Sports,82365.0,2.6,28,sneakers,34,19,Yes,0
+U1697,18,Male,Chennai,48,38203.58,P42567,Zara ComfortPro Elite,Zara,T-Shirt,Clothing,14828.57,2.5,50,t-shirt,47,5,No,0
+U9507,26,Male,Kolkata,53,6716.51,P75598,Lenovo HyperBoost Elite,Lenovo,Laptop,Electronics,91353.93,3.5,41,laptop,13,27,Yes,1
+U8367,26,Male,Bangalore,73,14385.53,P65288,Apple TrailBlaze Pro X,Apple,Smartphone,Electronics,9506.5,2.8,7,smartphone,51,19,Yes,0
+U3943,29,Male,Chennai,26,40899.87,P58676,Apple TrailBlaze Core,Apple,Smartphone,Electronics,89192.35,3.1,8,smartphone,22,23,No,0
+U3307,27,Male,Mumbai,96,30491.35,P94605,Dove PowerRun Max,Dove,Shampoo,Beauty,32108.44,3.5,36,shampoo,56,2,Yes,1
+U1738,42,Male,Delhi,31,6155.51,P55794,Lenovo ComfortPro Fusion,Lenovo,Laptop,Electronics,28836.1,2.7,55,laptop,41,34,No,1
+U9724,48,Male,Bangalore,81,33239.81,P64018,Dove ComfortPro Plus,Dove,Shampoo,Beauty,64264.78,4.1,14,shampoo,8,32,No,0
+U4828,30,Female,Delhi,29,11158.14,P87718,Pantene TrailBlaze Core,Pantene,Shampoo,Beauty,45099.83,5.0,13,shampoo,13,14,No,0
+U6478,41,Female,Delhi,48,19494.37,P46128,Nike HyperBoost Advance,Nike,Running Shoes,Sports,10800.63,4.3,60,running shoes,11,32,Yes,1
+U7427,47,Male,Chennai,24,34871.25,P68853,Pantene VisionX Neo,Pantene,Shampoo,Beauty,32005.02,4.5,19,shampoo,57,4,Yes,1
+U2239,28,Male,Delhi,46,10516.32,P87031,L'Oreal AirFlex Ultra,L'Oreal,Shampoo,Beauty,38327.49,4.8,39,shampoo,33,14,Yes,1
+U6602,32,Male,Bangalore,58,36624.06,P39718,Levi's ComfortPro Max,Levi's,Jeans,Clothing,97259.32,2.9,39,jeans,28,20,No,0
+U5717,24,Male,Mumbai,15,45460.17,P68807,Adidas ComfortPro Edge,Adidas,Running Shoes,Sports,40417.13,4.7,41,running shoes,55,40,Yes,1
+U9789,21,Female,Chennai,67,11647.96,P17566,Adidas TrailBlaze Prime,Adidas,Running Shoes,Sports,47031.31,3.2,1,running shoes,21,32,No,0
+U9125,34,Male,Pune,44,36843.83,P22186,L'Oreal UrbanStep Active,L'Oreal,Shampoo,Beauty,85517.86,3.6,41,shampoo,9,38,Yes,1
+U9722,30,Female,Bangalore,76,18263.88,P69794,Head TrailBlaze Pro X,Head & Shoulders,Shampoo,Beauty,36962.02,2.7,30,shampoo,43,8,Yes,0
+U7126,39,Female,Pune,90,32207.93,P38316,Nike HyperBoost Pro X,Nike,Running Shoes,Sports,92606.47,3.9,45,running shoes,48,19,Yes,1
+U9711,19,Female,Bangalore,50,1523.43,P17953,Mamaearth ComfortPro Active,Mamaearth,Shampoo,Beauty,35177.0,4.2,52,shampoo,25,37,Yes,1
+U6043,38,Female,Hyderabad,40,36623.17,P30404,Nike SmartFit Pro X,Nike,Running Shoes,Sports,2259.84,4.9,33,running shoes,36,35,Yes,1
+U9961,29,Female,Hyderabad,32,21569.18,P65787,HP TrailBlaze Edge,HP,Laptop,Electronics,33187.41,2.7,32,laptop,24,1,No,0
+U1527,18,Male,Pune,37,17219.84,P33076,Mamaearth ComfortPro Edge,Mamaearth,Shampoo,Beauty,96744.6,4.6,51,shampoo,8,31,No,1
+U7103,58,Female,Bangalore,2,48618.15,P73131,OnePlus TrailBlaze Prime,OnePlus,Smartphone,Electronics,88860.75,3.9,49,smartphone,34,5,Yes,1
+U5772,52,Male,Kolkata,2,35257.32,P78653,Samsung PowerRun Core,Samsung,Smartphone,Electronics,47764.61,3.4,38,smartphone,28,1,No,0
+U5296,58,Female,Kolkata,18,15747.37,P23616,Zara TrailBlaze Neo,Zara,T-Shirt,Clothing,55566.83,2.7,13,t-shirt,17,24,Yes,0
+U5941,36,Male,Kolkata,64,1319.24,P68030,Lenovo VisionX Advance,Lenovo,Laptop,Electronics,10817.84,3.7,14,laptop,58,17,Yes,1
+U9597,29,Male,Chennai,32,32686.91,P50573,Puma SmartFit Active,Puma,Sneakers,Sports,62685.55,4.1,41,sneakers,2,18,Yes,1
+U6373,42,Female,Delhi,88,38546.18,P16549,Nike PowerRun Prime,Nike,Running Shoes,Sports,50102.08,3.4,11,running shoes,15,8,Yes,0
+U8621,18,Male,Mumbai,19,23170.66,P94619,Boat VisionX Ultra,Boat,Headphones,Electronics,10005.47,3.4,35,headphones,39,19,No,0
+U6290,24,Female,Delhi,70,47189.74,P55884,Zara VisionX Core,Zara,T-Shirt,Clothing,20443.32,3.4,8,t-shirt,26,10,No,0
+U9367,31,Female,Chennai,13,12495.61,P25985,Mamaearth VisionX Pro X,Mamaearth,Shampoo,Beauty,48728.7,2.7,15,shampoo,41,6,No,0
+U6548,37,Female,Kolkata,33,38710.27,P92731,Levi's PowerRun Elite,Levi's,Jeans,Clothing,55090.35,4.1,28,jeans,10,21,No,0
+U7460,43,Female,Mumbai,0,4612.29,P70501,OnePlus PowerRun Prime,OnePlus,Smartphone,Electronics,97911.46,4.7,15,smartphone,32,23,Yes,1
+U6474,49,Male,Kolkata,84,8185.67,P11775,Mamaearth UrbanStep Fusion,Mamaearth,Shampoo,Beauty,84309.36,3.1,19,shampoo,15,12,No,0
+U2503,53,Female,Mumbai,37,13789.24,P84235,Puma UrbanStep Advance,Puma,Sneakers,Sports,21577.42,3.3,20,sneakers,20,37,Yes,0
+U4317,31,Male,Bangalore,11,31838.9,P80404,Puma AirFlex Advance,Puma,Sneakers,Sports,41752.13,3.9,24,sneakers,41,6,Yes,1
+U9346,33,Male,Pune,42,10516.3,P51636,Zara ComfortPro Advance,Zara,T-Shirt,Clothing,99230.16,4.9,48,t-shirt,41,13,No,0
+U6407,35,Female,Mumbai,27,41753.1,P21954,Samsung TrailBlaze Advance,Samsung,Smartphone,Electronics,55062.63,4.7,48,smartphone,42,20,Yes,1
+U6218,48,Female,Kolkata,98,6066.81,P17783,Dove AirFlex Edge,Dove,Shampoo,Beauty,34008.68,3.9,45,shampoo,52,34,No,1
+U6829,19,Male,Delhi,13,43113.69,P62384,OnePlus SmartFit Edge,OnePlus,Smartphone,Electronics,4926.41,2.9,42,smartphone,49,40,No,1
+U3890,47,Female,Delhi,83,11264.31,P15733,Mamaearth ComfortPro Ultra,Mamaearth,Shampoo,Beauty,35817.9,4.1,56,shampoo,6,12,No,0
+U2443,42,Female,Delhi,21,18623.84,P62146,Head VisionX Active,Head & Shoulders,Shampoo,Beauty,98466.2,2.6,11,shampoo,2,13,Yes,0
+U7555,23,Male,Delhi,99,45731.74,P36938,Head HyperBoost Advance,Head & Shoulders,Shampoo,Beauty,51277.86,4.0,13,shampoo,12,37,Yes,1
+U1054,49,Female,Hyderabad,21,38238.28,P39741,Pantene UrbanStep Active,Pantene,Shampoo,Beauty,66237.65,4.7,35,shampoo,31,7,Yes,1
+U2979,60,Male,Hyderabad,41,13108.1,P89575,Boat VisionX Max,Boat,Headphones,Electronics,51671.46,3.3,39,headphones,18,35,No,0
+U3045,44,Female,Pune,33,18203.7,P78331,Puma HyperBoost Pro X,Puma,Sneakers,Sports,49019.98,4.8,39,sneakers,10,10,Yes,1
+U9004,38,Male,Delhi,51,6928.07,P72671,Mamaearth HyperBoost Core,Mamaearth,Shampoo,Beauty,30447.0,3.8,1,shampoo,15,27,Yes,1
+U3435,53,Female,Delhi,17,22460.63,P72020,Dove ComfortPro Edge,Dove,Shampoo,Beauty,23402.42,4.0,27,shampoo,58,14,No,0
+U7144,26,Female,Kolkata,73,15654.78,P21896,Head UrbanStep Edge,Head & Shoulders,Shampoo,Beauty,68905.13,4.9,45,shampoo,42,1,No,0
+U1704,45,Female,Bangalore,17,45098.02,P81868,Pantene UrbanStep Plus,Pantene,Shampoo,Beauty,20464.59,2.9,60,shampoo,40,18,No,1
+U1913,29,Male,Chennai,20,12548.54,P45035,Head AirFlex Core,Head & Shoulders,Shampoo,Beauty,34415.05,4.1,16,shampoo,53,3,No,0
+U1786,40,Male,Bangalore,21,20039.58,P87333,L'Oreal AirFlex Active,L'Oreal,Shampoo,Beauty,43250.61,3.4,39,shampoo,16,16,Yes,0
+U1269,19,Male,Kolkata,66,7794.55,P91520,Mamaearth AirFlex Core,Mamaearth,Shampoo,Beauty,68808.83,3.2,22,shampoo,7,17,Yes,0
+U7718,54,Male,Delhi,96,11714.95,P27285,Apple AirFlex Edge,Apple,Smartphone,Electronics,8563.59,3.3,47,smartphone,38,16,No,1
+U7565,20,Male,Kolkata,81,49865.8,P51428,Head SmartFit Edge,Head & Shoulders,Shampoo,Beauty,58537.5,4.6,41,shampoo,9,1,No,0
+U5434,34,Male,Delhi,40,10938.35,P48382,Lenovo ComfortPro Plus,Lenovo,Laptop,Electronics,62055.82,2.9,33,laptop,60,39,Yes,0
+U7242,49,Male,Delhi,95,9832.39,P44149,Boat AirFlex Elite,Boat,Headphones,Electronics,78718.77,3.2,16,headphones,58,18,No,0
+U8127,38,Female,Chennai,46,39295.38,P68898,Mamaearth VisionX Neo,Mamaearth,Shampoo,Beauty,75096.68,3.9,13,shampoo,33,38,No,0
+U7691,41,Female,Kolkata,24,35412.71,P69950,Mamaearth VisionX Plus,Mamaearth,Shampoo,Beauty,81208.43,2.7,20,shampoo,6,2,No,0
+U4380,60,Male,Mumbai,40,31959.8,P78348,L'Oreal HyperBoost Pro X,L'Oreal,Shampoo,Beauty,45537.5,3.8,4,shampoo,33,9,No,0
+U7574,33,Female,Pune,24,33276.27,P64692,Zara VisionX Max,Zara,T-Shirt,Clothing,90753.05,4.4,46,t-shirt,2,33,No,1
+U1806,29,Female,Bangalore,48,33645.21,P67573,Puma AirFlex Core,Puma,Sneakers,Sports,26296.05,3.5,10,sneakers,56,31,Yes,1
+U8140,37,Male,Delhi,53,34310.05,P99797,Apple AirFlex Elite,Apple,Smartphone,Electronics,46888.56,4.9,26,smartphone,44,36,No,0
+U4517,60,Male,Delhi,35,41489.99,P61616,Levi's VisionX Neo,Levi's,Jeans,Clothing,59568.85,4.2,34,jeans,45,18,No,0
+U2614,34,Male,Bangalore,48,20038.14,P75472,Head VisionX Neo,Head & Shoulders,Shampoo,Beauty,30117.92,4.2,42,shampoo,18,9,Yes,1
+U9046,26,Female,Kolkata,38,44904.72,P33807,Mamaearth ComfortPro Neo,Mamaearth,Shampoo,Beauty,20834.86,4.8,32,shampoo,51,2,No,0
+U3031,30,Male,Chennai,44,41981.22,P42256,Apple HyperBoost Advance,Apple,Smartphone,Electronics,86577.27,4.9,15,smartphone,53,26,Yes,1
+U9349,49,Male,Delhi,95,48199.83,P72249,Apple UrbanStep Edge,Apple,Smartphone,Electronics,28042.77,2.7,30,smartphone,2,37,Yes,0
+U3159,32,Male,Kolkata,46,28548.47,P99182,Nike SmartFit Active,Nike,Running Shoes,Sports,62994.98,4.4,29,running shoes,48,18,No,0
+U3704,54,Male,Pune,93,32090.03,P68191,Zara UrbanStep Core,Zara,T-Shirt,Clothing,9750.16,3.4,20,t-shirt,9,31,Yes,0
+U4265,43,Male,Pune,32,17644.5,P53860,Levi's PowerRun Plus,Levi's,Jeans,Clothing,88934.46,4.4,31,jeans,55,9,Yes,1
+U3723,60,Female,Delhi,19,17640.47,P64556,Levi's UrbanStep Core,Levi's,Jeans,Clothing,19305.49,4.3,49,jeans,3,10,No,0
+U1770,60,Female,Chennai,57,5360.67,P40215,Nike AirFlex Neo,Nike,Running Shoes,Sports,29418.23,3.9,57,running shoes,25,26,Yes,1
+U1382,56,Female,Bangalore,44,9104.01,P60501,OnePlus SmartFit Ultra,OnePlus,Smartphone,Electronics,24017.54,4.2,29,smartphone,30,34,Yes,1
+U8594,21,Female,Mumbai,76,49986.16,P95895,Puma VisionX Core,Puma,Sneakers,Sports,18027.26,4.3,44,sneakers,37,7,Yes,1
+U8708,31,Female,Delhi,42,34942.41,P84774,Mamaearth UrbanStep Max,Mamaearth,Shampoo,Beauty,41108.34,5.0,48,shampoo,16,8,Yes,1
+U1815,33,Male,Mumbai,12,19084.3,P56257,Dove AirFlex Ultra,Dove,Shampoo,Beauty,1564.92,4.3,18,shampoo,42,23,No,0
+U2980,50,Male,Kolkata,47,3845.65,P75366,Lenovo TrailBlaze Edge,Lenovo,Laptop,Electronics,90648.89,2.5,55,laptop,40,40,No,1
+U3977,49,Female,Delhi,97,6273.14,P88144,Puma AirFlex Elite,Puma,Sneakers,Sports,41926.53,2.7,35,sneakers,23,23,No,0
+U4393,27,Female,Delhi,29,31203.14,P47783,Levi's UrbanStep Advance,Levi's,Jeans,Clothing,69009.85,4.8,57,jeans,6,1,No,0
+U4877,31,Male,Chennai,24,10286.72,P92122,HP ComfortPro Fusion,HP,Laptop,Electronics,61416.05,2.9,18,laptop,5,23,Yes,0
+U8471,37,Female,Chennai,65,16313.17,P76537,Zara VisionX Prime,Zara,T-Shirt,Clothing,80313.59,2.9,36,t-shirt,26,31,Yes,0
+U3175,21,Male,Mumbai,95,42121.55,P74968,L'Oreal PowerRun Max,L'Oreal,Shampoo,Beauty,55649.45,2.8,5,shampoo,24,34,No,0
+U3038,26,Male,Delhi,49,32031.06,P25993,Nike AirFlex Max,Nike,Running Shoes,Sports,14288.54,3.9,32,running shoes,38,39,No,0
+U2981,45,Male,Kolkata,100,48125.76,P89857,Nike PowerRun Max,Nike,Running Shoes,Sports,72093.31,3.5,48,running shoes,57,14,Yes,1
+U3633,32,Male,Mumbai,83,8143.57,P26850,Nike VisionX Pro X,Nike,Running Shoes,Sports,87146.97,4.7,2,running shoes,57,17,No,0
+U7662,57,Male,Pune,43,807.66,P80323,Zara TrailBlaze Pro X,Zara,T-Shirt,Clothing,29811.71,4.6,29,t-shirt,1,15,No,0
+U8109,45,Female,Hyderabad,82,11021.03,P97976,Dove SmartFit Fusion,Dove,Shampoo,Beauty,65500.64,4.7,59,shampoo,52,8,No,0
+U4439,56,Female,Kolkata,19,44578.73,P49038,Boat TrailBlaze Ultra,Boat,Headphones,Electronics,77751.36,4.2,47,headphones,23,25,Yes,1
+U6331,48,Female,Kolkata,11,12411.11,P82111,Head HyperBoost Max,Head & Shoulders,Shampoo,Beauty,38843.46,3.6,2,shampoo,22,28,No,0
+U6528,34,Female,Hyderabad,14,12840.44,P86163,Adidas AirFlex Advance,Adidas,Running Shoes,Sports,31494.88,2.7,28,running shoes,39,13,Yes,0
+U6489,37,Female,Pune,81,32651.15,P31733,Dove ComfortPro Neo,Dove,Shampoo,Beauty,6879.9,4.9,54,shampoo,22,7,No,0
+U7610,46,Male,Bangalore,6,15915.62,P32292,Samsung UrbanStep Active,Samsung,Smartphone,Electronics,77260.22,2.7,39,smartphone,15,28,Yes,0
+U8665,46,Male,Pune,29,2605.76,P37483,Samsung SmartFit Plus,Samsung,Smartphone,Electronics,40837.77,3.1,22,smartphone,38,6,No,0
+U4062,38,Male,Pune,17,35912.3,P81415,Head AirFlex Pro X,Head & Shoulders,Shampoo,Beauty,33578.31,2.9,33,shampoo,27,21,Yes,0
+U2124,46,Male,Pune,27,44812.59,P13751,Boat PowerRun Fusion,Boat,Headphones,Electronics,79322.67,2.8,18,headphones,43,39,No,0
+U6371,48,Female,Chennai,71,1770.27,P72698,Nike HyperBoost Elite,Nike,Running Shoes,Sports,34912.35,3.3,0,running shoes,12,26,No,0
+U4498,35,Male,Chennai,30,48565.08,P39354,L'Oreal ComfortPro Prime,L'Oreal,Shampoo,Beauty,27412.88,4.5,8,shampoo,35,18,No,0
+U2253,38,Male,Chennai,34,10518.31,P79522,Zara SmartFit Prime,Zara,T-Shirt,Clothing,87596.42,3.1,11,t-shirt,20,20,No,0
+U1580,24,Female,Delhi,71,21021.64,P27202,L'Oreal TrailBlaze Fusion,L'Oreal,Shampoo,Beauty,77539.75,4.9,35,shampoo,39,8,Yes,1
+U1615,26,Male,Pune,98,47964.41,P24293,Boat ComfortPro Fusion,Boat,Headphones,Electronics,10103.57,4.9,20,headphones,59,20,No,0
+U5193,28,Female,Mumbai,48,21643.5,P12471,Dove TrailBlaze Pro X,Dove,Shampoo,Beauty,17670.98,2.7,60,shampoo,59,11,Yes,0
+U1397,48,Male,Mumbai,86,43577.46,P90281,Head UrbanStep Ultra,Head & Shoulders,Shampoo,Beauty,98914.68,4.6,50,shampoo,4,38,Yes,1
+U9629,23,Male,Kolkata,44,41900.59,P33907,Pantene ComfortPro Advance,Pantene,Shampoo,Beauty,9205.48,4.8,24,shampoo,23,17,No,0
+U4081,30,Male,Delhi,74,29223.61,P60961,OnePlus HyperBoost Advance,OnePlus,Smartphone,Electronics,32091.28,4.5,8,smartphone,21,22,Yes,1
+U8304,41,Female,Delhi,44,23605.72,P13034,Mamaearth ComfortPro Elite,Mamaearth,Shampoo,Beauty,287.14,4.6,20,shampoo,7,38,No,0
+U4682,32,Male,Delhi,61,30126.7,P83880,OnePlus PowerRun Plus,OnePlus,Smartphone,Electronics,18711.95,4.3,23,smartphone,48,24,No,0
+U6542,38,Female,Hyderabad,76,25909.68,P19071,Head PowerRun Max,Head & Shoulders,Shampoo,Beauty,89829.6,4.3,28,shampoo,33,35,Yes,1
+U6250,31,Male,Chennai,10,3941.8,P87102,Samsung TrailBlaze Plus,Samsung,Smartphone,Electronics,52151.58,4.7,26,smartphone,34,23,No,0
+U4778,27,Female,Mumbai,33,4174.28,P54839,Adidas PowerRun Fusion,Adidas,Running Shoes,Sports,64307.28,3.1,25,running shoes,58,34,No,0
+U8210,35,Male,Mumbai,25,31938.39,P44190,L'Oreal TrailBlaze Elite,L'Oreal,Shampoo,Beauty,51834.72,3.7,60,shampoo,36,4,Yes,1
+U5083,37,Male,Hyderabad,1,3614.8,P85584,OnePlus AirFlex Advance,OnePlus,Smartphone,Electronics,5667.29,3.9,38,smartphone,37,25,No,0
+U5542,19,Male,Kolkata,9,37209.35,P63123,L'Oreal HyperBoost Prime,L'Oreal,Shampoo,Beauty,5745.85,4.3,19,shampoo,48,10,Yes,1
+U3287,27,Male,Delhi,8,41464.56,P21167,Apple HyperBoost Edge,Apple,Smartphone,Electronics,29763.27,2.6,2,smartphone,45,27,No,0
+U2453,19,Male,Delhi,34,48879.46,P15668,Samsung VisionX Pro X,Samsung,Smartphone,Electronics,52928.07,2.6,37,smartphone,3,3,Yes,0
+U3082,19,Female,Bangalore,36,18668.22,P47769,Mamaearth SmartFit Neo,Mamaearth,Shampoo,Beauty,77342.08,3.7,5,shampoo,8,6,Yes,1
+U8078,20,Male,Hyderabad,87,24108.77,P26433,Boat SmartFit Plus,Boat,Headphones,Electronics,35160.32,5.0,14,headphones,59,14,No,0
+U3706,35,Male,Bangalore,43,33684.21,P72486,Head HyperBoost Plus,Head & Shoulders,Shampoo,Beauty,91880.89,4.6,34,shampoo,18,26,Yes,1
+U7508,55,Female,Kolkata,3,38660.9,P43844,Puma SmartFit Neo,Puma,Sneakers,Sports,73913.66,3.9,7,sneakers,57,25,Yes,1
+U3766,42,Female,Pune,57,16888.66,P43198,Head VisionX Ultra,Head & Shoulders,Shampoo,Beauty,86168.41,4.0,60,shampoo,8,13,No,0
+U1725,33,Female,Bangalore,94,18930.51,P58357,Pantene ComfortPro Neo,Pantene,Shampoo,Beauty,24214.48,2.7,52,shampoo,40,2,No,0
+U5527,38,Male,Pune,45,17996.22,P33250,Lenovo PowerRun Fusion,Lenovo,Laptop,Electronics,66445.01,4.8,4,laptop,42,1,Yes,1
+U5779,54,Male,Mumbai,37,9168.86,P39397,OnePlus UrbanStep Ultra,OnePlus,Smartphone,Electronics,69492.99,3.3,49,smartphone,9,38,No,1
+U3892,53,Male,Chennai,67,47444.69,P22700,Boat TrailBlaze Edge,Boat,Headphones,Electronics,29115.22,3.2,43,headphones,1,21,Yes,1
+U2682,47,Female,Mumbai,45,9631.39,P64925,Puma VisionX Elite,Puma,Sneakers,Sports,19274.64,4.3,20,sneakers,20,1,No,0
+U4761,52,Male,Mumbai,22,24967.65,P34583,OnePlus VisionX Edge,OnePlus,Smartphone,Electronics,91683.57,4.4,57,smartphone,43,33,Yes,1
+U9040,40,Male,Delhi,71,29110.36,P40118,Dove HyperBoost Plus,Dove,Shampoo,Beauty,90192.49,3.6,41,shampoo,21,10,Yes,1
+U6243,25,Female,Pune,4,10425.31,P88000,Adidas VisionX Ultra,Adidas,Running Shoes,Sports,54456.99,2.6,13,running shoes,11,39,No,0
+U8690,56,Female,Delhi,16,35238.28,P58823,Apple HyperBoost Plus,Apple,Smartphone,Electronics,41636.39,2.6,16,smartphone,53,33,Yes,0
+U3220,44,Female,Mumbai,10,34933.72,P87374,Mamaearth UrbanStep Edge,Mamaearth,Shampoo,Beauty,52428.78,4.4,4,shampoo,34,3,No,0
+U7919,54,Male,Pune,82,13669.28,P11987,Apple SmartFit Prime,Apple,Smartphone,Electronics,82899.0,4.8,60,smartphone,10,25,No,1
+U7218,52,Female,Mumbai,10,1736.42,P88848,Pantene HyperBoost Edge,Pantene,Shampoo,Beauty,26261.84,3.2,56,shampoo,31,22,Yes,1
+U7022,59,Female,Bangalore,67,7552.85,P96458,Head UrbanStep Advance,Head & Shoulders,Shampoo,Beauty,89229.34,3.8,38,shampoo,46,34,No,0
+U5571,21,Male,Pune,82,27020.39,P96168,Dove SmartFit Prime,Dove,Shampoo,Beauty,96290.39,4.8,28,shampoo,34,22,No,0
+U5626,54,Female,Kolkata,22,2874.21,P41262,Adidas PowerRun Neo,Adidas,Running Shoes,Sports,36752.59,3.6,19,running shoes,48,35,No,0
+U7243,45,Male,Bangalore,5,24988.78,P40618,L'Oreal HyperBoost Neo,L'Oreal,Shampoo,Beauty,37069.84,4.8,55,shampoo,58,3,No,0
+U9380,42,Female,Delhi,62,6846.83,P91807,HP HyperBoost Max,HP,Laptop,Electronics,81606.04,3.5,43,laptop,30,25,Yes,1
+U5415,25,Male,Chennai,39,3272.75,P80019,Zara SmartFit Neo,Zara,T-Shirt,Clothing,221.97,2.6,54,t-shirt,36,36,No,1
+U7733,44,Male,Delhi,59,49324.46,P18631,Adidas PowerRun Advance,Adidas,Running Shoes,Sports,70941.42,3.5,55,running shoes,26,38,No,1
+U3919,55,Female,Bangalore,39,11758.72,P73815,Mamaearth HyperBoost Neo,Mamaearth,Shampoo,Beauty,1659.46,5.0,17,shampoo,5,7,No,0
+U1573,20,Male,Delhi,7,44109.42,P33948,OnePlus TrailBlaze Elite,OnePlus,Smartphone,Electronics,52408.93,3.1,41,smartphone,59,20,No,1
+U3001,29,Male,Kolkata,19,11288.34,P73038,Adidas AirFlex Pro X,Adidas,Running Shoes,Sports,30684.31,3.2,6,running shoes,3,4,No,0
+U4322,51,Male,Chennai,61,27196.6,P42706,OnePlus ComfortPro Active,OnePlus,Smartphone,Electronics,36744.71,4.1,13,smartphone,15,4,No,0
+U7119,42,Female,Kolkata,70,23972.66,P68990,Nike TrailBlaze Plus,Nike,Running Shoes,Sports,69404.67,3.8,11,running shoes,24,22,No,0
+U3258,47,Female,Pune,27,19365.43,P48783,Pantene TrailBlaze Plus,Pantene,Shampoo,Beauty,4657.65,3.8,31,shampoo,8,26,Yes,1
+U2969,59,Female,Pune,87,3251.87,P35134,Dove AirFlex Advance,Dove,Shampoo,Beauty,2587.36,3.1,5,shampoo,12,12,Yes,0
+U2379,56,Female,Kolkata,17,32057.63,P36546,Boat SmartFit Pro X,Boat,Headphones,Electronics,81113.63,3.5,13,headphones,57,37,Yes,1
+U4874,24,Female,Delhi,24,43507.9,P18433,Samsung AirFlex Prime,Samsung,Smartphone,Electronics,12009.12,3.3,58,smartphone,2,12,No,0
+U1814,57,Female,Bangalore,86,22732.6,P39402,Nike UrbanStep Pro X,Nike,Running Shoes,Sports,61560.18,3.2,45,running shoes,57,39,Yes,1
+U3634,57,Female,Kolkata,38,9308.26,P56207,Samsung ComfortPro Ultra,Samsung,Smartphone,Electronics,11838.8,3.5,41,smartphone,42,12,No,0
+U7557,33,Male,Mumbai,35,8263.54,P12566,Zara ComfortPro Core,Zara,T-Shirt,Clothing,71812.11,4.1,6,t-shirt,32,21,Yes,1
+U6283,36,Male,Kolkata,8,39145.4,P86139,Puma UrbanStep Prime,Puma,Sneakers,Sports,69101.97,4.3,53,sneakers,32,23,No,1
+U9708,43,Male,Chennai,15,38913.93,P58278,Boat TrailBlaze Elite,Boat,Headphones,Electronics,12423.55,4.5,28,headphones,34,9,Yes,1
+U6898,46,Female,Mumbai,10,22629.76,P95826,Zara SmartFit Ultra,Zara,T-Shirt,Clothing,89225.73,4.6,44,t-shirt,52,29,Yes,1
+U4967,30,Female,Chennai,64,20256.83,P30011,L'Oreal HyperBoost Plus,L'Oreal,Shampoo,Beauty,30584.95,2.8,1,shampoo,35,14,Yes,0
+U8239,48,Male,Delhi,28,21225.46,P80931,Lenovo TrailBlaze Max,Lenovo,Laptop,Electronics,58378.41,3.8,60,laptop,43,4,No,0
+U4785,49,Female,Pune,75,47422.23,P43153,Samsung SmartFit Edge,Samsung,Smartphone,Electronics,39207.09,2.8,6,smartphone,4,40,Yes,0
+U3909,48,Male,Chennai,91,24570.52,P85345,Zara AirFlex Max,Zara,T-Shirt,Clothing,63021.09,3.9,17,t-shirt,2,12,No,0
+U6778,35,Female,Delhi,79,19932.67,P20373,Zara HyperBoost Prime,Zara,T-Shirt,Clothing,14701.28,3.0,30,t-shirt,42,28,Yes,0
+U7674,51,Female,Kolkata,13,20509.52,P32859,Mamaearth ComfortPro Prime,Mamaearth,Shampoo,Beauty,63280.73,2.7,58,shampoo,32,32,No,1
+U8274,40,Female,Chennai,91,37813.41,P86627,Head ComfortPro Ultra,Head & Shoulders,Shampoo,Beauty,87662.2,4.7,36,shampoo,50,30,No,0
+U3902,52,Male,Pune,24,33802.76,P80719,Boat TrailBlaze Neo,Boat,Headphones,Electronics,11862.35,4.0,17,headphones,14,29,Yes,1
+U7939,25,Male,Mumbai,29,8779.45,P45159,Mamaearth AirFlex Ultra,Mamaearth,Shampoo,Beauty,54226.25,2.5,59,shampoo,4,21,Yes,1
+U6827,40,Male,Hyderabad,13,46799.06,P24654,Nike TrailBlaze Advance,Nike,Running Shoes,Sports,79869.32,4.7,21,running shoes,10,30,Yes,1
+U5554,58,Female,Bangalore,70,7260.77,P97368,Lenovo HyperBoost Fusion,Lenovo,Laptop,Electronics,33705.01,5.0,16,laptop,30,16,No,0
+U8580,34,Female,Chennai,75,26301.57,P28951,Dove AirFlex Prime,Dove,Shampoo,Beauty,17297.53,3.8,15,shampoo,28,7,Yes,1
+U1309,57,Female,Mumbai,53,48176.02,P28570,Adidas SmartFit Advance,Adidas,Running Shoes,Sports,63921.46,5.0,43,running shoes,34,20,No,1
+U1088,45,Male,Kolkata,29,737.63,P14205,Adidas UrbanStep Fusion,Adidas,Running Shoes,Sports,72127.23,2.9,28,running shoes,43,2,Yes,0
+U8852,20,Female,Delhi,10,30180.97,P47759,Lenovo PowerRun Active,Lenovo,Laptop,Electronics,8898.9,4.3,21,laptop,27,27,Yes,1
+U6390,38,Female,Mumbai,95,40399.27,P79588,Levi's UrbanStep Fusion,Levi's,Jeans,Clothing,63143.22,4.0,59,jeans,23,13,No,0
+U5373,56,Female,Delhi,80,27943.65,P70173,Dove PowerRun Prime,Dove,Shampoo,Beauty,37288.68,4.7,58,shampoo,56,40,Yes,1
+U9924,49,Female,Delhi,95,46101.21,P78235,Samsung PowerRun Fusion,Samsung,Smartphone,Electronics,93628.44,2.8,60,smartphone,36,20,No,1
+U4489,60,Female,Delhi,3,20514.02,P12599,Head VisionX Advance,Head & Shoulders,Shampoo,Beauty,65853.81,3.3,45,shampoo,36,7,Yes,0
+U7811,49,Male,Chennai,93,43940.86,P43629,HP HyperBoost Neo,HP,Laptop,Electronics,82226.35,2.8,40,laptop,14,38,No,0
+U1255,58,Male,Chennai,53,15149.49,P43749,Pantene UrbanStep Max,Pantene,Shampoo,Beauty,96270.66,2.7,16,shampoo,45,2,Yes,0
+U9556,54,Male,Pune,7,19836.81,P31435,OnePlus TrailBlaze Advance,OnePlus,Smartphone,Electronics,2443.73,3.7,46,smartphone,58,14,No,0
+U3645,49,Female,Bangalore,31,14834.37,P53280,Samsung HyperBoost Ultra,Samsung,Smartphone,Electronics,53789.14,2.7,41,smartphone,24,19,Yes,1
+U6571,48,Male,Pune,54,5044.14,P66556,Nike VisionX Ultra,Nike,Running Shoes,Sports,3650.23,3.0,20,running shoes,42,33,Yes,0
+U6850,40,Male,Hyderabad,65,43341.76,P25063,Pantene SmartFit Advance,Pantene,Shampoo,Beauty,74272.56,3.3,6,shampoo,23,6,Yes,0
+U9816,44,Male,Mumbai,16,11236.73,P19770,Pantene TrailBlaze Active,Pantene,Shampoo,Beauty,5333.62,5.0,8,shampoo,43,22,No,0
+U2648,33,Male,Mumbai,50,30254.19,P70034,Puma PowerRun Active,Puma,Sneakers,Sports,46674.68,4.7,10,sneakers,10,26,Yes,1
+U6247,35,Female,Hyderabad,57,15880.52,P34875,Adidas UrbanStep Max,Adidas,Running Shoes,Sports,92382.9,3.4,15,running shoes,46,27,Yes,0
+U8574,48,Female,Chennai,43,10119.66,P86483,Nike VisionX Max,Nike,Running Shoes,Sports,47037.98,3.8,22,running shoes,1,3,Yes,0
+U3883,20,Male,Mumbai,86,47160.65,P55331,L'Oreal PowerRun Plus,L'Oreal,Shampoo,Beauty,96422.88,4.2,59,shampoo,49,32,Yes,1
+U3013,32,Male,Delhi,61,11209.74,P36307,Adidas AirFlex Neo,Adidas,Running Shoes,Sports,65863.74,3.7,58,running shoes,12,4,Yes,1
+U8939,23,Female,Hyderabad,17,10756.33,P85459,Levi's AirFlex Max,Levi's,Jeans,Clothing,73827.14,4.6,53,jeans,14,29,Yes,1
+U2084,34,Male,Bangalore,30,43541.16,P19056,Dove AirFlex Neo,Dove,Shampoo,Beauty,6810.05,3.6,42,shampoo,12,2,No,0
+U2704,33,Female,Hyderabad,67,46026.69,P26869,Mamaearth AirFlex Prime,Mamaearth,Shampoo,Beauty,39093.98,3.6,4,shampoo,38,12,Yes,1
+U1035,28,Male,Chennai,42,12267.15,P28522,Zara SmartFit Advance,Zara,T-Shirt,Clothing,15738.95,3.1,54,t-shirt,58,22,No,1
+U1717,58,Female,Kolkata,51,48123.63,P78189,Mamaearth ComfortPro Pro X,Mamaearth,Shampoo,Beauty,20479.69,3.5,0,shampoo,35,24,No,0
+U9666,25,Female,Pune,17,7909.0,P98237,Zara TrailBlaze Edge,Zara,T-Shirt,Clothing,96846.35,3.8,20,t-shirt,9,12,No,0
+U7699,34,Male,Hyderabad,73,24541.19,P22489,Mamaearth UrbanStep Plus,Mamaearth,Shampoo,Beauty,81246.43,3.5,54,shampoo,41,5,Yes,1
+U7195,21,Male,Pune,25,11149.45,P76725,Pantene VisionX Active,Pantene,Shampoo,Beauty,3333.06,3.6,52,shampoo,16,39,No,1
+U1476,29,Female,Chennai,59,31106.81,P48140,Mamaearth UrbanStep Active,Mamaearth,Shampoo,Beauty,32603.55,4.1,44,shampoo,35,29,Yes,1
+U1121,30,Female,Hyderabad,86,43806.21,P59170,Mamaearth PowerRun Elite,Mamaearth,Shampoo,Beauty,26028.86,4.4,54,shampoo,14,31,No,1
+U8391,31,Male,Delhi,67,12921.89,P17811,Mamaearth PowerRun Plus,Mamaearth,Shampoo,Beauty,54085.26,4.0,38,shampoo,33,27,No,0
+U7487,57,Male,Hyderabad,27,22592.63,P23252,Mamaearth TrailBlaze Max,Mamaearth,Shampoo,Beauty,78159.07,2.5,18,shampoo,33,6,No,0
+U5149,37,Male,Delhi,1,47322.32,P67204,Lenovo UrbanStep Core,Lenovo,Laptop,Electronics,20107.75,2.9,25,laptop,21,39,Yes,0
+U9694,45,Male,Chennai,51,14863.15,P30888,HP TrailBlaze Elite,HP,Laptop,Electronics,13614.98,4.0,5,laptop,31,8,No,0
+U7925,35,Female,Mumbai,6,33343.88,P92719,Levi's AirFlex Advance,Levi's,Jeans,Clothing,25038.66,2.5,5,jeans,36,15,Yes,0
+U7091,29,Male,Delhi,80,11723.08,P11138,Apple PowerRun Neo,Apple,Smartphone,Electronics,7733.74,4.2,29,smartphone,7,23,No,0
+U5945,55,Female,Pune,71,726.58,P25963,Lenovo SmartFit Prime,Lenovo,Laptop,Electronics,69397.73,4.1,7,laptop,6,20,Yes,1
+U5573,59,Male,Mumbai,32,37734.47,P54828,Puma UrbanStep Elite,Puma,Sneakers,Sports,24199.84,3.4,52,sneakers,34,25,No,1
+U8772,48,Male,Chennai,34,8998.59,P28225,HP PowerRun Advance,HP,Laptop,Electronics,79359.63,3.5,48,laptop,32,22,Yes,1
+U5882,43,Male,Pune,16,49733.21,P15102,HP HyperBoost Ultra,HP,Laptop,Electronics,41699.33,3.8,22,laptop,7,40,Yes,1
+U8566,29,Female,Mumbai,80,38352.37,P77792,Head VisionX Plus,Head & Shoulders,Shampoo,Beauty,83559.44,3.6,31,shampoo,35,39,Yes,1
+U5878,42,Female,Mumbai,49,31749.44,P82909,Boat UrbanStep Neo,Boat,Headphones,Electronics,88965.23,2.8,32,headphones,48,11,Yes,0
+U4640,36,Male,Hyderabad,59,29027.64,P23202,Dove TrailBlaze Max,Dove,Shampoo,Beauty,70144.22,2.7,58,shampoo,25,26,No,1
+U4723,48,Female,Chennai,47,20319.25,P79650,Head TrailBlaze Ultra,Head & Shoulders,Shampoo,Beauty,77799.19,4.5,0,shampoo,46,35,Yes,1
+U4725,51,Female,Bangalore,81,22493.57,P78376,HP SmartFit Fusion,HP,Laptop,Electronics,84728.29,2.9,36,laptop,34,34,Yes,0
+U1999,44,Male,Delhi,45,10191.85,P77374,Dove HyperBoost Prime,Dove,Shampoo,Beauty,15549.37,3.0,22,shampoo,21,37,No,0
+U2736,30,Female,Delhi,96,17259.38,P70590,Adidas TrailBlaze Edge,Adidas,Running Shoes,Sports,34227.19,3.4,51,running shoes,15,34,Yes,1
+U2950,44,Female,Delhi,64,36461.75,P25286,HP SmartFit Active,HP,Laptop,Electronics,94567.8,4.8,7,laptop,57,32,Yes,1
+U7932,21,Female,Bangalore,4,39166.9,P61083,Adidas VisionX Elite,Adidas,Running Shoes,Sports,33695.19,4.6,28,running shoes,18,39,Yes,1
+U4077,55,Male,Pune,2,14319.29,P84044,OnePlus PowerRun Edge,OnePlus,Smartphone,Electronics,55977.29,3.9,50,smartphone,1,25,No,1
+U5079,49,Male,Chennai,29,28135.87,P62692,Head PowerRun Elite,Head & Shoulders,Shampoo,Beauty,54314.24,3.8,60,shampoo,26,38,No,1
+U7813,41,Male,Bangalore,32,995.42,P68248,OnePlus VisionX Pro X,OnePlus,Smartphone,Electronics,96735.82,3.4,10,smartphone,9,37,No,0
+U3853,59,Male,Pune,10,6311.3,P12782,Levi's ComfortPro Plus,Levi's,Jeans,Clothing,75017.39,3.4,1,jeans,12,28,No,0
+U1404,49,Male,Chennai,30,48905.34,P55027,Puma UrbanStep Pro X,Puma,Sneakers,Sports,12630.11,4.1,38,sneakers,35,24,No,0
+U4883,35,Female,Hyderabad,16,15730.2,P48250,Zara VisionX Advance,Zara,T-Shirt,Clothing,47373.72,3.8,30,t-shirt,32,22,Yes,1
+U6756,57,Male,Bangalore,52,21345.13,P66670,OnePlus HyperBoost Prime,OnePlus,Smartphone,Electronics,55493.0,3.6,16,smartphone,41,12,Yes,1
+U7237,46,Male,Chennai,31,32658.71,P22201,Pantene ComfortPro Fusion,Pantene,Shampoo,Beauty,58701.91,4.0,28,shampoo,55,37,No,0
+U6347,57,Female,Mumbai,11,45351.78,P29369,L'Oreal HyperBoost Ultra,L'Oreal,Shampoo,Beauty,20546.82,4.4,11,shampoo,25,31,Yes,1
+U5809,30,Male,Kolkata,64,30917.15,P25963,L'Oreal HyperBoost Edge,L'Oreal,Shampoo,Beauty,9377.6,3.5,8,shampoo,57,20,Yes,1
+U9324,49,Male,Kolkata,14,16002.34,P56223,Boat HyperBoost Fusion,Boat,Headphones,Electronics,11326.08,3.3,10,headphones,14,36,Yes,0
+U5472,60,Female,Mumbai,14,47472.66,P55937,Puma ComfortPro Active,Puma,Sneakers,Sports,93330.86,3.7,52,sneakers,32,10,Yes,1
+U3599,47,Female,Bangalore,5,44716.05,P87900,Adidas AirFlex Max,Adidas,Running Shoes,Sports,68263.14,4.6,40,running shoes,54,26,No,0
+U9759,42,Female,Bangalore,84,40211.92,P14208,Levi's TrailBlaze Fusion,Levi's,Jeans,Clothing,74638.27,3.2,48,jeans,42,40,No,1
+U7566,38,Female,Delhi,46,4840.61,P67849,Head ComfortPro Advance,Head & Shoulders,Shampoo,Beauty,88603.31,3.4,28,shampoo,45,7,Yes,0
+U7691,22,Male,Kolkata,66,34279.52,P38934,Mamaearth HyperBoost Ultra,Mamaearth,Shampoo,Beauty,58435.7,4.4,56,shampoo,32,11,Yes,1
+U5532,53,Male,Chennai,70,16099.08,P92769,Samsung SmartFit Neo,Samsung,Smartphone,Electronics,67660.68,4.9,35,smartphone,35,17,No,0
+U8115,55,Male,Chennai,51,45817.85,P43422,Apple HyperBoost Active,Apple,Smartphone,Electronics,54720.0,3.1,23,smartphone,57,35,Yes,0
+U3810,48,Male,Hyderabad,42,11167.4,P14799,OnePlus PowerRun Neo,OnePlus,Smartphone,Electronics,90256.93,3.3,12,smartphone,13,33,Yes,0
+U6985,41,Female,Mumbai,70,26975.96,P49416,Head SmartFit Neo,Head & Shoulders,Shampoo,Beauty,79365.13,3.9,27,shampoo,40,35,Yes,1
+U2444,30,Female,Mumbai,4,46628.26,P17082,Dove TrailBlaze Active,Dove,Shampoo,Beauty,34641.6,4.6,14,shampoo,30,4,No,0
+U8697,39,Female,Kolkata,34,8602.53,P88620,Dove ComfortPro Advance,Dove,Shampoo,Beauty,14191.24,4.5,41,shampoo,59,29,No,1
+U2250,49,Female,Kolkata,15,24939.66,P68908,L'Oreal ComfortPro Pro X,L'Oreal,Shampoo,Beauty,4241.87,3.9,26,shampoo,53,20,No,0
+U3692,23,Female,Chennai,92,48326.59,P28606,Boat ComfortPro Active,Boat,Headphones,Electronics,64534.94,2.6,55,headphones,57,38,Yes,1
+U6491,21,Male,Bangalore,67,47913.87,P98829,Boat PowerRun Plus,Boat,Headphones,Electronics,2925.7,4.4,18,headphones,38,30,Yes,1
+U1788,19,Male,Delhi,72,13852.26,P38014,Nike ComfortPro Prime,Nike,Running Shoes,Sports,97530.25,3.5,13,running shoes,58,28,Yes,1
+U8496,37,Female,Kolkata,7,29468.71,P63073,Zara TrailBlaze Active,Zara,T-Shirt,Clothing,35621.32,5.0,26,t-shirt,21,19,No,0
+U7766,43,Male,Hyderabad,79,47890.49,P88668,Pantene SmartFit Ultra,Pantene,Shampoo,Beauty,29629.41,3.5,39,shampoo,56,9,No,0
+U9474,41,Female,Bangalore,25,10231.75,P88473,OnePlus AirFlex Prime,OnePlus,Smartphone,Electronics,60040.19,3.3,20,smartphone,13,19,Yes,0
+U5003,43,Female,Mumbai,92,40483.24,P20844,Lenovo HyperBoost Edge,Lenovo,Laptop,Electronics,7529.07,2.8,18,laptop,59,9,Yes,0
+U5864,56,Female,Mumbai,35,6085.42,P25239,Adidas UrbanStep Prime,Adidas,Running Shoes,Sports,96505.59,3.4,11,running shoes,12,39,Yes,0
+U4139,32,Female,Bangalore,72,49351.64,P73922,L'Oreal AirFlex Plus,L'Oreal,Shampoo,Beauty,66026.09,3.3,59,shampoo,51,1,No,0
+U4048,46,Female,Mumbai,84,7081.74,P53337,HP VisionX Fusion,HP,Laptop,Electronics,99846.85,4.6,54,laptop,44,4,No,0
+U4523,46,Male,Pune,49,1450.06,P10648,Zara UrbanStep Elite,Zara,T-Shirt,Clothing,97178.27,3.7,26,t-shirt,42,20,No,0
+U6785,25,Male,Bangalore,69,3956.22,P44842,Head VisionX Prime,Head & Shoulders,Shampoo,Beauty,27897.95,4.3,19,shampoo,24,19,Yes,1
+U9633,22,Female,Mumbai,33,12057.56,P55897,Adidas ComfortPro Core,Adidas,Running Shoes,Sports,49949.47,2.7,8,running shoes,51,35,No,0
+U1280,52,Male,Mumbai,51,21071.82,P24985,Mamaearth VisionX Prime,Mamaearth,Shampoo,Beauty,72243.77,2.9,4,shampoo,26,33,No,0
+U8680,33,Male,Pune,93,43422.21,P57378,Adidas HyperBoost Fusion,Adidas,Running Shoes,Sports,54012.25,3.7,2,running shoes,49,33,Yes,1
+U4329,48,Female,Pune,84,39795.2,P97295,Pantene PowerRun Elite,Pantene,Shampoo,Beauty,98116.51,4.1,13,shampoo,1,11,No,0
+U4262,22,Male,Bangalore,62,22763.97,P36775,OnePlus SmartFit Pro X,OnePlus,Smartphone,Electronics,61719.77,4.6,24,smartphone,25,28,Yes,1
+U6198,42,Female,Mumbai,48,49668.07,P17674,Boat HyperBoost Max,Boat,Headphones,Electronics,15531.55,4.4,53,headphones,10,39,Yes,1
+U2710,38,Female,Chennai,49,15895.52,P11233,Mamaearth VisionX Ultra,Mamaearth,Shampoo,Beauty,48828.06,2.8,52,shampoo,30,39,Yes,1
+U2083,59,Male,Delhi,64,47174.72,P65311,L'Oreal UrbanStep Fusion,L'Oreal,Shampoo,Beauty,98415.52,3.6,53,shampoo,25,34,Yes,1
+U5234,47,Female,Delhi,67,28697.48,P78175,L'Oreal AirFlex Prime,L'Oreal,Shampoo,Beauty,30214.36,2.7,58,shampoo,17,21,Yes,1
+U4119,58,Female,Hyderabad,86,15795.75,P52425,HP PowerRun Max,HP,Laptop,Electronics,62085.34,4.2,7,laptop,57,1,No,0
+U6423,24,Male,Mumbai,50,46951.78,P15476,Lenovo HyperBoost Pro X,Lenovo,Laptop,Electronics,35508.05,4.5,44,laptop,4,24,Yes,1
+U6929,27,Male,Kolkata,70,36267.41,P37202,Zara AirFlex Neo,Zara,T-Shirt,Clothing,96522.9,2.6,56,t-shirt,6,16,No,1
+U8739,59,Male,Mumbai,88,43971.4,P19072,Nike UrbanStep Prime,Nike,Running Shoes,Sports,97429.04,3.5,35,running shoes,31,35,No,0
+U4432,23,Female,Bangalore,43,28152.26,P12812,OnePlus HyperBoost Fusion,OnePlus,Smartphone,Electronics,44808.95,4.7,42,smartphone,32,8,No,0
+U5060,51,Male,Delhi,46,6066.88,P97659,Adidas PowerRun Ultra,Adidas,Running Shoes,Sports,56848.04,4.3,35,running shoes,22,4,No,0
+U8780,30,Female,Hyderabad,59,31691.09,P40575,Levi's VisionX Prime,Levi's,Jeans,Clothing,50954.83,3.1,42,jeans,37,39,No,1
+U1997,33,Male,Delhi,75,31418.73,P33083,L'Oreal ComfortPro Neo,L'Oreal,Shampoo,Beauty,44566.35,3.8,16,shampoo,46,32,No,0
+U9533,57,Female,Kolkata,93,2100.83,P80849,Mamaearth TrailBlaze Plus,Mamaearth,Shampoo,Beauty,79909.88,3.5,43,shampoo,58,27,No,1
+U9229,29,Female,Chennai,45,21016.83,P47539,Head HyperBoost Edge,Head & Shoulders,Shampoo,Beauty,94866.39,2.7,12,shampoo,29,36,Yes,0
+U1939,31,Male,Mumbai,43,17397.9,P91061,Boat UrbanStep Active,Boat,Headphones,Electronics,31965.72,3.0,53,headphones,12,28,Yes,1
+U2810,22,Male,Delhi,96,15105.71,P21241,Nike VisionX Neo,Nike,Running Shoes,Sports,29046.49,4.2,21,running shoes,3,37,Yes,0
+U8360,33,Male,Kolkata,80,8586.04,P33228,Mamaearth ComfortPro Plus,Mamaearth,Shampoo,Beauty,76175.42,3.3,28,shampoo,40,14,No,0
+U7606,55,Female,Hyderabad,72,3225.59,P48874,Boat HyperBoost Edge,Boat,Headphones,Electronics,43740.7,4.6,32,headphones,12,30,No,0
+U8164,28,Female,Chennai,85,6299.39,P18842,Dove UrbanStep Plus,Dove,Shampoo,Beauty,44776.12,4.8,60,shampoo,55,21,Yes,1
+U4624,36,Female,Kolkata,45,38686.68,P71300,HP ComfortPro Edge,HP,Laptop,Electronics,12507.32,3.4,54,laptop,11,34,No,1
+U1134,37,Female,Kolkata,23,29440.09,P56415,HP ComfortPro Core,HP,Laptop,Electronics,79147.29,5.0,29,laptop,57,16,No,0
+U4748,18,Female,Kolkata,0,5691.51,P52179,Apple AirFlex Neo,Apple,Smartphone,Electronics,46833.3,3.1,28,smartphone,42,21,Yes,0
+U8256,52,Male,Pune,58,25418.79,P68570,Nike AirFlex Core,Nike,Running Shoes,Sports,88382.38,2.6,33,running shoes,14,24,Yes,0
+U7544,28,Male,Kolkata,0,33626.22,P65082,Mamaearth VisionX Edge,Mamaearth,Shampoo,Beauty,5333.12,3.1,48,shampoo,15,9,No,0
+U2436,19,Male,Pune,91,12349.38,P60156,Zara VisionX Ultra,Zara,T-Shirt,Clothing,33299.97,3.2,40,t-shirt,9,13,Yes,0
+U6648,18,Male,Kolkata,100,38517.7,P91573,Apple HyperBoost Pro X,Apple,Smartphone,Electronics,81149.61,3.0,30,smartphone,53,2,No,0
+U8205,45,Male,Pune,21,16172.22,P65386,Apple AirFlex Max,Apple,Smartphone,Electronics,68042.04,3.4,58,smartphone,16,18,Yes,1
+U2899,34,Male,Hyderabad,4,39613.25,P61768,Levi's PowerRun Advance,Levi's,Jeans,Clothing,58003.93,4.3,34,jeans,5,4,Yes,0
+U2879,33,Female,Pune,52,36913.38,P64563,Levi's ComfortPro Core,Levi's,Jeans,Clothing,84680.39,4.7,18,jeans,18,1,No,0
+U8039,50,Male,Kolkata,44,17545.41,P95075,Adidas AirFlex Fusion,Adidas,Running Shoes,Sports,74948.21,2.9,31,running shoes,23,20,No,0
+U8536,47,Female,Hyderabad,38,25883.03,P80804,Adidas UrbanStep Pro X,Adidas,Running Shoes,Sports,12853.48,4.1,38,running shoes,29,1,No,0
+U6455,19,Female,Chennai,71,35058.47,P36389,Boat SmartFit Neo,Boat,Headphones,Electronics,64715.63,4.6,20,headphones,46,37,No,0
+U2470,54,Female,Pune,60,4763.33,P27580,Nike PowerRun Active,Nike,Running Shoes,Sports,91443.34,4.2,26,running shoes,26,25,Yes,1
+U1166,24,Female,Pune,50,22685.87,P20966,Puma PowerRun Neo,Puma,Sneakers,Sports,99003.65,3.6,7,sneakers,16,35,No,0
+U8163,50,Male,Delhi,37,12827.88,P14801,Mamaearth ComfortPro Advance,Mamaearth,Shampoo,Beauty,12004.6,2.7,16,shampoo,43,3,No,0
+U8006,54,Male,Kolkata,20,4651.17,P99303,Adidas VisionX Plus,Adidas,Running Shoes,Sports,58273.63,4.4,51,running shoes,45,21,No,1
+U3646,38,Male,Bangalore,67,37320.22,P16296,Samsung UrbanStep Fusion,Samsung,Smartphone,Electronics,32698.5,2.9,30,smartphone,33,4,Yes,0
+U5047,26,Male,Hyderabad,26,12733.16,P38523,Adidas HyperBoost Max,Adidas,Running Shoes,Sports,31200.22,4.7,20,running shoes,27,16,No,0
+U5920,32,Female,Mumbai,21,44330.28,P49025,Samsung SmartFit Max,Samsung,Smartphone,Electronics,34725.42,4.4,5,smartphone,10,37,Yes,1
+U9748,59,Male,Delhi,84,5361.64,P38462,Nike AirFlex Pro X,Nike,Running Shoes,Sports,35396.63,4.8,22,running shoes,39,39,No,0
+U9295,37,Male,Pune,83,859.3,P53892,Boat TrailBlaze Fusion,Boat,Headphones,Electronics,14326.67,3.9,55,headphones,16,7,No,0
+U9153,49,Female,Delhi,84,18353.21,P69375,Apple TrailBlaze Plus,Apple,Smartphone,Electronics,97151.89,2.7,37,smartphone,11,2,No,0
+U1098,25,Female,Chennai,75,9650.89,P60762,OnePlus UrbanStep Prime,OnePlus,Smartphone,Electronics,74800.78,2.8,50,smartphone,47,28,No,1
+U4301,29,Male,Chennai,10,40189.44,P42052,Mamaearth HyperBoost Prime,Mamaearth,Shampoo,Beauty,48015.38,3.6,60,shampoo,5,37,No,1
+U4362,29,Female,Bangalore,94,2290.15,P95906,Head TrailBlaze Fusion,Head & Shoulders,Shampoo,Beauty,41383.04,3.6,41,shampoo,40,39,Yes,1
+U6710,42,Male,Bangalore,44,19134.13,P94859,Pantene ComfortPro Edge,Pantene,Shampoo,Beauty,74337.58,5.0,35,shampoo,2,18,Yes,0
+U5768,59,Male,Bangalore,87,34465.91,P45668,Boat HyperBoost Plus,Boat,Headphones,Electronics,40192.07,2.5,27,headphones,32,25,No,0
+U7511,54,Male,Kolkata,65,36018.47,P67470,Samsung HyperBoost Advance,Samsung,Smartphone,Electronics,54270.95,3.5,2,smartphone,25,18,Yes,1
+U4231,28,Male,Bangalore,48,25453.24,P81856,Puma ComfortPro Neo,Puma,Sneakers,Sports,72163.51,3.4,44,sneakers,15,2,No,0
+U9387,19,Male,Mumbai,93,27299.3,P48987,Samsung SmartFit Elite,Samsung,Smartphone,Electronics,93216.08,4.3,24,smartphone,9,29,No,0
+U6555,18,Male,Mumbai,20,28306.27,P22777,Pantene PowerRun Active,Pantene,Shampoo,Beauty,98366.64,4.0,37,shampoo,5,2,No,0
+U2985,22,Male,Delhi,0,1688.73,P69393,Apple HyperBoost Ultra,Apple,Smartphone,Electronics,5022.24,3.1,21,smartphone,18,17,No,0
+U9336,49,Female,Hyderabad,47,20018.95,P44006,Mamaearth PowerRun Max,Mamaearth,Shampoo,Beauty,83996.27,3.9,27,shampoo,8,21,No,0
+U9318,42,Female,Bangalore,22,48225.08,P28248,Nike PowerRun Ultra,Nike,Running Shoes,Sports,1526.07,4.8,58,running shoes,6,40,Yes,1
+U5542,39,Female,Chennai,31,7334.51,P95354,Levi's ComfortPro Neo,Levi's,Jeans,Clothing,350.75,2.9,54,jeans,58,12,Yes,0
+U4807,42,Female,Kolkata,39,40544.83,P73631,OnePlus AirFlex Plus,OnePlus,Smartphone,Electronics,7478.01,4.1,60,smartphone,14,19,No,1
+U4170,39,Female,Chennai,30,37011.85,P49566,Puma SmartFit Advance,Puma,Sneakers,Sports,54018.69,2.5,17,sneakers,54,17,Yes,0
+U5298,20,Male,Mumbai,39,36294.53,P32063,OnePlus HyperBoost Core,OnePlus,Smartphone,Electronics,41451.08,5.0,17,smartphone,40,25,Yes,1
+U2152,36,Male,Pune,40,25999.97,P10159,Head UrbanStep Elite,Head & Shoulders,Shampoo,Beauty,62208.13,3.8,6,shampoo,55,9,Yes,1
+U2080,41,Female,Hyderabad,29,7652.49,P90631,Pantene PowerRun Advance,Pantene,Shampoo,Beauty,48166.27,3.4,53,shampoo,7,24,No,1
+U8677,29,Female,Kolkata,51,49944.72,P32442,Adidas PowerRun Elite,Adidas,Running Shoes,Sports,86873.45,4.8,49,running shoes,11,31,Yes,1
+U8713,27,Male,Mumbai,58,13802.62,P70134,Head TrailBlaze Core,Head & Shoulders,Shampoo,Beauty,48133.32,4.4,48,shampoo,20,24,Yes,1
+U5134,28,Female,Kolkata,57,43609.15,P58566,OnePlus VisionX Ultra,OnePlus,Smartphone,Electronics,92635.1,4.7,60,smartphone,37,38,Yes,1
+U9443,18,Male,Chennai,75,13654.87,P42978,HP VisionX Prime,HP,Laptop,Electronics,91575.24,4.0,14,laptop,58,9,No,0
+U5245,39,Male,Hyderabad,6,38488.29,P32104,Levi's VisionX Max,Levi's,Jeans,Clothing,12355.74,3.2,48,jeans,44,14,No,0
+U6238,57,Female,Bangalore,99,20144.75,P45116,Boat PowerRun Elite,Boat,Headphones,Electronics,73363.62,3.8,4,headphones,30,8,No,0
+U2973,40,Male,Mumbai,81,32491.25,P30540,Adidas SmartFit Elite,Adidas,Running Shoes,Sports,4694.8,2.9,59,running shoes,23,4,No,0
+U3808,50,Male,Bangalore,24,11287.08,P47716,Boat ComfortPro Edge,Boat,Headphones,Electronics,75052.98,4.5,17,headphones,60,33,No,0
+U2442,57,Female,Hyderabad,42,20992.14,P28277,Zara SmartFit Plus,Zara,T-Shirt,Clothing,47596.53,4.7,46,t-shirt,42,17,Yes,1
+U3562,25,Male,Pune,49,28216.31,P95559,Boat VisionX Plus,Boat,Headphones,Electronics,47899.97,3.8,20,headphones,5,5,No,0
+U4538,33,Female,Pune,93,11269.14,P38897,L'Oreal VisionX Active,L'Oreal,Shampoo,Beauty,18708.7,4.4,41,shampoo,54,4,No,0
+U8898,59,Male,Kolkata,68,23116.23,P57199,Head ComfortPro Max,Head & Shoulders,Shampoo,Beauty,30788.92,2.7,50,shampoo,24,1,Yes,0
+U6692,32,Female,Hyderabad,47,7968.01,P15673,Pantene UrbanStep Advance,Pantene,Shampoo,Beauty,91330.12,4.1,35,shampoo,60,31,No,0
+U3907,43,Female,Bangalore,16,14880.22,P84891,Puma SmartFit Elite,Puma,Sneakers,Sports,88227.94,3.8,22,sneakers,53,35,No,0
+U3172,50,Male,Delhi,11,28400.69,P30351,Mamaearth TrailBlaze Pro X,Mamaearth,Shampoo,Beauty,62437.51,3.9,26,shampoo,52,1,Yes,1
+U8469,34,Female,Kolkata,9,7271.04,P45387,Zara HyperBoost Max,Zara,T-Shirt,Clothing,72647.02,2.5,14,t-shirt,42,35,Yes,0
+U5260,52,Female,Mumbai,55,32929.5,P54420,Apple TrailBlaze Neo,Apple,Smartphone,Electronics,39043.18,3.3,3,smartphone,59,21,Yes,0
+U2228,31,Male,Delhi,18,30437.56,P21002,Boat TrailBlaze Prime,Boat,Headphones,Electronics,7621.67,4.7,17,headphones,51,21,Yes,1
+U9139,49,Male,Hyderabad,22,42971.84,P94466,Boat TrailBlaze Active,Boat,Headphones,Electronics,51591.89,2.6,48,headphones,18,30,No,1
+U1487,54,Female,Delhi,18,30854.19,P79102,Mamaearth VisionX Advance,Mamaearth,Shampoo,Beauty,64375.03,4.2,57,shampoo,52,30,No,1
+U4155,47,Female,Hyderabad,54,5106.08,P99290,Boat HyperBoost Pro X,Boat,Headphones,Electronics,626.27,3.2,21,headphones,9,31,No,0
+U1826,54,Female,Chennai,6,11251.97,P63825,Puma HyperBoost Plus,Puma,Sneakers,Sports,10321.82,3.2,32,sneakers,60,34,No,0
+U6031,58,Male,Kolkata,24,49654.67,P19030,Pantene PowerRun Prime,Pantene,Shampoo,Beauty,43888.03,3.6,24,shampoo,1,38,No,0
+U6207,28,Male,Pune,58,19764.01,P57155,Boat VisionX Core,Boat,Headphones,Electronics,95717.78,3.4,37,headphones,6,27,Yes,0
+U2502,59,Male,Bangalore,87,35002.49,P73423,Zara HyperBoost Pro X,Zara,T-Shirt,Clothing,76205.93,2.9,20,t-shirt,22,13,Yes,0
+U7232,34,Female,Pune,64,18500.64,P37673,L'Oreal PowerRun Advance,L'Oreal,Shampoo,Beauty,61310.82,3.9,51,shampoo,5,23,No,1
+U4228,32,Male,Chennai,91,24539.14,P63399,Adidas PowerRun Core,Adidas,Running Shoes,Sports,68590.56,3.3,14,running shoes,11,19,Yes,0
+U3372,40,Male,Bangalore,30,48256.44,P29830,Adidas SmartFit Edge,Adidas,Running Shoes,Sports,44779.92,4.3,29,running shoes,37,20,No,0
+U2109,42,Male,Kolkata,96,37344.44,P33487,Levi's VisionX Fusion,Levi's,Jeans,Clothing,22591.24,2.7,9,jeans,58,11,Yes,0
