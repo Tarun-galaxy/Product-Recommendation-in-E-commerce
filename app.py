@@ -10,11 +10,16 @@ app = Flask(__name__)
 # LOAD DATA
 # ==============================
 df = pd.read_csv("product_realistic_unique_names.csv")
+
+# Keep full copy for UI
 display_df = df.copy()
 
-# Remove leakage columns
-df = df.drop(columns=["User_ID", "Product_ID", "Cart_Added", "Rating"])
+# Remove leakage columns from training
+df = df.drop(columns=["User_ID", "Product_ID", "Cart_Added", "Rating", "Image_URL"], errors="ignore")
 
+# ==============================
+# ENCODING
+# ==============================
 categorical_columns = [
     "Gender", "Location", "Product_Name",
     "Brand", "Product_Type", "Category",
@@ -24,10 +29,14 @@ categorical_columns = [
 label_encoders = {}
 
 for col in categorical_columns:
-    le = LabelEncoder()
-    df[col] = le.fit_transform(df[col])
-    label_encoders[col] = le
+    if col in df.columns:
+        le = LabelEncoder()
+        df[col] = le.fit_transform(df[col])
+        label_encoders[col] = le
 
+# ==============================
+# TRAIN MODEL
+# ==============================
 X = df.drop("Bought", axis=1)
 y = df["Bought"]
 
@@ -52,28 +61,33 @@ def index():
     prediction = None
     recommendations = []
 
+    selected_gender = None
+    selected_location = None
+    selected_query = None
+
     if request.method == "POST":
 
-        gender = request.form["gender"]
-        location = request.form["location"]
-        search_query = request.form["search_query"]
+        selected_gender = request.form.get("gender")
+        selected_location = request.form.get("location")
+        selected_query = request.form.get("search_query")
 
+        # Prepare input for prediction
         input_df = pd.DataFrame(columns=X.columns)
 
         for col in X.columns:
             input_df.loc[0, col] = X[col].mean()
 
-        input_df["Gender"] = label_encoders["Gender"].transform([gender])[0]
-        input_df["Location"] = label_encoders["Location"].transform([location])[0]
-        input_df["Search_Query"] = label_encoders["Search_Query"].transform([search_query])[0]
+        input_df["Gender"] = label_encoders["Gender"].transform([selected_gender])[0]
+        input_df["Location"] = label_encoders["Location"].transform([selected_location])[0]
+        input_df["Search_Query"] = label_encoders["Search_Query"].transform([selected_query])[0]
 
         input_df = input_df[X.columns]
 
         prediction = model.predict(input_df)[0]
         probability = round(model.predict_proba(input_df)[0][1] * 100, 2)
 
-        # Top 5 recommendations (rating based)
-        filtered_products = display_df[display_df["Search_Query"] == search_query]
+        # Recommendations (Rating based)
+        filtered_products = display_df[display_df["Search_Query"] == selected_query]
         recommendations = filtered_products.sort_values(
             by="Rating", ascending=False
         ).head(5).to_dict(orient="records")
@@ -85,7 +99,10 @@ def index():
         queries=label_encoders["Search_Query"].classes_,
         probability=probability,
         prediction=prediction,
-        recommendations=recommendations
+        recommendations=recommendations,
+        selected_gender=selected_gender,
+        selected_location=selected_location,
+        selected_query=selected_query
     )
 
 
