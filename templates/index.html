@@ -28,23 +28,29 @@
     <div class="card">
         <form method="POST">
 
-            <select name="gender">
-                {% for g in genders %}
-                <option value="{{ g }}">{{ g }}</option>
-                {% endfor %}
-            </select>
+ <select name="gender">
+    {% for g in genders %}
+    <option value="{{ g }}" {% if g == selected_gender %}selected{% endif %}>
+        {{ g }}
+    </option>
+    {% endfor %}
+</select>
 
-            <select name="location">
-                {% for l in locations %}
-                <option value="{{ l }}">{{ l }}</option>
-                {% endfor %}
-            </select>
+<select name="location">
+    {% for l in locations %}
+    <option value="{{ l }}" {% if l == selected_location %}selected{% endif %}>
+        {{ l }}
+    </option>
+    {% endfor %}
+</select>
 
-            <select name="search_query">
-                {% for q in queries %}
-                <option value="{{ q }}">{{ q }}</option>
-                {% endfor %}
-            </select>
+<select name="search_query">
+    {% for q in queries %}
+    <option value="{{ q }}" {% if q == selected_query %}selected{% endif %}>
+        {{ q }}
+    </option>
+    {% endfor %}
+</select>
 
             <button type="submit">✨ Check</button>
         </form>
