@@ -83,11 +83,42 @@ def index():
 
         input_df = input_df[X.columns]
 
-        prediction = model.predict(input_df)[0]
-        probability = round(model.predict_proba(input_df)[0][1] * 100, 2)
+        # ==============================
+        # PREDICTION + BOOST LOGIC
+        # ==============================
 
-        # Recommendations (Rating based)
-        filtered_products = display_df[display_df["Search_Query"] == selected_query]
+        raw_prob = model.predict_proba(input_df)[0][1]   # value between 0 and 1
+
+        # 🎯 Manual Boost Dictionary
+        boost_products = {
+            "laptop": 0.20,
+            "mobile": 0.15,
+            "headphones": 0.10
+        }
+
+        if selected_query and selected_query.lower() in boost_products:
+            raw_prob += boost_products[selected_query.lower()]
+
+        # Prevent probability > 1
+        raw_prob = min(raw_prob, 1.0)
+
+        probability = round(raw_prob * 100, 2)
+
+        # 🎯 Custom Threshold
+        threshold = 0.3
+
+        if raw_prob > threshold:
+            prediction = 1
+        else:
+            prediction = 0
+
+        # ==============================
+        # RECOMMENDATIONS (Rating Based)
+        # ==============================
+        filtered_products = display_df[
+            display_df["Search_Query"] == selected_query
+        ]
+
         recommendations = filtered_products.sort_values(
             by="Rating", ascending=False
         ).head(5).to_dict(orient="records")
@@ -104,7 +135,6 @@ def index():
         selected_location=selected_location,
         selected_query=selected_query
     )
-
 
 if __name__ == "__main__":
     app.run(debug=True)
